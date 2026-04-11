@@ -49,9 +49,10 @@ export default function ValueProposition() {
             >
               <div
                 className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
-                style={{ backgroundImage: `url('${card.image}')` }}
+                style={{ backgroundImage: `url('${card.image}')`, filter: 'grayscale(100%)' }}
               />
               <div className="absolute inset-0" style={{ background: 'linear-gradient(rgba(0,0,0,0.39), rgba(0,0,0,0.39))' }} />
+              <div className="absolute inset-0 pointer-events-none" style={{ opacity: 0.08, backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E")`, backgroundRepeat: 'repeat', backgroundSize: '128px 128px' }} />
               {/* Hover overlay - matches alkeme insurance_tab-box-overlay */}
               <div
                 className="absolute inset-0 bg-brand opacity-0 group-hover:opacity-70"
