@@ -85,7 +85,7 @@ export default function Header() {
   return (
     <>
       <style>{`@keyframes fadeIn { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: translateY(0); } }`}</style>
-      <header ref={navRef} className="fixed top-0 left-0 right-0 z-[999] bg-stone" style={{ padding: '1.25rem 0', boxShadow: '0 2px 7px rgba(0,0,0,0.2)', transition: 'transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)' }}>
+      <header ref={navRef} className="fixed top-0 left-0 right-0 z-[999] bg-stone" role="navigation" aria-label="Site navigation" style={{ padding: '1.25rem 0', boxShadow: '0 2px 7px rgba(0,0,0,0.2)', transition: 'transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94)' }}>
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
           <div className="flex items-center justify-between">
             <a href="https://alkemeins.com" className="shrink-0 no-underline">
@@ -105,7 +105,7 @@ export default function Header() {
             </button>
           </div>
         </div>
-        <div className="lg:hidden bg-stone overflow-hidden" style={{ maxHeight: mobileOpen ? '90vh' : '0', transition: 'max-height 0.4s ease', borderTop: mobileOpen ? '1px solid #e3e3d8' : 'none' }}>
+        <div className="lg:hidden bg-stone overflow-hidden" aria-hidden="true" style={{ maxHeight: mobileOpen ? '90vh' : '0', transition: 'max-height 0.4s ease', borderTop: mobileOpen ? '1px solid #e3e3d8' : 'none' }}>
           <div className="px-6 py-6 space-y-1 max-h-[80vh] overflow-y-auto">
             <span className="block text-blue-dark uppercase tracking-[0.12em] font-bold pb-2 border-b border-ash mb-3" style={{ fontSize: '0.65rem' }}>Coverage</span>
             {coverageItems.map((item) => (
