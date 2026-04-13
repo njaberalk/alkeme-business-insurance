@@ -26,6 +26,9 @@ export default function Hero() {
       </div>
       <div className="relative">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
+          <p className="absolute" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
+            ALKEME Insurance Services provides business insurance including general liability, workers comp, property, cyber, and professional liability for businesses in all 50 states.
+          </p>
           <h1 className="font-extrabold tracking-tight mb-6" style={{ fontSize: 'clamp(2.8rem, 5.5vw, 5.5rem)', lineHeight: '1', letterSpacing: '-0.02em', textShadow: '0 2px 20px rgba(0,0,0,0.3)', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(30px)', transition: 'opacity 0.7s ease 0.1s, transform 0.7s ease 0.1s' }}>
             <span className="text-stone">Your Business,</span><br />
             <span className="text-gold">Fully Protected.</span>
