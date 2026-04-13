@@ -26,18 +26,15 @@ export default function Hero() {
       </div>
       <div className="relative">
         <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
-          <p className="absolute" style={{ position: 'absolute', width: '1px', height: '1px', padding: 0, margin: '-1px', overflow: 'hidden', clip: 'rect(0,0,0,0)', whiteSpace: 'nowrap', borderWidth: 0 }}>
-            ALKEME Insurance Services provides business insurance including general liability, workers comp, property, cyber, and professional liability for businesses in all 50 states.
-          </p>
           <h1 className="font-extrabold tracking-tight mb-6" style={{ fontSize: 'clamp(2.8rem, 5.5vw, 5.5rem)', lineHeight: '1', letterSpacing: '-0.02em', textShadow: '0 2px 20px rgba(0,0,0,0.3)', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(30px)', transition: 'opacity 0.7s ease 0.1s, transform 0.7s ease 0.1s' }}>
             <span className="text-stone">Your Business,</span><br />
             <span className="text-gold">Fully Protected.</span>
           </h1>
           <p className="text-cream font-medium mb-12" style={{ fontSize: '1.25rem', lineHeight: '1.65', maxWidth: '550px', textShadow: '0 1px 8px rgba(0,0,0,0.2)', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s' }}>
-            Commercial insurance for businesses of all sizes. We cover general liability, workers' comp, property, cyber, and more — in all 50 states.
+            We help businesses find the right commercial insurance. Our team covers general liability, workers comp, property, and more. We serve businesses of all sizes in all 50 states.
           </p>
           <p className="text-cream/80 mb-8" style={{ fontSize: '0.95rem', lineHeight: '1.6', maxWidth: '550px', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.38s, transform 0.6s ease 0.38s' }}>
-            ALKEME Insurance Services provides commercial business insurance including general liability, workers' compensation, commercial property, cyber liability, and professional liability for businesses of all sizes across all 50 states.
+            ALKEME is a licensed insurance broker. We offer business insurance such as general liability, workers comp, and commercial property. We serve businesses in every state.
           </p>
           <div style={{ opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.45s, transform 0.6s ease 0.45s' }}>
             <a href="https://alkemeins.com/form" className="inline-flex items-center justify-center border-2 border-brand bg-brand text-stone text-center uppercase tracking-[0.16em] rounded-[2rem] font-semibold hover:border-stone hover:bg-stone hover:text-brand no-underline" style={{ padding: '0.8rem 2.5rem 0.7rem', fontSize: '0.75rem', lineHeight: '2', transition: 'all 0.24s' }}>
