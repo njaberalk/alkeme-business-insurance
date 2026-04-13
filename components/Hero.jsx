@@ -31,7 +31,10 @@ export default function Hero() {
             <span className="text-gold">Fully Protected.</span>
           </h1>
           <p className="text-cream font-medium mb-12" style={{ fontSize: '1.25rem', lineHeight: '1.65', maxWidth: '550px', textShadow: '0 1px 8px rgba(0,0,0,0.2)', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.3s, transform 0.6s ease 0.3s' }}>
-            Tailored commercial insurance programs that protect your people, your assets, and your growth — so you can focus on what you do best.
+            Commercial insurance for businesses of all sizes. We cover general liability, workers' comp, property, cyber, and more — in all 50 states.
+          </p>
+          <p className="text-cream/80 mb-8" style={{ fontSize: '0.95rem', lineHeight: '1.6', maxWidth: '550px', opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.38s, transform 0.6s ease 0.38s' }}>
+            ALKEME Insurance Services provides commercial business insurance including general liability, workers' compensation, commercial property, cyber liability, and professional liability for businesses of all sizes across all 50 states.
           </p>
           <div style={{ opacity: loaded ? 1 : 0, transform: loaded ? 'translateY(0)' : 'translateY(20px)', transition: 'opacity 0.6s ease 0.45s, transform 0.6s ease 0.45s' }}>
             <a href="https://alkemeins.com/form" className="inline-flex items-center justify-center border-2 border-brand bg-brand text-stone text-center uppercase tracking-[0.16em] rounded-[2rem] font-semibold hover:border-stone hover:bg-stone hover:text-brand no-underline" style={{ padding: '0.8rem 2.5rem 0.7rem', fontSize: '0.75rem', lineHeight: '2', transition: 'all 0.24s' }}>
