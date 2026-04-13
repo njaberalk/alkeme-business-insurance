@@ -1,547 +1,636 @@
 export const coverages = [
   {
-    slug: 'auto-liability',
-    title: 'Primary Auto Liability',
-    metaTitle: 'Trucking Auto Liability Insurance',
-    metaDescription: 'Primary auto liability insurance for trucking companies and owner-operators. Federally required coverage for bodily injury and property damage claims on the ...',
-    heroHeading: 'Primary Auto Liability Insurance',
-    heroSubheading:
-      'Federally mandated protection that covers bodily injury and property damage caused by your commercial vehicles.',
-    overview:
-      'Primary auto liability is the foundational coverage every trucking operation must carry. It responds when your driver is at fault in an accident, paying for injuries to other parties and damage to their property up to your policy limit. Federal regulations under FMCSA require minimum limits ranging from $750,000 to $5,000,000 depending on the commodities you haul, making this the single most important policy in any fleet insurance program.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Primary auto liability pays for bodily injury and property damage that your covered vehicles cause to third parties. This includes medical expenses, lost wages, pain and suffering, legal defense costs, and repair or replacement of damaged property. The policy responds regardless of which driver is behind the wheel, provided they are operating under your authority.\n\nCoverage extends to accidents on public roads, at shipper and receiver facilities, and in any location where your vehicle is legally permitted to operate. Defense costs are typically covered in addition to your liability limit, meaning your full policy amount remains available for settlements and judgments.\n\nIt is important to understand that primary auto liability does not cover damage to your own vehicle or cargo. Those exposures require separate physical damage and motor truck cargo policies. Auto liability strictly addresses your financial obligation to others when your operations cause harm.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Every motor carrier operating under its own USDOT number and MC authority is required by federal law to maintain primary auto liability coverage. This applies to for-hire carriers, private carriers hauling their own goods, and owner-operators leased onto a carrier who need coverage under their own authority during periods of non-dispatch.\n\nThe FMCSA sets minimum financial responsibility requirements based on what you transport. General freight carriers must carry at least $750,000 in coverage, while haulers of hazardous materials face minimums of $1,000,000 or $5,000,000. Many shippers and brokers contractually require limits well above the federal floor, with $1,000,000 being standard for general commodities.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'A single serious trucking accident can generate claims that dwarf the federal minimum limits. Jury verdicts exceeding $10,000,000 in trucking cases have become increasingly common, a trend the industry calls nuclear verdicts. Without adequate auto liability limits, a catastrophic claim can bankrupt a motor carrier overnight.\n\nBeyond financial protection, maintaining proper auto liability coverage is a condition of your operating authority. A lapse in coverage triggers an automatic revocation process with the FMCSA, shutting down your ability to legally operate. Brokers and shippers verify your coverage status in real time through FMCSA databases, so even a brief gap can cost you freight contracts.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Bodily injury liability for third-party medical costs, rehabilitation, and lost income',
-          'Property damage liability for vehicles, structures, and infrastructure you damage',
-          'Legal defense costs typically paid in addition to your coverage limit',
-          'MCS-90 endorsement filed with the FMCSA to satisfy financial responsibility requirements',
-          'Hired auto coverage available for vehicles you rent or borrow for business use',
-          'Coverage for all scheduled power units and drivers listed on your policy',
-          'Automatic coverage for newly acquired vehicles within a specified reporting window',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the minimum auto liability limit required for trucking companies?',
-        a: 'The FMCSA requires a minimum of $750,000 for general freight carriers. Carriers transporting hazardous materials must carry $1,000,000 or $5,000,000 depending on the specific commodity. Many shippers and brokers require $1,000,000 as a contractual minimum regardless of what you haul.',
-      },
-      {
-        q: 'Does primary auto liability cover my truck if it is damaged in an accident?',
-        a: 'No. Primary auto liability only covers damage and injuries you cause to other parties. To protect your own vehicles, you need a separate physical damage policy that includes collision and comprehensive coverage.',
-      },
-      {
-        q: 'What happens if my auto liability coverage lapses?',
-        a: 'The FMCSA is notified of any coverage lapse and will begin revocation proceedings against your operating authority. Your carrier status changes to "not authorized" in the FMCSA database, which brokers and shippers check before tendering loads. Even a single day without coverage can result in lost contracts and regulatory penalties.',
-      },
-      {
-        q: 'What is the MCS-90 endorsement?',
-        a: 'The MCS-90 is a federal endorsement attached to your auto liability policy that guarantees minimum financial responsibility to the public. It ensures that your insurer will pay valid claims even if a technical policy exclusion might otherwise apply. The MCS-90 is required for all for-hire interstate motor carriers.',
-      },
-    ],
-    relatedCoverages: ['physical-damage', 'umbrella-excess-liability', 'general-liability'],
-  },
-
-  {
-    slug: 'physical-damage',
-    title: 'Physical Damage',
-    metaTitle: 'Truck Physical Damage Insurance',
-    metaDescription: 'Physical damage insurance for commercial trucks and trailers. Collision and comprehensive coverage to protect your fleet investment against accidents, theft,...',
-    heroHeading: 'Physical Damage Insurance',
-    heroSubheading:
-      'Collision and comprehensive protection that safeguards the trucks, tractors, and trailers your business depends on.',
-    overview:
-      'Physical damage insurance covers the cost of repairing or replacing your own commercial vehicles when they are damaged in an accident, stolen, vandalized, or affected by weather events. Unlike auto liability, which protects other parties, physical damage protects your fleet investment. For owner-operators with financed equipment, lenders will require this coverage as a condition of the loan or lease.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Physical damage policies include two core components: collision and comprehensive. Collision coverage pays to repair or replace your vehicle after it strikes another object or overturns, regardless of fault. Comprehensive coverage handles non-collision events including theft, fire, vandalism, windstorm, hail, flood, and animal strikes.\n\nMost policies also offer coverage for permanently attached equipment such as refrigeration units, lift gates, and specialized bodies. You can typically add coverage for spare parts, portable electronics, and personal property kept in the cab. Towing and emergency roadside labor costs are frequently included or available as endorsements.\n\nCoverage is typically written on an actual cash value basis, meaning the insurer pays the market value of the vehicle at the time of loss minus your deductible. Stated amount and agreed value options are available for trucks with custom builds or equipment that might be undervalued by standard depreciation calculations.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Any fleet owner or owner-operator with a significant financial stake in their equipment should carry physical damage coverage. If you are financing or leasing your truck, your lender will mandate collision and comprehensive coverage with specified deductibles and limits. Even if you own your equipment outright, replacing a $150,000 tractor out of pocket after a total loss would be devastating to most operations.\n\nPhysical damage is especially critical for newer equipment, specialized vehicles with custom upfits, and any truck that would be difficult to replace quickly. The decision to self-insure older, fully depreciated units is a calculated risk that depends on your cash reserves and the cost of downtime.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'Commercial trucks represent one of the largest capital investments in any trucking operation. A total loss without insurance coverage can put a single-truck owner-operator permanently out of business and strain even a large fleet\'s balance sheet. Beyond the replacement cost of the truck itself, extended downtime while sourcing a replacement means lost revenue, missed contract obligations, and driver retention challenges.\n\nPhysical damage coverage converts an unpredictable catastrophic expense into a manageable, budgeted cost. By selecting appropriate deductibles, you can balance your premium expense against your ability to absorb smaller losses, keeping your operation financially resilient against the unexpected.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Collision coverage for accidents involving other vehicles, objects, or rollovers',
-          'Comprehensive coverage for theft, fire, vandalism, weather, and animal strikes',
-          'Actual cash value, stated amount, or agreed value settlement options',
-          'Coverage for permanently installed equipment like reefer units and lift gates',
-          'Downtime or rental reimbursement while your truck is being repaired',
-          'Towing and roadside labor coverage for emergency recovery',
-          'Flexible deductible options to manage your premium costs',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the difference between collision and comprehensive coverage?',
-        a: 'Collision covers damage to your vehicle when it hits another object or rolls over, regardless of fault. Comprehensive covers non-collision events like theft, fire, hail, vandalism, flooding, and animal strikes. Together they provide complete physical damage protection for your equipment.',
-      },
-      {
-        q: 'How are physical damage claims valued?',
-        a: 'Most claims are settled on an actual cash value basis, which is the market value of your vehicle at the time of loss minus your deductible. If you have a custom or specialty vehicle that may be undervalued by standard depreciation, you can choose a stated amount or agreed value policy to lock in a predetermined payout.',
-      },
-      {
-        q: 'Should I carry physical damage on older trucks?',
-        a: 'It depends on your financial situation. If you can afford to replace the truck out of pocket without disrupting your business, dropping physical damage on a low-value unit can reduce premiums. If a total loss would cause serious financial hardship or extended downtime, maintaining coverage is the safer choice.',
-      },
-      {
-        q: 'Does physical damage insurance cover my trailer?',
-        a: 'Yes, trailers you own can be scheduled on your physical damage policy. Trailers you pull under a trailer interchange agreement with another party require a separate trailer interchange policy, as your physical damage coverage typically excludes non-owned trailers.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'motor-truck-cargo', 'trailer-interchange'],
-  },
-
-  {
-    slug: 'motor-truck-cargo',
-    title: 'Motor Truck Cargo',
-    metaTitle: 'Motor Truck Cargo Insurance for Carriers',
-    metaDescription:
-      'Motor truck cargo insurance protects freight in transit against damage, theft, and loss. Essential coverage for for-hire trucking companies and owner-operators.',
-    heroHeading: 'Motor Truck Cargo Insurance',
-    heroSubheading:
-      'Protects the freight you haul against loss or damage from the moment it loads until final delivery.',
-    overview:
-      'Motor truck cargo insurance covers the value of goods you are transporting on behalf of shippers. As a for-hire carrier, you are legally liable for the freight in your custody under the Carmack Amendment, which establishes strict liability for loss and damage during transit. Cargo insurance transfers that financial risk to your insurer, covering claims for stolen, damaged, or destroyed shipments up to your policy limit.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Motor truck cargo insurance covers the shipper\'s goods while they are in your care, custody, and control during transit. Covered perils typically include collision, overturning, fire, theft, loading and unloading accidents, and weather-related damage. Most policies are written on a broad form or all-risk basis, meaning they cover all causes of loss except those specifically excluded.\n\nCoverage begins when freight is loaded onto your vehicle and continues until it is delivered to the designated consignee. Some policies extend coverage to temporary storage at terminals or warehouses during the normal course of transit. Refrigeration breakdown coverage, also called reefer breakdown, is available as an endorsement for temperature-sensitive loads.\n\nStandard exclusions typically include losses due to improper packaging by the shipper, inherent vice of the cargo, shipper fraud, acts of war, and nuclear hazards. Understanding your policy exclusions is essential because a denied cargo claim comes directly out of your pocket and can severely damage your relationship with shippers and brokers.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'All for-hire motor carriers need cargo insurance. While the FMCSA does not mandate specific cargo insurance limits for most carriers, the legal liability you assume under the Carmack Amendment means going without coverage is an enormous financial gamble. A single truckload of consumer electronics, pharmaceuticals, or industrial equipment can easily exceed $200,000 in value.\n\nBrokers and shippers universally require cargo coverage as a condition of doing business, with $100,000 being a common minimum requirement and many requiring $250,000 or more. Owner-operators leased to a motor carrier are typically covered under the carrier\'s cargo policy while under dispatch, but should verify this coverage and understand any gaps.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'Under the Carmack Amendment, you are liable for the full value of freight that is lost or damaged while in your possession, with very limited exceptions. Without cargo insurance, a single stolen load or a reefer failure on a high-value perishable shipment can wipe out months of operating profit.\n\nCargo claims also have a reputational dimension. Shippers and brokers track carrier claim histories, and repeated uninsured losses signal an unreliable operation. A strong cargo insurance program demonstrates professionalism, protects your balance sheet, and keeps you competitive when bidding for premium freight.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Broad form or all-risk coverage for most causes of freight loss and damage',
-          'Coverage from loading through final delivery at destination',
-          'Refrigeration breakdown endorsement for temperature-controlled loads',
-          'Debris removal coverage for clearing a spill after an accident',
-          'Earned freight charges reimbursement when a load is a total loss',
-          'Coverage limits from $100,000 to $500,000 or higher based on the value of freight you haul',
-          'Per-vehicle and per-occurrence limit options to match your exposure',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the Carmack Amendment and how does it affect my liability?',
-        a: 'The Carmack Amendment is a federal law that establishes strict liability for motor carriers over freight in their possession. It means you are responsible for the full value of lost or damaged cargo unless you can prove the loss was caused by an act of God, a public enemy, the shipper\'s own actions, or an inherent defect in the goods. This strict standard makes cargo insurance essential.',
-      },
-      {
-        q: 'How much cargo insurance do I need?',
-        a: 'Your limit should match the maximum value of any single load you transport. Most general freight carriers carry limits between $100,000 and $250,000. If you haul high-value commodities like electronics, pharmaceuticals, or machinery, you may need $500,000 or more. Review your broker and shipper contracts for their specific requirements.',
-      },
-      {
-        q: 'Does cargo insurance cover refrigeration breakdown?',
-        a: 'Standard cargo policies typically exclude losses caused by mechanical breakdown of your refrigeration unit. However, a reefer breakdown endorsement can be added to your policy to cover spoilage and damage resulting from reefer malfunction. This endorsement is essential if you haul temperature-sensitive freight.',
-      },
-      {
-        q: 'Am I covered for theft of cargo left in an unattended truck?',
-        a: 'Coverage varies by policy. Many cargo policies exclude theft from unattended vehicles unless specific security measures were in place, such as locked trailers, sealed doors, or parking in a secured facility. Review your policy\'s theft provisions carefully and follow your insurer\'s requirements for securing loads during stops.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'general-liability', 'trailer-interchange'],
-  },
-
-  {
     slug: 'general-liability',
-    title: 'General Liability',
-    metaTitle: 'Trucking General Liability Insurance',
+    title: 'General Liability Insurance',
+    metaTitle: 'General Liability Insurance for Businesses | ALKEME Insurance Services',
     metaDescription:
-      'General liability insurance for trucking companies covering premises injuries, completed operations, and advertising claims beyond the scope of auto liability.',
+      'Protect your business from third-party bodily injury, property damage, advertising injury, and completed operations claims with comprehensive general liability coverage.',
     heroHeading: 'General Liability Insurance',
     heroSubheading:
-      'Covers injury and property damage claims arising from your business premises, operations, and completed work.',
+      'Foundational protection against third-party bodily injury, property damage, and advertising injury claims that every business needs.',
     overview:
-      'General liability insurance, also called commercial general liability or CGL, protects your trucking business against claims that fall outside your auto liability policy. It covers bodily injury and property damage occurring at your terminal, yard, or office, as well as claims arising from your completed operations after freight is delivered. General liability is a core component of a well-rounded commercial insurance program and is frequently required by landlords, customers, and contractual partners.',
+      'General liability insurance is the cornerstone of any commercial insurance program. It protects your business when a third party suffers bodily injury or property damage as a result of your operations, products, or premises. Nearly every lease, contract, and vendor agreement requires proof of general liability coverage, making it the single most essential policy for businesses of all sizes and industries.',
     sections: [
       {
-        heading: 'What It Covers',
+        heading: 'What General Liability Covers',
         content:
-          'General liability covers three main categories of risk. Premises liability responds when someone is injured on property you own, lease, or control, such as a visitor who slips on ice in your truck yard or a vendor who is struck by a forklift at your terminal. Operations liability covers injuries and damage arising from your business activities that are not vehicle-related, including loading dock operations and warehouse work.\n\nCompleted operations coverage, the second major component, protects you after a job is finished. If freight you delivered was improperly secured and falls off a shelf at the consignee\'s warehouse injuring a worker, completed operations coverage responds. This is particularly important for carriers that provide ancillary services like lumper work, installation, or white glove delivery.\n\nThe third component, personal and advertising injury, covers claims of libel, slander, copyright infringement, and false advertising. While less common in trucking, these exposures exist for any company that markets its services publicly.',
+          'General liability insurance responds to three broad categories of risk: bodily injury, property damage, and personal and advertising injury. When a customer slips on a wet floor in your retail store, when your employee accidentally damages a client\'s property while performing service work, or when a competitor alleges that your advertising campaign copied their trade dress, your general liability policy provides both defense costs and indemnity payments.\n\nThe policy also includes products-completed operations coverage, which protects against claims arising after you have delivered a product or finished a job. If a contractor installs wiring that later causes a fire, or a manufacturer sells a component that fails and injures the end user, this coverage responds even though the work was completed months or years earlier.\n\nDefense costs under a standard commercial general liability policy are paid in addition to the policy limits, which means your full coverage amount remains available for settlements and judgments. This is a critical distinction from many other policy forms where defense costs erode the available limits.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'Who Needs General Liability Insurance',
         content:
-          'Every trucking company with a physical location, employees, or customer-facing operations needs general liability coverage. If you own or lease a terminal, yard, maintenance shop, or office space, your landlord will almost certainly require it. Shippers and third-party logistics providers frequently include general liability requirements in their carrier agreements.\n\nEven owner-operators who work from home benefit from general liability coverage. A mechanic visiting your home shop, a driver picking up paperwork, or a business meeting at your residence could all generate a premises liability claim. General liability fills the gap between what your auto policy covers and the full scope of your business exposure.',
+          'Virtually every business that interacts with the public, enters contracts, or operates out of a physical location needs general liability insurance. Landlords require it as a condition of commercial leases. General contractors require it from every subcontractor on a job site. Government agencies require it for permits and licensing. Banks and lenders require it as a condition of business loans.\n\nService businesses face premises liability exposure from every client who visits their office. Retailers face product liability exposure from every item on their shelves. Contractors face completed operations exposure from every project they finish. Even home-based businesses and sole proprietors carry meaningful third-party liability risk that personal homeowners insurance will not cover.\n\nBusinesses that operate without general liability coverage expose their owners to personal financial liability for claims. In many states, operating without adequate liability coverage can also result in the loss of professional licenses, permits, and the ability to bid on contracts.',
       },
       {
-        heading: 'Why It Matters',
+        heading: 'How General Liability Policies Are Structured',
         content:
-          'Auto liability policies are specifically limited to claims arising from the operation of covered vehicles. Any claim that occurs off the road or after delivery is excluded from your auto policy entirely. Without general liability, your business is unprotected against a significant category of risk that includes some of the most common small business claims, such as slip-and-fall injuries and property damage at your facilities.\n\nGeneral liability also provides contractual liability coverage, which is essential when you sign contracts that require you to indemnify and hold harmless other parties. Without this coverage, those contractual obligations are backed only by your business assets, putting everything you have built at risk.',
+          'A standard commercial general liability policy carries two key limits: the per-occurrence limit, which is the maximum the insurer will pay for any single claim or incident, and the general aggregate limit, which caps the total amount the insurer will pay during the policy period for all claims combined. A common structure is $1,000,000 per occurrence with a $2,000,000 general aggregate.\n\nThe policy also contains sublimits for specific coverage parts. Personal and advertising injury typically shares the per-occurrence limit. Products-completed operations carries its own aggregate, usually equal to the general aggregate. Damage to rented premises has a separate sublimit, commonly $100,000 or $300,000, which responds when you damage a space you are leasing.\n\nPremiums are calculated based on your industry classification code, annual revenue or payroll, claims history, and the specific operations you perform. Businesses in higher-risk industries such as construction or manufacturing will pay more than office-based professional services firms.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Premises liability for injuries at your yard, terminal, or office',
-          'Operations liability for non-vehicle-related business activities',
-          'Completed operations coverage for claims after freight delivery',
-          'Personal and advertising injury coverage for libel, slander, and related claims',
-          'Contractual liability for hold-harmless and indemnification agreements',
-          'Medical payments coverage for minor injuries regardless of fault',
-          'Products liability for goods you manufacture, sell, or distribute',
+          'Premises liability for injuries occurring on property you own, rent, or occupy',
+          'Products-completed operations coverage for claims arising after delivery or project completion',
+          'Personal and advertising injury protection against libel, slander, copyright infringement, and false advertising',
+          'Medical payments coverage providing no-fault payment for minor injuries on your premises',
+          'Damage to rented premises coverage for fire and other damage to leased spaces',
+          'Blanket additional insured endorsements available to satisfy contractual requirements',
+          'Waiver of subrogation endorsements for contract compliance',
+          'Defense costs paid in addition to policy limits under standard ISO forms',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What is the difference between auto liability and general liability?',
-        a: 'Auto liability covers claims arising from the operation of your vehicles on the road. General liability covers everything else, including injuries at your business premises, non-vehicle-related operations, and claims arising after delivery is complete. Both policies are necessary for comprehensive protection.',
+        q: 'What is the difference between general liability and professional liability insurance?',
+        a: 'General liability covers bodily injury, property damage, and advertising injury caused by your operations or premises. Professional liability, also called errors and omissions insurance, covers claims arising from mistakes, negligence, or failure to perform in your professional services. A consultant whose advice leads to a client\'s financial loss needs professional liability. A consultant whose client trips over a power cord in their office needs general liability. Most businesses that provide professional services need both policies.',
       },
       {
-        q: 'What limits should a trucking company carry for general liability?',
-        a: 'Most trucking companies carry a general liability policy with a $1,000,000 per-occurrence limit and a $2,000,000 general aggregate. Your specific needs depend on the size of your operation, your lease agreements, and the contractual requirements of your customers and brokers.',
+        q: 'How much general liability coverage does my business need?',
+        a: 'Most small to mid-sized businesses carry $1,000,000 per occurrence and $2,000,000 aggregate limits as a baseline. Many commercial leases and contracts require these minimums. Businesses with higher exposure, such as contractors or manufacturers, often need higher limits achieved through a commercial umbrella or excess liability policy. Your agent can help you evaluate your contractual requirements, risk profile, and asset exposure to determine the right coverage level.',
       },
       {
-        q: 'Does general liability cover damage to customer property at my terminal?',
-        a: 'Yes. If customer property is damaged while at your terminal or yard due to your negligence, such as a forklift striking a pallet of goods, general liability covers the resulting claim. However, damage to goods while in transit is covered by your motor truck cargo policy, not general liability.',
+        q: 'Does general liability cover employee injuries?',
+        a: 'No. Injuries to your own employees are covered by workers\' compensation insurance, not general liability. General liability specifically covers injuries to third parties, meaning customers, vendors, visitors, and members of the public. If an employee is injured on the job, your workers\' compensation policy provides their medical benefits and wage replacement.',
+      },
+      {
+        q: 'Can I get general liability as a standalone policy or does it have to be part of a package?',
+        a: 'General liability can be purchased as a standalone policy, but most small businesses benefit from a Business Owners Policy, which bundles general liability with commercial property coverage and often business interruption coverage at a lower combined premium than purchasing each policy separately. Larger or more complex businesses typically purchase standalone policies to allow for more customized limits and endorsements.',
       },
     ],
-    relatedCoverages: ['auto-liability', 'umbrella-excess-liability', 'workers-compensation'],
+    relatedCoverages: [
+      'commercial-property',
+      'umbrella-excess-liability',
+      'professional-liability',
+    ],
   },
-
-  {
-    slug: 'non-trucking-liability',
-    title: 'Non-Trucking Liability',
-    metaTitle: 'Non-Trucking Liability (Bobtail) Insurance',
-    metaDescription:
-      'Non-trucking liability insurance for owner-operators and leased drivers. Bobtail coverage for personal use of your truck when not under motor carrier dispatch.',
-    heroHeading: 'Non-Trucking Liability Insurance',
-    heroSubheading:
-      'Liability protection for owner-operators using their truck for personal purposes outside of carrier dispatch.',
-    overview:
-      'Non-trucking liability, often called bobtail insurance, provides liability coverage for owner-operators when they are using their truck for personal purposes and are not under dispatch from the motor carrier they lease to. The carrier\'s auto liability policy covers you while hauling loads, but when that dispatch ends and you drive to a restaurant, home, or personal errand, a coverage gap exists. Non-trucking liability fills that gap.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Non-trucking liability covers your legal liability for bodily injury and property damage caused by your truck during personal, non-business use. This includes driving home after delivering a load, running personal errands, deadheading to your residence, or any other use that is not under the direction and control of the motor carrier you are leased to.\n\nThe policy functions exactly like auto liability in these situations, paying for injuries and damage you cause to third parties. It covers legal defense costs, settlements, and judgments up to your policy limit. Most non-trucking policies are written with a $1,000,000 combined single limit.\n\nIt is essential to understand that non-trucking liability does not cover you while engaged in any business use of the vehicle. If you are dispatched, hauling a load, deadheading to a pickup under dispatch, or performing any activity for the carrier\'s benefit, the carrier\'s primary auto liability policy is the applicable coverage.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Non-trucking liability is designed specifically for owner-operators who lease their truck and their services to a motor carrier under a lease agreement. Under this arrangement, the carrier\'s insurance covers the truck while it is under dispatch, but that coverage terminates the moment the dispatch ends and you begin personal use of the vehicle.\n\nIf you own your truck and drive it for any non-business purpose, whether commuting home, visiting family, or running errands, you need non-trucking liability to ensure you have continuous liability coverage. Operating a commercial vehicle without liability insurance is illegal in every state and exposes you to personal financial ruin in the event of an at-fault accident.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'The gap between carrier dispatch coverage and personal use is one of the most misunderstood exposures in trucking. Many owner-operators assume their carrier\'s policy covers them at all times, but that is not the case. The moment you complete a delivery and begin driving for personal reasons, you may be uninsured unless you carry non-trucking liability.\n\nAn at-fault accident while uninsured can result in a personal judgment against you for hundreds of thousands of dollars. It can also lead to license suspension, vehicle impoundment, and the loss of your ability to earn a living. Non-trucking liability provides affordable peace of mind during the hours and miles between dispatches.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Bodily injury and property damage liability during personal use of your truck',
-          'Coverage when not under dispatch or operating under carrier authority',
-          'Legal defense costs for covered claims',
-          'Typically written with a $1,000,000 combined single limit',
-          'Available as a standalone policy for leased owner-operators',
-          'Covers deadheading home after final delivery when dispatch is complete',
-          'Affordable premiums compared to full primary auto liability',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is the difference between non-trucking liability and bobtail insurance?',
-        a: 'The terms are often used interchangeably, but there is a technical distinction. Non-trucking liability covers personal use of your truck when not under dispatch. True bobtail insurance covers driving without a trailer for any purpose, including some business use. Most policies sold as bobtail are actually non-trucking liability policies, so it is important to read the policy language carefully.',
-      },
-      {
-        q: 'Does non-trucking liability cover me while I am deadheading to pick up a load?',
-        a: 'No. If you are deadheading to a shipper under dispatch from your carrier, you are performing business activities and the carrier\'s auto liability policy should be providing coverage. Non-trucking liability only applies when you are not under dispatch and are using the truck for personal reasons.',
-      },
-      {
-        q: 'Do I need non-trucking liability if I never drive my truck for personal use?',
-        a: 'If your truck goes directly from one dispatch to the next without any personal use in between, you may have minimal exposure. However, any trip that is not under carrier dispatch, including driving home, stopping for meals, or running errands, falls outside the carrier\'s policy. Most owner-operators have at least some personal use exposure.',
-      },
-      {
-        q: 'Can I carry non-trucking liability and primary auto liability at the same time?',
-        a: 'Yes, but it is rarely necessary. If you operate under your own authority, you need primary auto liability. If you lease to a carrier, you need non-trucking liability. If you do both at different times, you may carry both policies, but they cover mutually exclusive situations.',
-      },
-    ],
-    relatedCoverages: ['auto-liability', 'physical-damage', 'occupational-accident'],
-  },
-
-  {
-    slug: 'trailer-interchange',
-    title: 'Trailer Interchange',
-    metaTitle: 'Trailer Interchange Insurance for Trucking',
-    metaDescription:
-      'Trailer interchange insurance covers physical damage to non-owned trailers in your possession under a trailer interchange agreement. Protect borrowed equipment.',
-    heroHeading: 'Trailer Interchange Insurance',
-    heroSubheading:
-      'Physical damage coverage for trailers you pull under interchange agreements with other carriers, brokers, or shippers.',
-    overview:
-      'Trailer interchange insurance covers physical damage to trailers that you do not own but are pulling under a written trailer interchange agreement. When you sign an interchange agreement, you assume financial responsibility for damage to the other party\'s trailer while it is in your possession. Your own physical damage policy typically excludes non-owned trailers, creating a significant coverage gap that trailer interchange insurance fills.',
-    sections: [
-      {
-        heading: 'What It Covers',
-        content:
-          'Trailer interchange insurance provides physical damage coverage, including collision and comprehensive, for trailers in your possession under a trailer interchange agreement. Covered perils include collision, fire, theft, vandalism, overturning, and weather events. The policy pays to repair or replace the trailer up to its actual cash value or an agreed amount, minus your deductible.\n\nCoverage applies from the moment you accept custody of the trailer under the interchange agreement until you return it to the owner or their designated agent. This includes time spent in transit, at loading and unloading facilities, and while parked at your yard or a truck stop during the normal course of transportation.\n\nTrailer interchange policies can be written to cover specific interchange partners or on a blanket basis that covers any trailer you pull under a qualifying interchange agreement. Blanket coverage is more flexible and eliminates the need to notify your insurer each time you enter a new interchange arrangement.',
-      },
-      {
-        heading: 'Who Needs It',
-        content:
-          'Any carrier that regularly pulls trailers owned by other parties under interchange agreements needs this coverage. This is common in intermodal operations, port drayage, and less-than-truckload networks where trailers are frequently exchanged between carriers at terminals and rail yards.\n\nThe party requiring the interchange agreement, whether a shipper, broker, or another carrier, will almost always require you to carry trailer interchange insurance as a condition of the agreement. Without it, you are personally liable for the full value of a trailer that can cost $30,000 to $80,000 or more to replace.',
-      },
-      {
-        heading: 'Why It Matters',
-        content:
-          'When you sign a trailer interchange agreement, you take on full financial responsibility for someone else\'s property. Your standard physical damage policy covers only vehicles you own or lease, so a collision or theft involving an interchanged trailer could leave you writing a check for $50,000 or more out of your operating funds.\n\nTrailer interchange insurance is particularly critical in intermodal and drayage operations where trailer damage claims are frequent due to the high volume of trailer handoffs and the challenging operating environments at ports and rail yards. A single stolen container chassis or a fire that destroys a loaded trailer can generate a claim that exceeds many small carriers\' annual profit.',
-      },
-      {
-        heading: 'Key Coverage Features',
-        bullets: [
-          'Collision and comprehensive coverage for non-owned trailers under interchange agreements',
-          'Blanket or scheduled trailer coverage options',
-          'Coverage from acceptance to return of the trailer',
-          'Protection at current replacement cost or actual cash value',
-          'Covers trailers at rest, in transit, and at shipper or receiver facilities',
-          'Available deductible options to manage premium expense',
-          'Satisfies contractual insurance requirements in interchange agreements',
-        ],
-      },
-    ],
-    faqs: [
-      {
-        q: 'What is a trailer interchange agreement?',
-        a: 'A trailer interchange agreement is a written contract where one party transfers physical possession of a trailer to another party for the purpose of transporting a load. The party receiving the trailer assumes responsibility for loss or damage while the trailer is in their custody. These agreements are standard in intermodal, drayage, and LTL operations.',
-      },
-      {
-        q: 'Does my physical damage policy cover trailers I pull under interchange?',
-        a: 'In most cases, no. Standard physical damage policies cover vehicles you own or lease under a long-term agreement. Trailers in your temporary possession under an interchange agreement are typically excluded, which is why dedicated trailer interchange insurance exists.',
-      },
-      {
-        q: 'What is the difference between blanket and scheduled trailer interchange coverage?',
-        a: 'Scheduled coverage lists specific interchange partners or trailers on your policy. Blanket coverage automatically applies to any qualifying trailer you pull under an interchange agreement without needing to notify your insurer each time. Blanket coverage is more flexible and recommended for carriers with frequent interchange activity.',
-      },
-    ],
-    relatedCoverages: ['physical-damage', 'motor-truck-cargo', 'auto-liability'],
-  },
-
   {
     slug: 'workers-compensation',
-    title: "Workers' Compensation",
-    metaTitle: "Trucking Workers' Compensation Insurance",
-    metaDescription: "Workers' compensation insurance for trucking companies covering medical bills, lost wages, and disability benefits for injured employees.",
-    heroHeading: "Workers' Compensation Insurance",
+    title: 'Workers\' Compensation Insurance',
+    metaTitle: 'Workers\' Compensation Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Mandatory workers\' compensation coverage providing wage replacement, medical benefits, and return-to-work programs for employees injured or made ill on the job.',
+    heroHeading: 'Workers\' Compensation Insurance',
     heroSubheading:
-      'State-required coverage providing medical benefits and wage replacement to employees injured on the job.',
+      'Legally required coverage that protects your employees with medical benefits and wage replacement after workplace injuries or illnesses.',
     overview:
-      "Workers' compensation insurance is required in nearly every state for businesses with employees. It covers medical expenses, lost wages, rehabilitation costs, and death benefits for employees who are injured or become ill as a result of their work. For trucking companies, this includes injuries sustained while driving, loading and unloading freight, performing vehicle maintenance, and working at terminals or offices. Workers' comp is both a legal obligation and a critical tool for protecting your workforce and your business.",
+      'Workers\' compensation insurance is a mandatory coverage in nearly every state that provides medical benefits, wage replacement, and rehabilitation services to employees who are injured or become ill as a result of their job duties. It also protects employers from lawsuits by injured employees through the exclusive remedy provision, making it one of the most critical policies in any business insurance program.',
     sections: [
       {
-        heading: 'What It Covers',
+        heading: 'What Workers\' Compensation Covers',
         content:
-          "Workers' compensation provides four main categories of benefits to injured employees. Medical benefits cover all reasonable and necessary treatment related to a work injury, including emergency care, surgery, hospitalization, prescription medication, physical therapy, and ongoing medical management. There is no deductible or copay for the employee.\n\nDisability benefits replace a portion of the employee's lost wages during recovery. These are categorized as temporary total disability, temporary partial disability, permanent total disability, and permanent partial disability, depending on the severity and duration of the impairment. The replacement rate and maximum benefit amounts are set by each state's workers' compensation statute.\n\nRehabilitation benefits cover vocational retraining and job placement services for employees who cannot return to their previous position. Death benefits provide income replacement and funeral expenses to the dependents of an employee killed on the job. Employers' liability coverage, included in most workers' comp policies, protects the business against lawsuits from injured employees in limited circumstances where workers' comp immunity does not apply.",
+          'Workers\' compensation insurance covers the full spectrum of expenses related to workplace injuries and occupational illnesses. This includes emergency medical treatment, hospital stays, surgical procedures, prescription medications, physical therapy, and ongoing rehabilitative care. The coverage responds from the first dollar of medical expense with no deductible applied to the injured employee.\n\nWage replacement benefits, often called indemnity benefits, provide a portion of the employee\'s lost income while they are unable to work. Most states set this at approximately two-thirds of the employee\'s average weekly wage, subject to state-mandated minimum and maximum amounts. Benefits continue for the duration of the disability, with separate schedules for temporary total disability, temporary partial disability, permanent partial disability, and permanent total disability.\n\nIn the most severe cases, workers\' compensation provides death benefits to the dependents of an employee killed on the job. These typically include funeral and burial expenses up to a statutory limit and ongoing income replacement for surviving spouses and dependent children.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'Employer Obligations and Compliance',
         content:
-          "Nearly every trucking company with W-2 employees is legally required to carry workers' compensation insurance. Requirements vary by state, but most states mandate coverage beginning with the first employee. Texas is the only state where private employers can opt out, though doing so exposes the company to significant tort liability.\n\nTrucking operations face unique challenges with workers' comp because drivers travel across multiple states. The policy must comply with the laws of every state where your employees work, which typically means carrying coverage in your home state and filing multi-state endorsements. Companies that hire independent contractors rather than employees may not need workers' comp for those individuals, but misclassification of employees as contractors is a major enforcement focus and can result in severe penalties.",
+          'Workers\' compensation requirements vary by state, but nearly all states mandate that employers carry coverage once they reach a threshold number of employees, often just one. Texas is the only state where private employers can opt out entirely, though doing so exposes the employer to direct employee lawsuits without many common defenses.\n\nEmployers who fail to carry required workers\' compensation coverage face severe penalties including fines that can reach thousands of dollars per day of non-compliance, criminal charges in some states, and personal liability for all medical and indemnity benefits owed to injured workers. State enforcement agencies actively audit businesses and can issue stop-work orders that shut down operations until coverage is obtained.\n\nCompliance also requires prompt reporting of workplace injuries to the insurer, maintaining accurate payroll records by employee classification, and cooperating with the claims investigation and management process. Many states also require employers to post notices informing employees of their workers\' compensation rights.',
       },
       {
-        heading: 'Why It Matters',
+        heading: 'Managing Costs Through Loss Control',
         content:
-          "Trucking consistently ranks among the most dangerous occupations in the United States. Drivers face risks from traffic accidents, lifting injuries, slips and falls at loading docks, and repetitive stress injuries from long hours behind the wheel. A serious injury can generate medical bills exceeding $100,000 and years of wage replacement payments.\n\nBeyond covering employee injuries, workers' compensation provides employer tort immunity. This means employees who receive workers' comp benefits generally cannot sue you for additional damages related to the workplace injury. Without this coverage, a single employee injury lawsuit could result in a judgment that threatens your business's survival. Proper workers' comp coverage protects your employees, satisfies your legal obligations, and shields your business from potentially ruinous litigation.",
+          'Workers\' compensation premiums are directly tied to your claims history through the experience modification rate, commonly called the experience mod or EMR. This factor compares your actual losses to the expected losses for businesses of your size and industry. An EMR above 1.0 means your losses are worse than average and your premiums will be surcharged. An EMR below 1.0 earns a credit.\n\nProactive safety programs, formal return-to-work programs, and effective claims management are the most powerful tools for controlling workers\' compensation costs. Employers who invest in workplace safety training, ergonomic assessments, and job hazard analyses consistently achieve lower injury rates and better EMR scores over time.\n\nReturn-to-work programs that offer modified or transitional duty assignments to injured employees have been shown to reduce total claim costs by 30 to 50 percent. Keeping an injured employee engaged and productive, even in a limited capacity, accelerates their recovery and reduces the indemnity portion of the claim that most heavily impacts your EMR.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Full medical expense coverage for work-related injuries and illnesses',
-          'Wage replacement benefits during temporary or permanent disability',
-          'Vocational rehabilitation for employees unable to return to their prior role',
-          'Death benefits and funeral expense coverage for fatal work injuries',
-          "Employers' liability protection against employee lawsuits",
-          'Multi-state coverage for drivers operating across state lines',
-          'Managed care programs to control costs and improve outcomes',
+          'Medical benefits covering all reasonable and necessary treatment related to the workplace injury',
+          'Wage replacement benefits typically set at two-thirds of the employee\'s average weekly wage',
+          'Vocational rehabilitation and retraining for employees unable to return to their previous role',
+          'Death benefits providing income replacement to surviving dependents',
+          'Employers\' liability coverage protecting against lawsuits that fall outside the workers\' compensation system',
+          'Coverage for occupational diseases and repetitive stress injuries arising from job duties',
+          'Voluntary compensation endorsement extending benefits to exempt employees or officers',
+          'Managed care networks and nurse case management to optimize treatment outcomes',
         ],
       },
     ],
     faqs: [
       {
-        q: "How are workers' compensation premiums calculated for trucking companies?",
-        a: "Premiums are based on your total payroll, the classification codes assigned to your employees' job duties, and your experience modification rate, which reflects your claims history relative to similar businesses. Long-haul drivers, local drivers, warehouse workers, and office staff each have different classification codes with different base rates.",
+        q: 'Is workers\' compensation insurance required for every business?',
+        a: 'Requirements vary by state, but the vast majority of states require workers\' compensation coverage once a business employs at least one person. Some states exempt certain categories such as sole proprietors, partners, corporate officers, or agricultural workers, but these exemptions are narrow. Even in states with exemptions, carrying coverage is strongly recommended to avoid personal liability exposure.',
       },
       {
-        q: 'What is an experience modification rate?',
-        a: 'The experience modification rate, or e-mod, is a multiplier applied to your premium that reflects your company\'s claims history compared to the industry average. An e-mod of 1.0 is average. A rate below 1.0 means fewer claims than average and results in lower premiums. A rate above 1.0 means more claims than average and increases your costs.',
+        q: 'What is an experience modification rate and how does it affect my premiums?',
+        a: 'The experience modification rate, or EMR, is a multiplier applied to your workers\' compensation premium that reflects your claims history relative to similar businesses in your industry. An EMR of 1.0 is average. A score above 1.0 increases your premium, while a score below 1.0 reduces it. The EMR is calculated using three years of loss data, excluding the most recent policy year, and is issued by your state\'s rating bureau.',
       },
       {
-        q: "Do independent contractor drivers need to be covered under my workers' compensation policy?",
-        a: "Legitimate independent contractors are generally not covered under your workers' comp policy. However, if a driver classified as an independent contractor is later determined to be an employee by a state agency or court, you will be liable for unpaid workers' comp premiums and penalties. Proper classification and documentation are critical.",
+        q: 'Does workers\' compensation cover injuries during an employee\'s commute?',
+        a: 'Generally no. Most states follow the going-and-coming rule, which excludes injuries that occur during an employee\'s regular commute to and from work. However, there are important exceptions. Injuries during work-related travel, while running a work errand, or at an employer-controlled parking facility may be covered. The specific rules vary significantly by state.',
       },
       {
-        q: "Does workers' compensation cover injuries that happen in another state?",
-        a: "Yes, but the coverage must be properly structured. Your policy should include an all-states endorsement or list every state where your drivers operate. Benefits are typically governed by the law of the state where the injury occurred or the state of hire, depending on the circumstances. Work with your agent to ensure your policy covers every state in your operating territory.",
+        q: 'Can business owners and officers exclude themselves from workers\' compensation coverage?',
+        a: 'Many states allow sole proprietors, partners, and corporate officers to exclude themselves from workers\' compensation coverage by filing an exemption form. However, this means those individuals have no coverage for their own workplace injuries. Some states require officers to affirmatively opt out, while others automatically exclude them unless they opt in. Consult your state\'s requirements carefully before electing an exclusion.',
       },
     ],
-    relatedCoverages: ['general-liability', 'occupational-accident', 'umbrella-excess-liability'],
+    relatedCoverages: [
+      'general-liability',
+      'employment-practices-liability',
+      'umbrella-excess-liability',
+    ],
   },
-
+  {
+    slug: 'commercial-property',
+    title: 'Commercial Property Insurance',
+    metaTitle: 'Commercial Property Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Protect your buildings, equipment, inventory, and business personal property against fire, theft, weather damage, and other covered perils with commercial property insurance.',
+    heroHeading: 'Commercial Property Insurance',
+    heroSubheading:
+      'Comprehensive coverage for your buildings, equipment, inventory, tenant improvements, and business personal property.',
+    overview:
+      'Commercial property insurance protects the physical assets your business depends on, from the building you occupy to the equipment, inventory, furniture, and technology inside it. Whether you own your facility or lease your space, a commercial property policy ensures that a fire, storm, theft, or other covered peril does not wipe out the physical foundation of your operations.',
+    sections: [
+      {
+        heading: 'What Commercial Property Insurance Covers',
+        content:
+          'Commercial property insurance covers direct physical loss or damage to property you own, lease, or are responsible for. This includes the building itself if you are the owner, as well as business personal property such as furniture, fixtures, machinery, equipment, computers, inventory, raw materials, and supplies. Tenant improvements and betterments, meaning permanent upgrades you have made to a leased space, are also covered.\n\nThe policy responds to covered perils, which can be structured on either a named-perils basis or a special-form (open perils) basis. Named-perils policies only cover the specific risks listed in the policy, such as fire, windstorm, hail, explosion, and theft. Special-form policies cover all risks of direct physical loss unless specifically excluded, providing significantly broader protection. Most commercial property programs are written on a special form.\n\nAdditional coverages commonly built into a commercial property policy include debris removal, preservation of property, fire department service charges, pollutant cleanup and removal, and coverage for valuable papers and records. Many policies also include limited coverage for outdoor property, newly acquired property, and property in transit.',
+      },
+      {
+        heading: 'Valuation Methods and Coverage Limits',
+        content:
+          'One of the most important decisions in a commercial property policy is the valuation method. Replacement cost valuation pays to repair or replace damaged property with materials of like kind and quality at current prices, without deducting for depreciation. Actual cash value deducts depreciation, meaning you receive only the current market value of the damaged property.\n\nReplacement cost coverage consistently results in significantly larger claim payments, particularly for buildings and equipment that have been in service for many years. While it costs more in premium, it provides the financial resources to actually rebuild and re-equip your operation after a major loss.\n\nCoinsurance clauses require you to insure your property to a specified percentage of its full value, typically 80, 90, or 100 percent. If you underinsure and suffer a partial loss, the coinsurance penalty reduces your claim payment proportionally. Agreed value endorsements eliminate the coinsurance penalty by having the insurer agree upfront that your coverage limit is adequate.',
+      },
+      {
+        heading: 'Common Exclusions and Gaps',
+        content:
+          'Standard commercial property policies exclude certain perils that require separate or specialty coverage. Flood damage is excluded and must be covered through the National Flood Insurance Program or a private flood policy. Earthquake damage is excluded in most states and requires a separate endorsement or policy. Equipment breakdown, formerly called boiler and machinery coverage, is typically excluded from the base property form and should be added by endorsement.\n\nOther significant exclusions include damage caused by ordinance or law compliance, which covers the increased cost of rebuilding to current code standards; sewer and drain backup; and utility service interruption. Each of these gaps can be closed with readily available endorsements that your agent should review with you during the policy design process.\n\nCyber-related property damage is an increasingly relevant exclusion. Many property insurers have added cyber exclusions that remove coverage for physical damage caused by cyber events such as a ransomware attack that damages manufacturing equipment. This gap should be addressed through your cyber liability program.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Building coverage for structures you own, including permanently installed fixtures and machinery',
+          'Business personal property coverage for equipment, inventory, furniture, and supplies',
+          'Tenant improvement and betterment coverage for permanent upgrades to leased spaces',
+          'Special-form (open perils) coverage protecting against all risks not specifically excluded',
+          'Replacement cost valuation available to rebuild or replace without depreciation deductions',
+          'Agreed value endorsement eliminating coinsurance penalties',
+          'Ordinance or law coverage for the increased cost of rebuilding to current codes',
+          'Equipment breakdown coverage for mechanical and electrical failure of boilers, HVAC, and machinery',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'What is the difference between replacement cost and actual cash value coverage?',
+        a: 'Replacement cost coverage pays to repair or replace damaged property at current prices without deducting for depreciation. Actual cash value deducts depreciation based on the age and condition of the property, resulting in a lower payout. For example, if a ten-year-old roof is destroyed, replacement cost pays the full cost of a new roof, while actual cash value pays only the depreciated value. Replacement cost provides better protection but comes with a higher premium.',
+      },
+      {
+        q: 'Does commercial property insurance cover flood damage?',
+        a: 'No. Flood damage is specifically excluded from standard commercial property policies. Businesses located in flood-prone areas should purchase a separate flood insurance policy through the National Flood Insurance Program or a private flood insurer. Even businesses outside designated flood zones face some flood risk, and separate flood coverage is relatively affordable for properties in lower-risk zones.',
+      },
+      {
+        q: 'What is a coinsurance clause and how can it affect my claim?',
+        a: 'A coinsurance clause requires you to insure your property to a specified percentage of its total value, typically 80 or 90 percent. If your coverage limit is below this threshold at the time of a loss, the insurer applies a coinsurance penalty that reduces your claim payment proportionally. To avoid this penalty, ensure your coverage limits accurately reflect the full replacement cost of your property, or add an agreed value endorsement that eliminates the coinsurance requirement.',
+      },
+    ],
+    relatedCoverages: [
+      'business-interruption',
+      'general-liability',
+      'cyber-liability',
+    ],
+  },
+  {
+    slug: 'business-interruption',
+    title: 'Business Interruption Insurance',
+    metaTitle: 'Business Interruption Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Replace lost income and cover extra expenses when a covered peril forces your business to suspend operations with business interruption insurance.',
+    heroHeading: 'Business Interruption Insurance',
+    heroSubheading:
+      'Income replacement and extra expense coverage that keeps your business financially whole when a covered loss forces you to shut down or relocate.',
+    overview:
+      'Business interruption insurance replaces lost income and covers additional expenses when a covered peril, such as a fire, storm, or other insured event, forces your business to suspend or reduce operations. While commercial property insurance repairs your physical assets, business interruption coverage protects your revenue stream during the period it takes to get back to normal operations.',
+    sections: [
+      {
+        heading: 'How Business Interruption Coverage Works',
+        content:
+          'Business interruption insurance, also called business income coverage, pays for the net income your business would have earned during the period of restoration plus the continuing operating expenses you must pay even while shut down. This includes fixed costs such as rent or mortgage payments, loan installments, taxes, and payroll for key employees you need to retain.\n\nThe period of restoration begins when the physical damage occurs and ends when the property is repaired, rebuilt, or replaced, or when operations could reasonably be resumed, whichever comes first. Most policies also include an extended period of indemnity, typically 30 to 60 days beyond the restoration period, which covers the ramp-up time needed to return to pre-loss revenue levels.\n\nCritically, business interruption coverage only triggers when there is direct physical loss or damage to covered property caused by a covered peril. The physical damage is the prerequisite. A business that loses revenue due to a pandemic, a supply chain disruption, or a change in market conditions without any physical property damage does not have a business interruption claim under standard policy forms.',
+      },
+      {
+        heading: 'Extra Expense and Contingent Coverage',
+        content:
+          'Extra expense coverage pays for costs above and beyond your normal operating expenses that you incur to continue operations or resume operations more quickly after a loss. This might include the cost of renting temporary office or production space, expedited shipping charges for replacement equipment, overtime labor costs, or the expense of outsourcing critical functions to a third party.\n\nContingent business interruption coverage extends your protection to losses caused by physical damage at the premises of key business partners. If a fire destroys your primary supplier\'s warehouse and they cannot deliver the materials you need to operate, contingent business interruption covers your resulting income loss. Similarly, if a major customer\'s facility is damaged and they cannot purchase your products or services, this coverage responds.\n\nCivil authority coverage provides protection when a government order prohibits access to your premises, even if your own property was not damaged. If a fire in an adjacent building causes authorities to block off the entire street for two weeks, your business interruption policy\'s civil authority provision covers the income you lose during the access restriction, typically for a limited period of 30 days.',
+      },
+      {
+        heading: 'Determining the Right Coverage Amount',
+        content:
+          'The most common mistake businesses make with business interruption insurance is underestimating the coverage amount they need. The limit should be based on a thorough analysis of your projected net income and continuing operating expenses for a 12-month period, because major property losses can take that long or longer to fully restore.\n\nWork with your accountant to develop a business income worksheet that accounts for seasonal fluctuations, growth trends, and all fixed expenses that would continue during a shutdown. Include payroll for employees you would need to retain, debt service obligations, and contractual commitments that cannot be paused. The goal is to ensure that a total loss of your facility does not also mean a total loss of your business.\n\nCoinsurance applies to business interruption coverage just as it does to property coverage. If you insure for less than 80 percent of your projected 12-month business income, a coinsurance penalty will reduce any partial claim. An agreed value endorsement or a monthly limitation of indemnity approach can help manage this exposure.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Business income replacement covering net profit plus continuing fixed operating expenses',
+          'Extra expense coverage for costs to resume operations more quickly',
+          'Extended period of indemnity covering the ramp-up period after repairs are completed',
+          'Contingent business interruption for losses caused by damage at supplier or customer premises',
+          'Civil authority coverage when government orders restrict access to your property',
+          'Ordinary payroll coverage to retain employees during the restoration period',
+          'Utility services time element coverage for losses caused by off-premises utility failures',
+          'Newly acquired locations coverage extending protection to recently purchased or leased properties',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Does business interruption insurance require physical damage to trigger?',
+        a: 'Yes. Under standard policy forms, business interruption coverage requires direct physical loss or damage to covered property caused by a covered peril. Revenue losses from non-physical causes such as economic downturns, pandemics, or supply chain disruptions without accompanying physical damage are not covered. This is one of the most important limitations to understand in your commercial insurance program.',
+      },
+      {
+        q: 'How long does business interruption coverage pay benefits?',
+        a: 'Benefits are paid for the period of restoration, which is the time required to repair, rebuild, or replace the damaged property with reasonable speed. Most policies also include an extended period of indemnity, typically 30 to 60 days beyond the completion of repairs, to cover the time needed to rebuild your customer base and return to pre-loss revenue levels. There is usually a maximum time limit stated in the policy.',
+      },
+      {
+        q: 'What is contingent business interruption and do I need it?',
+        a: 'Contingent business interruption covers your income loss when a key supplier or customer suffers physical property damage that disrupts your operations. If you rely heavily on a small number of suppliers, a sole-source manufacturer, or a few major customers, this coverage can be essential. Evaluate your supply chain dependencies to determine whether contingent business interruption should be part of your program.',
+      },
+    ],
+    relatedCoverages: [
+      'commercial-property',
+      'cyber-liability',
+      'umbrella-excess-liability',
+    ],
+  },
+  {
+    slug: 'professional-liability',
+    title: 'Professional Liability Insurance',
+    metaTitle: 'Professional Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Errors and omissions coverage protecting businesses against claims of negligence, malpractice, and failure to deliver professional services as promised.',
+    heroHeading: 'Professional Liability Insurance',
+    heroSubheading:
+      'Errors and omissions protection for businesses that provide advice, services, or expertise where a mistake could cause a client financial harm.',
+    overview:
+      'Professional liability insurance, commonly known as errors and omissions coverage, protects businesses and individuals who provide professional services or advice against claims alleging negligence, errors, omissions, or failure to perform. Unlike general liability, which covers physical injury and property damage, professional liability responds to financial losses your clients suffer due to your professional acts or failures to act.',
+    sections: [
+      {
+        heading: 'What Professional Liability Covers',
+        content:
+          'Professional liability insurance covers claims alleging that your professional services or advice caused a client financial harm. This includes actual errors in your work, omissions or oversights, failure to deliver services as promised or within agreed timelines, misrepresentation, breach of duty, and negligent acts in the performance of professional services. The policy covers both defense costs and indemnity payments.\n\nUnlike general liability policies where defense costs are typically paid in addition to the policy limits, most professional liability policies are written on a duty-to-defend basis with defense costs included within the policy limits. This means that legal defense expenses reduce the amount available for settlements or judgments, making adequate limits even more important.\n\nProfessional liability policies are written on a claims-made basis rather than an occurrence basis. This means the policy that responds to a claim is the one in force when the claim is first made, not the policy that was in force when the alleged error occurred. This makes continuous, uninterrupted coverage essential and creates the need for tail coverage or an extended reporting period if you change carriers or retire.',
+      },
+      {
+        heading: 'Industries That Need Professional Liability',
+        content:
+          'Any business that provides advice, designs, recommendations, or specialized services needs professional liability insurance. This includes but is not limited to technology companies, consultants, accountants, architects, engineers, attorneys, insurance agents, real estate professionals, marketing agencies, financial advisors, healthcare providers, and staffing firms.\n\nTechnology companies face professional liability exposure from software that fails to perform as specified, implementation projects that go over budget or miss deadlines, and data management services that result in client data loss. Consultants face exposure from strategic advice that leads to poor business outcomes. Design professionals face exposure from errors in plans and specifications that cause project failures or safety issues.\n\nEven businesses that do not think of themselves as providing professional services may need this coverage. A janitorial company that provides consulting on cleaning protocols, a contractor who offers project management services, or a retailer that provides expert product recommendations can all face professional liability claims when their advice or services lead to client losses.',
+      },
+      {
+        heading: 'Claims-Made Coverage and Retroactive Dates',
+        content:
+          'Understanding the claims-made coverage trigger is essential for professional liability insurance. The policy responds to claims first made during the policy period, regardless of when the underlying error occurred, provided the error took place after the policy\'s retroactive date. The retroactive date is typically the date your first claims-made policy with the current or a prior insurer went into effect.\n\nWhen you renew your professional liability policy, whether with the same insurer or a new one, maintaining an unbroken retroactive date is critical. Any gap or advancement of the retroactive date creates a window of time during which prior acts have no coverage. Always verify that the retroactive date on a renewal or new policy matches your original inception date.\n\nIf you cancel your professional liability policy or switch to an insurer that will not honor your prior retroactive date, you need an extended reporting period, often called tail coverage. This endorsement allows you to report claims made after the policy expires for errors that occurred during the coverage period. Tail coverage is typically available for one, two, three, or five years, and some insurers offer an unlimited tail option.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Defense costs and indemnity for claims of professional negligence, errors, and omissions',
+          'Coverage for failure to deliver services as promised or within agreed timelines',
+          'Breach of contract and misrepresentation claim coverage',
+          'Regulatory proceeding defense cost coverage for licensing board investigations',
+          'Subcontractor coverage for professional services performed by your subcontractors',
+          'Loss of client documents and data coverage',
+          'Pre-claim assistance and consultation when you become aware of a potential claim',
+          'Extended reporting period options to cover claims made after policy expiration',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'What is the difference between claims-made and occurrence-based coverage?',
+        a: 'An occurrence-based policy covers incidents that happen during the policy period, regardless of when the claim is filed. A claims-made policy covers claims that are first reported during the policy period, regardless of when the incident occurred, as long as it happened after the retroactive date. Professional liability is almost always written on a claims-made basis, which means maintaining continuous coverage without gaps is essential to avoid losing protection for prior acts.',
+      },
+      {
+        q: 'Does my general liability policy cover professional errors?',
+        a: 'No. General liability insurance specifically excludes professional services liability. General liability covers bodily injury and property damage to third parties, while professional liability covers the financial harm your clients suffer due to errors in your professional work. If your business provides any form of professional advice, design, or specialized services, you need a separate professional liability policy.',
+      },
+      {
+        q: 'What is tail coverage and when do I need it?',
+        a: 'Tail coverage, formally called an extended reporting period, allows you to report claims after your claims-made policy has expired. You need tail coverage when you retire, close your business, or switch to an insurer that will not honor your existing retroactive date. Without tail coverage, you would have no protection for claims arising from work performed during the policy period but reported after cancellation.',
+      },
+      {
+        q: 'How much professional liability coverage should my business carry?',
+        a: 'Coverage limits depend on your industry, the size and scope of your client engagements, contractual requirements, and your risk tolerance. Many client contracts specify minimum limits of $1,000,000 per claim and $2,000,000 aggregate. Businesses with large enterprise clients, government contracts, or high-value projects often need higher limits. Consider that defense costs typically erode the policy limit, so factor in potential legal expenses when selecting your coverage amount.',
+      },
+    ],
+    relatedCoverages: [
+      'general-liability',
+      'cyber-liability',
+      'directors-officers',
+    ],
+  },
+  {
+    slug: 'commercial-auto',
+    title: 'Commercial Auto Insurance',
+    metaTitle: 'Commercial Auto Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Protect your company vehicles, fleet operations, and drivers with commercial auto insurance covering liability, physical damage, hired and non-owned auto, and more.',
+    heroHeading: 'Commercial Auto Insurance',
+    heroSubheading:
+      'Liability and physical damage coverage for company-owned vehicles, hired autos, non-owned vehicles, and fleet operations of all sizes.',
+    overview:
+      'Commercial auto insurance provides liability and physical damage coverage for vehicles used in your business operations. Whether you own a single company car, operate a fleet of service vehicles, or have employees who drive their personal vehicles for work, commercial auto coverage protects your business from the significant financial exposure that comes with putting vehicles on the road.',
+    sections: [
+      {
+        heading: 'What Commercial Auto Insurance Covers',
+        content:
+          'Commercial auto liability coverage pays for bodily injury and property damage that your business vehicles cause to other parties. This is the core coverage that responds when your driver is at fault in an accident, covering the other party\'s medical expenses, vehicle repairs, lost wages, and pain and suffering, as well as your legal defense costs.\n\nPhysical damage coverage protects your own vehicles and comes in two parts. Collision coverage pays for damage to your vehicle resulting from a collision with another vehicle or object, regardless of fault. Comprehensive coverage pays for damage from non-collision events including theft, vandalism, fire, hail, flood, falling objects, and animal strikes. Together, these coverages ensure that your fleet stays operational after a loss.\n\nHired and non-owned auto coverage is an essential addition for businesses that rent vehicles or have employees who use their personal cars for work errands. Hired auto coverage applies when you rent or lease a vehicle for business purposes. Non-owned auto coverage provides liability protection when an employee drives their personal vehicle on company business, filling the gap between their personal auto policy and your business\'s vicarious liability exposure.',
+      },
+      {
+        heading: 'Fleet Management and Risk Control',
+        content:
+          'For businesses operating multiple vehicles, fleet management practices directly impact both safety outcomes and insurance costs. Insurers evaluate your driver selection and monitoring processes, vehicle maintenance programs, safety training protocols, and telematics usage when pricing your commercial auto coverage.\n\nImplementing a formal fleet safety program that includes motor vehicle record checks at hiring and annually thereafter, a written vehicle use policy, distracted driving protocols, and regular driver safety training demonstrates to insurers that you take risk management seriously. Businesses with strong fleet safety programs consistently achieve better loss ratios and lower premium rates.\n\nTelematics technology has become increasingly valuable for both safety and insurance purposes. GPS tracking, dashcam systems, and driver behavior monitoring tools provide data on speeding, hard braking, rapid acceleration, and distracted driving. This data helps you coach individual drivers, identify training needs, and provide insurers with evidence of your proactive approach to fleet risk management.',
+      },
+      {
+        heading: 'Regulatory Considerations',
+        content:
+          'Businesses that operate commercial vehicles are subject to varying regulatory requirements depending on the type and weight of their vehicles and the nature of their operations. Vehicles exceeding 10,000 pounds gross vehicle weight rating require USDOT registration and may require an MCS-90 endorsement on the auto policy as proof of financial responsibility.\n\nThe MCS-90 endorsement is a federal requirement for for-hire and certain private motor carriers that guarantees payment of liability claims to injured third parties regardless of any policy exclusions or coverage disputes. It functions as a safety net for the public and applies specifically to vehicles operating in interstate commerce.\n\nState requirements for commercial auto insurance vary significantly. Minimum liability limits, uninsured and underinsured motorist coverage requirements, personal injury protection mandates, and no-fault provisions all differ by jurisdiction. Businesses operating vehicles across state lines need to ensure their commercial auto policy meets the requirements of every state in which they operate.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Liability coverage for bodily injury and property damage caused by your business vehicles',
+          'Collision and comprehensive physical damage coverage for your owned vehicles',
+          'Hired auto coverage for vehicles you rent, lease, or borrow for business use',
+          'Non-owned auto liability for employees driving personal vehicles on company business',
+          'Uninsured and underinsured motorist coverage for accidents with inadequately insured drivers',
+          'Medical payments coverage for occupants of your vehicles regardless of fault',
+          'MCS-90 endorsement for motor carriers requiring federal financial responsibility filings',
+          'Fleet-rated policies with scheduled vehicle and driver management',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Do I need commercial auto insurance if employees drive their personal cars for work?',
+        a: 'Yes. When employees use their personal vehicles for business purposes, your company has vicarious liability exposure that their personal auto policy does not fully address. Non-owned auto coverage on your commercial auto policy provides liability protection for your business when employees drive their own cars for work-related tasks such as client meetings, errands, or deliveries. Without this coverage, your business could face uninsured claims from accidents during work-related driving.',
+      },
+      {
+        q: 'What is the difference between commercial auto and personal auto insurance?',
+        a: 'Commercial auto policies are designed for vehicles used in business operations and offer coverage features not available on personal auto policies, including hired and non-owned auto coverage, higher liability limits, fleet rating, and MCS-90 endorsements. Personal auto policies typically exclude or severely limit coverage when a vehicle is used for business purposes. Using a personally insured vehicle for regular business operations can result in a coverage denial at the time of a claim.',
+      },
+      {
+        q: 'How are commercial auto premiums calculated?',
+        a: 'Premiums are based on several factors including the number and type of vehicles, their use radius, the cargo being transported, driver records and experience, annual mileage, garaging location, coverage limits and deductibles, and your claims history. Businesses with clean driver records, formal fleet safety programs, and favorable loss histories receive the most competitive rates.',
+      },
+    ],
+    relatedCoverages: [
+      'general-liability',
+      'umbrella-excess-liability',
+      'workers-compensation',
+    ],
+  },
+  {
+    slug: 'cyber-liability',
+    title: 'Cyber Liability Insurance',
+    metaTitle: 'Cyber Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Protect your business from data breaches, ransomware attacks, privacy liability, and the financial fallout of cyber incidents with comprehensive cyber liability insurance.',
+    heroHeading: 'Cyber Liability Insurance',
+    heroSubheading:
+      'Protection against data breaches, ransomware, business email compromise, privacy liability, and the full spectrum of cyber threats facing modern businesses.',
+    overview:
+      'Cyber liability insurance has become essential for businesses of all sizes as cyber threats continue to grow in frequency, sophistication, and financial impact. This coverage responds to data breaches, ransomware attacks, business email compromise, privacy violations, and other cyber events, providing both first-party coverage for your own losses and third-party coverage for claims brought against you by affected individuals and organizations.',
+    sections: [
+      {
+        heading: 'First-Party Cyber Coverage',
+        content:
+          'First-party cyber coverage addresses the direct costs your business incurs as a result of a cyber incident. This begins with incident response expenses, including the cost of hiring a forensic investigation firm to determine the nature and scope of the breach, legal counsel specializing in data privacy and breach response, and a public relations firm to manage communications and protect your reputation.\n\nNotification costs are a significant component of first-party coverage. When personal data is compromised, state and federal breach notification laws require you to notify affected individuals, and in many cases state attorneys general and regulatory agencies, within specific timeframes. The policy covers the cost of notification mailings, call center setup, credit monitoring services, and identity theft protection offered to affected individuals.\n\nBusiness interruption and data restoration coverage addresses the operational and financial impact of a cyber event. When a ransomware attack encrypts your systems and shuts down operations, first-party cyber coverage reimburses the income you lose during the downtime and pays for the cost of restoring data and systems from backups or through decryption. Some policies also cover ransomware payments, though this coverage is subject to increasingly strict requirements and sublimits.',
+      },
+      {
+        heading: 'Third-Party Cyber Coverage',
+        content:
+          'Third-party cyber coverage protects your business against claims and lawsuits brought by individuals, businesses, and regulatory agencies in the aftermath of a cyber incident. Privacy liability coverage responds when individuals whose personal information was compromised bring claims for damages resulting from the breach, including class action litigation.\n\nRegulatory proceedings coverage is increasingly important as state attorneys general, the Federal Trade Commission, the Department of Health and Human Services, and international data protection authorities become more aggressive in enforcing data privacy and security requirements. This coverage pays for legal defense costs and, in many cases, resulting fines and penalties assessed against your business for violations of data protection regulations.\n\nMedia liability coverage, often included in cyber policies, protects against claims of defamation, copyright infringement, invasion of privacy, and other torts arising from your electronic publishing and online activities. Network security liability coverage responds to claims from third parties who suffer losses because a security failure in your network allowed malware to spread to their systems or enabled unauthorized access to their data.',
+      },
+      {
+        heading: 'The Evolving Cyber Threat Landscape',
+        content:
+          'The cyber threat landscape is constantly evolving, and cyber insurance coverage continues to adapt in response. Business email compromise, in which attackers impersonate executives or vendors to trick employees into wiring funds or sharing sensitive information, has become one of the most costly forms of cyber crime. Many cyber policies now include social engineering fraud coverage to address these losses.\n\nRansomware continues to dominate the cyber risk landscape, with attacks growing more targeted and ransom demands escalating significantly. Cyber insurers have responded by requiring policyholders to implement specific security controls as conditions of coverage, including multi-factor authentication, endpoint detection and response, secured and tested backup systems, and employee security awareness training.\n\nSupply chain attacks, in which threat actors compromise a trusted software vendor or service provider to gain access to their customers\' systems, represent a growing exposure that is difficult to prevent through traditional security measures alone. Cyber policies are beginning to address this exposure through contingent system failure coverage and dependent business interruption provisions.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Incident response coverage including forensic investigation, legal counsel, and public relations',
+          'Breach notification costs including mailings, call centers, and credit monitoring services',
+          'Business interruption coverage for income lost during system downtime from cyber events',
+          'Data restoration coverage for rebuilding databases and systems after an attack',
+          'Ransomware and cyber extortion coverage including negotiation and payment costs',
+          'Privacy liability and regulatory defense coverage for data breach lawsuits and regulatory actions',
+          'Social engineering fraud coverage for business email compromise and funds transfer fraud',
+          'Media liability coverage for online defamation, copyright infringement, and invasion of privacy',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Does my business need cyber insurance even if we are a small company?',
+        a: 'Yes. Small and mid-sized businesses are disproportionately targeted by cyber criminals precisely because they often lack the security infrastructure and dedicated IT staff of larger organizations. A single data breach or ransomware attack can cost a small business hundreds of thousands of dollars in response costs, legal fees, and lost revenue. Cyber insurance provides both financial protection and access to expert incident response resources that most small businesses could not afford on their own.',
+      },
+      {
+        q: 'What security requirements must my business meet to qualify for cyber insurance?',
+        a: 'Cyber insurers increasingly require specific security controls as conditions of coverage. Common requirements include multi-factor authentication for remote access and privileged accounts, endpoint detection and response software, regular patching and vulnerability management, employee security awareness training, encrypted backups stored offline or in immutable cloud storage, and email security filtering. Requirements vary by insurer and coverage amount, and failure to maintain required controls can result in claim denials.',
+      },
+      {
+        q: 'Does cyber insurance cover ransomware payments?',
+        a: 'Many cyber policies include coverage for ransomware extortion payments, but this coverage is subject to important conditions and limitations. Insurers typically require that payment be approved by the insurer and coordinated through their approved negotiation firms. Coverage may be subject to a sublimit lower than the overall policy limit. Additionally, payments to sanctioned entities are prohibited under federal law, and insurers perform sanctions screening before authorizing any ransom payment.',
+      },
+      {
+        q: 'Is cyber liability coverage included in my general liability or property policy?',
+        a: 'No. General liability and commercial property policies have increasingly added explicit cyber exclusions that remove coverage for cyber-related losses. Even policies that have not added formal exclusions were not designed to address the unique first-party and third-party exposures associated with cyber incidents. A standalone cyber liability policy is the only reliable way to ensure comprehensive protection against the full range of cyber threats.',
+      },
+    ],
+    relatedCoverages: [
+      'professional-liability',
+      'business-interruption',
+      'directors-officers',
+    ],
+  },
+  {
+    slug: 'directors-officers',
+    title: 'Directors & Officers Liability Insurance',
+    metaTitle: 'Directors & Officers Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'D&O liability insurance protecting company directors, officers, and the organization against claims of mismanagement, breach of fiduciary duty, and corporate governance failures.',
+    heroHeading: 'Directors & Officers Liability Insurance',
+    heroSubheading:
+      'Personal asset protection for directors and officers and entity coverage for the organization against claims of mismanagement, fiduciary breaches, and governance failures.',
+    overview:
+      'Directors and officers liability insurance protects the personal assets of corporate directors and officers, as well as the organization itself, against claims alleging wrongful acts in the management of the company. D&O claims can arise from shareholders, employees, customers, competitors, regulators, and other stakeholders, making this coverage essential for any organization with a board of directors or management team.',
+    sections: [
+      {
+        heading: 'Understanding D&O Coverage Structure',
+        content:
+          'D&O insurance is structured around three insuring agreements commonly referred to as Side A, Side B, and Side C. Side A coverage protects individual directors and officers directly when the company cannot indemnify them, either because the company is legally prohibited from doing so or because it is financially unable to, as in a bankruptcy. Side A is considered the most critical coverage because it stands between a director\'s personal assets and a judgment or settlement.\n\nSide B coverage reimburses the company when it indemnifies its directors and officers for covered claims. When a director is sued and the company advances their legal defense costs and pays any resulting settlement, Side B coverage repays those costs to the company. This is the coverage that responds most frequently in practice because companies typically indemnify their officers and directors whenever they are legally able to do so.\n\nSide C coverage, also called entity coverage, protects the company itself against claims. For publicly traded companies, Side C is typically limited to securities claims. For private companies, Side C is often broader and covers the full range of management liability claims brought against the entity. The interaction between these three insuring agreements determines how the policy responds in different claim scenarios.',
+      },
+      {
+        heading: 'Common D&O Claims and Risk Scenarios',
+        content:
+          'D&O claims arise from a wide variety of sources and allegations. Shareholder derivative lawsuits allege that directors failed in their fiduciary duties, breached the duty of care or duty of loyalty, or approved transactions that harmed the company. Securities class action lawsuits allege material misrepresentations or omissions in the company\'s public filings, financial statements, or investor communications.\n\nRegulatory investigations and enforcement actions represent a growing area of D&O exposure. The SEC, DOJ, EEOC, EPA, and other federal and state agencies can bring actions against individual directors and officers for violations committed by or on behalf of the company. These investigations are expensive to defend and can result in personal liability for the individuals involved even when the company cooperates fully.\n\nEmployee-related claims also trigger D&O coverage in certain circumstances. While employment practices liability insurance handles most employment claims, allegations that senior executives directed or participated in discriminatory practices, retaliation, or wage theft can implicate the D&O policy. Customer and vendor claims alleging unfair business practices, antitrust violations, or tortious interference with contracts are additional exposure areas.',
+      },
+      {
+        heading: 'D&O for Private Companies and Nonprofits',
+        content:
+          'While D&O insurance is often associated with publicly traded companies defending securities lawsuits, private companies and nonprofit organizations face substantial D&O exposure that is frequently underestimated. Private company directors and officers face claims from investors, minority shareholders, creditors in the event of insolvency, employees, customers, and regulators.\n\nIn the context of mergers and acquisitions, selling shareholders who believe they did not receive fair value for their shares frequently bring claims against the board of directors. Creditors of financially distressed companies pursue officers and directors for alleged deepening insolvency, fraudulent conveyance, and breach of fiduciary duty to creditors that arises as a company approaches or enters the zone of insolvency.\n\nNonprofit organizations need D&O coverage because their board members, who often serve as unpaid volunteers, face the same fiduciary duties and personal liability exposure as their corporate counterparts. Claims against nonprofit boards can arise from donors alleging misuse of funds, regulatory actions for governance failures, employment claims, and allegations of breach of the duty of care in managing the organization\'s affairs.',
+      },
+      {
+        heading: 'Key Coverage Features',
+        bullets: [
+          'Side A coverage protecting individual directors and officers when the company cannot indemnify',
+          'Side B coverage reimbursing the company for indemnification payments made on behalf of directors and officers',
+          'Side C entity coverage protecting the organization against management liability claims',
+          'Defense costs coverage including legal fees, expert witnesses, and investigation expenses',
+          'Pre-claim investigation coverage for regulatory inquiries before a formal claim is asserted',
+          'Insured vs. insured exclusion carve-backs for derivative claims and whistleblower retaliation',
+          'Spousal and estate coverage extending protection to the families and estates of insured individuals',
+          'Run-off coverage available for directors and officers of acquired or dissolved entities',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'What is the difference between Side A, Side B, and Side C D&O coverage?',
+        a: 'Side A protects individual directors and officers directly when the company cannot indemnify them, such as in bankruptcy or when indemnification is legally prohibited. Side B reimburses the company when it indemnifies its directors and officers for covered claims, which is the most common scenario. Side C covers the corporate entity itself against management liability claims. All three sides work together to provide comprehensive protection for both individuals and the organization.',
+      },
+      {
+        q: 'Do private companies and nonprofits need D&O insurance?',
+        a: 'Yes. Private companies face D&O claims from investors, minority shareholders, creditors, employees, and regulators. Nonprofit board members face the same fiduciary duties and personal liability exposure as corporate directors. In both cases, D&O insurance protects the personal assets of individuals who serve in leadership roles and provides the organization with the resources to defend against management liability claims.',
+      },
+      {
+        q: 'Does D&O insurance cover fraud or intentional misconduct?',
+        a: 'D&O policies exclude coverage for proven fraud, criminal conduct, and intentional dishonesty through a conduct exclusion. However, this exclusion is typically triggered only by a final adjudication, meaning the policy covers defense costs while the allegations are being litigated. Until a court finds that fraud actually occurred, the accused director or officer receives the benefit of coverage. Allegations alone do not trigger the exclusion.',
+      },
+    ],
+    relatedCoverages: [
+      'employment-practices-liability',
+      'professional-liability',
+      'cyber-liability',
+    ],
+  },
   {
     slug: 'umbrella-excess-liability',
-    title: 'Umbrella / Excess Liability',
-    metaTitle: 'Trucking Umbrella & Excess Liability Insurance',
-    metaDescription: 'Umbrella and excess liability insurance for trucking fleets. Additional liability limits above your auto, general, and employers liability to protect against...',
-    heroHeading: 'Umbrella / Excess Liability Insurance',
+    title: 'Umbrella & Excess Liability Insurance',
+    metaTitle: 'Umbrella & Excess Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Additional liability limits above your underlying general liability, auto, and employers liability policies with commercial umbrella and excess liability coverage.',
+    heroHeading: 'Umbrella & Excess Liability Insurance',
     heroSubheading:
-      'Additional liability limits that sit above your primary policies to protect against catastrophic and high-severity claims.',
+      'Additional layers of liability protection that extend beyond the limits of your underlying general liability, commercial auto, and employers liability policies.',
     overview:
-      'Umbrella and excess liability insurance provides additional limits of liability above your underlying auto liability, general liability, and employers liability policies. In an era of escalating jury verdicts against trucking companies, primary policy limits of $1,000,000 are often insufficient to fully resolve a serious injury or wrongful death claim. An umbrella or excess policy adds critical capacity, ensuring your business can survive a catastrophic judgment without depleting its assets.',
+      'Commercial umbrella and excess liability insurance provides additional limits of liability above your underlying primary policies. In an environment where jury verdicts and settlements routinely exceed primary policy limits, umbrella and excess coverage serves as a critical financial safety net that can mean the difference between a manageable claim and a business-ending loss.',
     sections: [
       {
-        heading: 'What It Covers',
+        heading: 'How Umbrella and Excess Liability Work',
         content:
-          'An umbrella or excess liability policy increases your total available liability limits by stacking on top of your underlying primary policies. If your primary auto liability policy has a $1,000,000 limit and you carry a $4,000,000 umbrella, your total available limit for a covered auto liability claim is $5,000,000. The umbrella responds only after your primary policy limit is exhausted.\n\nMost trucking umbrella policies provide excess coverage over three underlying policies: commercial auto liability, commercial general liability, and employers liability. Some umbrella policies also provide broader coverage than the underlying policies, picking up certain claims that the primary policies exclude, though this varies significantly by insurer and policy form.\n\nExcess liability policies follow the exact terms and conditions of the underlying policy, providing only additional limits without expanding coverage. True umbrella policies may provide broader coverage and include a self-insured retention for claims that fall within the umbrella\'s scope but are not covered by any underlying policy. Understanding whether your policy is a true umbrella or a follow-form excess is important for evaluating your protection.',
+          'Umbrella and excess liability policies sit above your primary liability policies, including general liability, commercial auto liability, and employers liability, providing additional limits that respond when a claim exhausts the underlying coverage. If your general liability policy has a $1,000,000 per-occurrence limit and you carry a $5,000,000 umbrella, your total available coverage for a single liability claim is $6,000,000.\n\nA true umbrella policy provides broader coverage than a simple excess policy. While an excess policy follows the exact terms and conditions of the underlying policy and only pays after the underlying limit is fully exhausted, an umbrella policy can also provide drop-down coverage for claims that are covered by the umbrella but not by any underlying policy. This drop-down feature, subject to a self-insured retention, fills gaps in your primary coverage program.\n\nThe self-insured retention on an umbrella policy functions like a deductible for drop-down claims where no underlying insurance responds. Typical self-insured retentions range from $10,000 to $25,000. For claims covered by underlying policies, the umbrella attaches immediately after the underlying limits are exhausted, with no additional retention.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'Determining Appropriate Umbrella Limits',
         content:
-          'Every trucking company should seriously evaluate the need for umbrella or excess liability coverage. The median verdict in trucking accident cases has risen dramatically, with verdicts exceeding $10,000,000 becoming routine in cases involving fatalities or catastrophic injuries. A primary auto liability limit of $1,000,000, while meeting federal minimums, provides limited protection against today\'s legal environment.\n\nCarriers hauling hazardous materials, operating in high-traffic urban corridors, or transporting passengers are at elevated risk and should carry higher limits. Shippers and brokers are increasingly requiring $5,000,000 or more in total auto liability limits, making umbrella coverage a business necessity for maintaining access to premium freight.',
+          'Selecting the right umbrella limit requires evaluating your total liability exposure, including your contractual requirements, asset base, revenue level, industry risk profile, and the severity potential of your specific operations. There is no simple formula, but several factors should guide the analysis.\n\nContractual requirements are often the starting point. Many commercial leases, construction contracts, and vendor agreements require umbrella or excess limits of $5,000,000 or more. Government contracts and large private projects frequently require $10,000,000 or higher. Failing to meet these requirements can disqualify you from contracts and cost you revenue.\n\nBeyond contractual minimums, consider the realistic worst-case scenario for your operations. Businesses with significant auto exposure face the risk of multi-million dollar verdicts from serious accidents. Companies with large numbers of employees face the potential for catastrophic workers\' compensation claims. Product manufacturers face the risk of mass tort claims that can generate aggregate liability far exceeding primary limits. Your umbrella limit should provide a meaningful cushion above these potential severity exposures.',
       },
       {
-        heading: 'Why It Matters',
+        heading: 'Structuring a Layered Liability Program',
         content:
-          'The trucking industry has experienced a surge in what are known as nuclear verdicts, jury awards that far exceed what would have been considered reasonable a decade ago. Plaintiff attorneys now routinely use reptile theory and other advanced trial strategies to drive verdicts into eight and nine figures. A single catastrophic accident without adequate liability limits can force a carrier into bankruptcy.\n\nUmbrella coverage is also one of the most cost-effective ways to increase your protection. Because the umbrella only responds after primary limits are exhausted, the premium for millions of dollars in additional coverage is substantially less than the cost of an equivalent primary policy. For most carriers, adding an umbrella policy is the single most impactful step they can take to improve their financial resilience.',
+          'For businesses requiring very high total limits, liability programs are structured in layers using multiple excess policies stacked on top of the umbrella. The first layer might be a $5,000,000 umbrella, followed by a $5,000,000 first excess layer, then a $10,000,000 second excess layer, creating a total liability tower of $20,000,000 plus the underlying primary limits.\n\nEach layer in the tower is provided by a different insurer, which spreads the risk and makes very high limits achievable. The lead umbrella carrier sets the terms and conditions that the higher excess layers follow, though each carrier independently underwrites the risk at their attachment point. Higher layers carry lower premiums because they attach at a point where the probability of being reached is lower.\n\nThe underlying insurance schedule is a critical component of any umbrella or excess program. This schedule lists each primary policy that the umbrella sits above and the minimum limits each must maintain. If a primary policy lapses or its limits are reduced below the scheduled amount, the umbrella insurer may deny coverage or reduce its payment by the amount of the shortfall, leaving you with an uninsured gap.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Additional liability limits above auto, general, and employers liability policies',
-          'Coverage limits typically available from $1,000,000 to $10,000,000 or more',
-          'Excess coverage over multiple underlying liability policies',
-          'True umbrella forms may provide broader coverage than underlying policies',
-          'Defense costs coverage in addition to the policy limit on many forms',
-          'Self-insured retention for claims within umbrella scope but not covered by underlying policies',
-          'Cost-effective way to achieve high total liability limits',
+          'Additional limits above general liability, commercial auto, and employers liability policies',
+          'Drop-down coverage for claims covered by the umbrella but not by underlying policies',
+          'Defense costs typically paid in addition to the umbrella limit',
+          'Worldwide coverage territory in most umbrella policy forms',
+          'Aggregate limits that apply separately to the umbrella layer',
+          'Automatic coverage for newly formed or acquired subsidiaries',
+          'Broad additional insured coverage following the underlying policies',
+          'Layered program structures available for total limits of $100,000,000 or more',
         ],
       },
     ],
     faqs: [
       {
-        q: 'What is the difference between an umbrella policy and an excess liability policy?',
-        a: 'An excess liability policy follows the exact same terms and conditions as your underlying policy and simply adds more limit. A true umbrella policy may provide broader coverage than the underlying policies and can respond to certain claims that the primary policies exclude, subject to a self-insured retention. In practice, many policies marketed as umbrellas are actually follow-form excess policies.',
+        q: 'What is the difference between an umbrella policy and an excess policy?',
+        a: 'An umbrella policy provides additional limits above your underlying policies and can also drop down to provide coverage for claims that are within the umbrella\'s coverage grant but not covered by any underlying policy, subject to a self-insured retention. An excess policy simply follows the exact terms and conditions of the underlying policy and only pays after the underlying limit is exhausted. Umbrella policies provide broader protection, while excess policies provide additional limits with no coverage expansion.',
       },
       {
-        q: 'How much umbrella coverage does a trucking company need?',
-        a: 'The appropriate limit depends on your fleet size, the commodities you haul, your operating territory, and the requirements of your shippers and brokers. Many carriers carry $5,000,000 to $10,000,000 in total limits. Given the trend of increasing verdict sizes, consulting with a specialized trucking insurance advisor to evaluate your specific exposure is strongly recommended.',
+        q: 'What underlying policies does an umbrella cover?',
+        a: 'A commercial umbrella typically sits above three underlying policies: commercial general liability, commercial auto liability, and employers liability, which is the Part B coverage within your workers\' compensation policy. Some umbrella policies can also be scheduled over other liability coverages. Each underlying policy must be maintained at the minimum limits specified in the umbrella\'s schedule of underlying insurance.',
       },
       {
-        q: 'Can I buy umbrella coverage without changing my underlying policies?',
-        a: 'Your umbrella insurer will typically require that your underlying policies meet certain minimum limits and are written by carriers they approve. You may not need to change your underlying policies, but the umbrella insurer may require adjustments to ensure there are no gaps between your primary and excess coverage layers.',
-      },
-      {
-        q: 'What are nuclear verdicts and why should trucking companies be concerned?',
-        a: 'Nuclear verdicts are jury awards that significantly exceed the expected value of a claim, often reaching tens of millions of dollars. The trucking industry has been disproportionately affected by this trend due to the severity of accidents involving commercial vehicles. These verdicts make adequate umbrella or excess liability coverage essential for the financial survival of any trucking operation.',
+        q: 'How much umbrella coverage does my business need?',
+        a: 'The right amount depends on your contractual requirements, the severity potential of your operations, your total asset exposure, and your industry risk profile. Many businesses start with a $1,000,000 to $5,000,000 umbrella and increase limits as they grow. Businesses with significant auto fleets, construction operations, or product liability exposure often need $10,000,000 or more. Because umbrella premiums are relatively modest compared to the additional protection they provide, carrying higher limits is one of the most cost-effective ways to protect your business.',
       },
     ],
-    relatedCoverages: ['auto-liability', 'general-liability', 'workers-compensation'],
+    relatedCoverages: [
+      'general-liability',
+      'commercial-auto',
+      'workers-compensation',
+    ],
   },
-
   {
-    slug: 'occupational-accident',
-    title: 'Occupational Accident',
-    metaTitle: 'Occupational Accident Insurance for Trucking',
-    metaDescription: 'Occupational accident insurance for independent contractor truck drivers. Medical, disability, and death benefits without requiring workers compensation cove...',
-    heroHeading: 'Occupational Accident Insurance',
+    slug: 'employment-practices-liability',
+    title: 'Employment Practices Liability Insurance',
+    metaTitle: 'Employment Practices Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaDescription:
+      'Protect your business from wrongful termination, discrimination, harassment, and retaliation claims with employment practices liability insurance.',
+    heroHeading: 'Employment Practices Liability Insurance',
     heroSubheading:
-      'Medical, disability, and accidental death coverage designed specifically for independent contractor drivers.',
+      'Defense and indemnity coverage for claims of wrongful termination, workplace discrimination, sexual harassment, retaliation, and other employment-related allegations.',
     overview:
-      "Occupational accident insurance provides injury and death benefits to independent contractor drivers who are not eligible for workers' compensation coverage. Since independent contractors are not employees, they fall outside the scope of state workers' comp laws. Occupational accident policies fill this protection gap, offering medical expense coverage, disability income benefits, and accidental death and dismemberment benefits to contractors who are injured while performing their work.",
+      'Employment practices liability insurance, known as EPLI, protects employers against claims brought by current, former, and prospective employees alleging wrongful employment practices. With employment-related lawsuits among the fastest-growing categories of civil litigation, EPLI has become a critical component of the commercial insurance program for businesses of all sizes.',
     sections: [
       {
-        heading: 'What It Covers',
+        heading: 'What EPLI Covers',
         content:
-          "Occupational accident insurance provides three core benefit categories. Medical expense coverage pays for treatment of injuries sustained while performing work as an independent contractor, including hospitalization, surgery, physician visits, diagnostic imaging, and prescription medications. Benefit limits typically range from $500,000 to $1,000,000 per occurrence.\n\nDisability income benefits replace a portion of the contractor's earnings during recovery from a covered injury. Policies typically offer both temporary total disability benefits, payable while the contractor is completely unable to work, and permanent total disability benefits for catastrophic injuries that permanently prevent the contractor from driving. Benefit amounts and durations vary by policy.\n\nAccidental death and dismemberment coverage provides a lump-sum payment to the contractor's beneficiaries in the event of death or the loss of limbs, sight, or hearing due to a covered accident. AD&D benefits typically range from $100,000 to $500,000 and are payable in addition to any other coverage the contractor may carry.",
+          'Employment practices liability insurance covers claims alleging a wide range of wrongful employment acts. The core coverage areas include wrongful termination, constructive discharge, discrimination based on protected characteristics such as race, gender, age, religion, disability, and sexual orientation, sexual harassment and hostile work environment claims, and retaliation against employees who file complaints or participate in investigations.\n\nThe policy also covers claims of failure to promote, wrongful demotion, negligent evaluation, breach of employment contract, misrepresentation during the hiring process, failure to accommodate disabilities, wrongful denial of benefits, and violations of the Family and Medical Leave Act. Wage and hour claims, historically excluded from EPLI policies, are now available as an endorsement from many carriers, though typically with a sublimit and a separate retention.\n\nEPLI policies provide both defense costs and indemnity coverage. Defense costs are usually included within the policy limits, meaning legal expenses reduce the amount available for settlements and judgments. Given the high cost of employment litigation defense, which can easily reach six figures even for cases that are ultimately dismissed, adequate limits are essential.',
       },
       {
-        heading: 'Who Needs It',
+        heading: 'The Employment Litigation Landscape',
         content:
-          "Motor carriers that use independent contractor drivers should offer or require occupational accident coverage as part of their contractor agreements. While carriers are not legally required to provide workers' compensation to legitimate independent contractors, an uninsured contractor injury can generate significant legal exposure if the contractor's classification is challenged.\n\nIndependent owner-operators who work under a lease agreement with a carrier should carry occupational accident coverage whether the carrier provides it or not. Without either workers' comp or occupational accident insurance, a serious injury leaves the contractor with no income and potentially enormous medical bills. Personal health insurance may cover some medical costs but does not provide disability income or death benefits.",
+          'Employment-related claims represent one of the most significant and growing areas of liability exposure for American businesses. The Equal Employment Opportunity Commission receives tens of thousands of charges annually, and private employment lawsuits filed in state and federal courts add substantially to that volume. The average cost to defend an employment claim through trial exceeds $200,000, and jury verdicts frequently reach seven figures.\n\nSmall and mid-sized businesses face disproportionate risk because they often lack the dedicated human resources professionals, employment law counsel, and documented policies and procedures that help larger organizations prevent and defend employment claims. An employee who feels they were terminated unfairly, passed over for a promotion because of their age, or subjected to inappropriate comments by a coworker can file a charge with the EEOC or a state civil rights agency, or go directly to court with a private attorney.\n\nThe proliferation of remote work, social media, and evolving employment laws at the state and local level has expanded the landscape of employment-related exposures. Issues such as pay equity, gender identity protections, accommodation of mental health conditions, and independent contractor classification continue to generate new and complex claim scenarios that EPLI is designed to address.',
       },
       {
-        heading: 'Why It Matters',
+        heading: 'Risk Management and Loss Prevention',
         content:
-          "Independent contractor drivers face the same occupational hazards as employee drivers, including traffic accidents, loading dock injuries, and slips and falls, but without the safety net of workers' compensation. A contractor who is seriously injured and unable to drive may have no source of income and inadequate medical coverage to handle the treatment costs.\n\nFor motor carriers, providing occupational accident insurance to contractors serves multiple purposes. It helps attract and retain quality contractors, demonstrates a commitment to contractor welfare, and provides an additional layer of legal protection. If a contractor is injured and later claims to have been misclassified as an employee, the existence of an occupational accident program can help demonstrate the independent nature of the relationship while also ensuring the contractor had meaningful coverage regardless of classification status.",
+          'Effective employment risk management begins with well-documented policies and consistent enforcement. An employee handbook that clearly articulates your employment practices, anti-discrimination and anti-harassment policies, complaint procedures, and progressive discipline process provides the foundation for defending employment claims.\n\nTraining is equally critical. Regular training for managers and supervisors on lawful hiring practices, performance documentation, disciplinary procedures, harassment prevention, and accommodation requirements reduces the likelihood of employment violations and demonstrates your commitment to a lawful workplace. Many states now mandate sexual harassment prevention training for all employees at specified intervals.\n\nMany EPLI carriers offer risk management resources as part of the policy, including employment law hotlines where you can consult with an attorney before making a sensitive employment decision, sample policy templates, online training modules, and HR best practice guides. Taking advantage of these resources can prevent claims from arising and strengthen your defense position when they do.',
       },
       {
         heading: 'Key Coverage Features',
         bullets: [
-          'Medical expense benefits for work-related injuries, typically up to $1,000,000',
-          'Temporary total disability income replacement during recovery',
-          'Permanent total disability benefits for career-ending injuries',
-          'Accidental death and dismemberment lump-sum payments',
-          'Passenger accident coverage for authorized riders',
-          'Coverage for injuries occurring during work-related activities',
-          'Available as carrier-sponsored group plans or individual policies',
-          'Contingent liability coverage to protect the carrier against contractor injury claims',
+          'Defense and indemnity for wrongful termination, discrimination, and harassment claims',
+          'Coverage for claims brought by current, former, and prospective employees',
+          'Retaliation claim coverage for employees who file complaints or participate in investigations',
+          'Third-party coverage for discrimination or harassment claims brought by customers or vendors',
+          'EEOC and state civil rights agency proceeding defense costs',
+          'Wage and hour coverage available by endorsement for Fair Labor Standards Act and state wage law claims',
+          'Employment law hotline and HR risk management resources included with many policies',
+          'Coverage for claims arising from social media policies and monitoring practices',
         ],
       },
     ],
     faqs: [
       {
-        q: "How is occupational accident insurance different from workers' compensation?",
-        a: "Workers' compensation is a state-mandated program that covers employees and provides guaranteed benefits set by state law. Occupational accident insurance is a private insurance product for independent contractors with benefits defined by the policy terms. Workers' comp provides broader protections including vocational rehabilitation and no-fault coverage, while occupational accident policies are more limited but serve contractors who are ineligible for workers' comp.",
+        q: 'Does EPLI cover wage and hour claims?',
+        a: 'Traditionally, wage and hour claims were excluded from EPLI policies. However, many insurers now offer wage and hour coverage as an optional endorsement, typically subject to a sublimit and a higher retention than other employment claims. Given the significant increase in wage and hour class action litigation, this endorsement is worth considering for businesses with large hourly workforces, multiple locations, or operations in states with aggressive wage and hour enforcement.',
       },
       {
-        q: 'Can a motor carrier require independent contractors to carry occupational accident insurance?',
-        a: 'Yes. Many carriers require their independent contractors to maintain occupational accident coverage as a condition of their lease agreement. Some carriers sponsor group occupational accident programs that contractors can participate in, often at lower rates than individual policies.',
+        q: 'Is EPLI coverage necessary for small businesses with only a few employees?',
+        a: 'Yes. In fact, small businesses are often more vulnerable to employment claims because they typically lack formal HR departments, documented policies, and the resources to mount an expensive legal defense. A single employment lawsuit can cost hundreds of thousands of dollars to defend, regardless of the outcome. EPLI provides both the financial resources to defend claims and access to HR risk management tools that help prevent them in the first place.',
       },
       {
-        q: 'Does occupational accident insurance cover illnesses like heart attacks or strokes?',
-        a: 'Occupational accident insurance typically covers accidental injuries only, not illnesses. A heart attack or stroke that occurs while driving would generally not be covered unless it was directly caused by a covered accident. Some policies offer limited coverage for occupational diseases, but this is not standard.',
+        q: 'Does EPLI cover claims of sexual harassment?',
+        a: 'Yes. Sexual harassment claims, including hostile work environment and quid pro quo harassment, are core coverages under an EPLI policy. The policy covers defense costs and settlements or judgments arising from these claims. However, intentional criminal conduct by the individual perpetrator is excluded from coverage. The policy protects the company and its management from vicarious liability for failing to prevent or adequately respond to harassment in the workplace.',
       },
       {
-        q: 'What happens if an independent contractor is reclassified as an employee after an injury?',
-        a: "If a contractor is reclassified as an employee by a state agency or court, the carrier may be liable for workers' compensation benefits and penalties for failure to carry coverage. Having an occupational accident program in place does not eliminate this risk, but it ensures the contractor received medical and disability benefits and can demonstrate the carrier acted in good faith.",
+        q: 'How does EPLI interact with our directors and officers liability policy?',
+        a: 'There is some overlap between EPLI and D&O coverage, particularly for claims alleging that senior executives directed discriminatory practices or retaliated against whistleblowers. EPLI is designed specifically for employment claims and provides broader coverage for the full range of employment-related allegations. D&O coverage can serve as a backstop for employment claims against individual directors and officers that fall outside the EPLI policy\'s coverage grant. Coordinating the two policies ensures comprehensive protection without significant gaps.',
       },
     ],
-    relatedCoverages: ['workers-compensation', 'non-trucking-liability', 'auto-liability'],
+    relatedCoverages: [
+      'directors-officers',
+      'workers-compensation',
+      'umbrella-excess-liability',
+    ],
   },
 ];
 
-/**
- * Retrieve a single coverage object by its URL slug.
- * @param {string} slug - The URL-safe slug for the coverage type.
- * @returns {object|undefined} The matching coverage object, or undefined if not found.
- */
 export function getCoverageBySlug(slug) {
   return coverages.find((c) => c.slug === slug);
 }

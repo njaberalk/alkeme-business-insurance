@@ -1,1360 +1,1427 @@
 export const statesPart1 = [
   {
-    "slug": "alabama",
-    "name": "Alabama",
-    "abbreviation": "AL",
-    "metaTitle": "Trucking Insurance in Alabama",
-    "metaDescription": "Commercial trucking insurance for Alabama carriers. Coverage for I-65 and I-20 corridors, port freight from Mobile, and Southeast regional hauling operations.",
-    "heroHeading": "Alabama Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in and through the Heart of Dixie.",
-    "overview": "Alabama sits at the crossroads of several major Southeast freight corridors, with I-65 running north-south through Birmingham and Montgomery and I-20 connecting Atlanta to Mississippi. The Port of Mobile adds a significant volume of containerized and bulk cargo to the state's trucking demand. Carriers based in Alabama face a mix of urban congestion in the Birmingham metro, rural two-lane exposure, and Gulf Coast weather risks that demand a well-structured insurance program.",
-    "sections": [
+    slug: 'alabama',
+    name: 'Alabama',
+    abbreviation: 'AL',
+    metaTitle: 'Business Insurance in Alabama',
+    metaDescription: 'Comprehensive business insurance solutions for Alabama companies. Learn about state requirements, workers compensation rules, liability minimums, and coverage options for businesses operating in the Heart of Dixie.',
+    heroHeading: 'Business Insurance in Alabama',
+    heroSubheading: 'Protect your Alabama business with the right combination of commercial coverage tailored to the state\'s regulatory environment and economic landscape.',
+    overview: 'Alabama offers a pro-business climate with relatively low operating costs, no state-mandated minimum for general liability insurance, and a growing economy anchored by aerospace, automotive manufacturing, agriculture, and healthcare. Businesses operating in the state must navigate a regulatory framework that includes mandatory workers compensation for most employers and compliance with both state and federal standards. Whether you run a small retail shop in Huntsville or a large manufacturing facility near Mobile, a well-structured insurance program is essential to protecting your assets and maintaining operational continuity in Alabama\'s competitive marketplace.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Alabama motor carriers must satisfy FMCSA financial responsibility requirements, with minimums of $750,000 for general freight, $1,000,000 for hazardous materials transport, and $5,000,000 for certain bulk hazmat loads. The Alabama Public Service Commission oversees intrastate carriers and requires proof of insurance before granting operating authority.\n\nAlabama follows a fault-based auto liability system with a contributory negligence standard, one of only a few states that bars recovery if the claimant is even one percent at fault. While this can benefit carriers in litigation, it also means juries may award larger damages when the commercial driver is clearly liable. Carriers should maintain limits well above the federal minimum given the trend toward nuclear verdicts in the Southeast."
+        heading: 'State Requirements',
+        content: 'Alabama requires most employers with five or more employees to carry workers compensation insurance. Sole proprietors and partners may elect to exempt themselves from coverage, though doing so leaves them personally exposed to workplace injury costs. The state does not operate a monopolistic workers compensation fund, so businesses must obtain coverage through private insurers or qualify as approved self-insured employers through the Alabama Department of Labor.\n\nAlabama does not mandate a statewide minimum for general liability insurance, but many industries require proof of coverage to obtain professional licenses or government contracts. Businesses operating commercial vehicles must meet both state liability minimums and any applicable federal requirements. Alabama follows a contributory negligence standard, one of only a few states where a claimant who is even slightly at fault may be barred from recovering damages. While this can benefit businesses in litigation, clear-cut liability cases often result in larger jury awards, making adequate liability limits critical for any Alabama business.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 is Alabama's primary north-south artery, carrying heavy freight between Nashville and Mobile with major interchange points in Birmingham, Montgomery, and the Decatur-Huntsville corridor. I-20 runs east-west through Birmingham, linking Atlanta's distribution hubs to Mississippi and points west. I-10 crosses the southern tip of the state along the Gulf Coast, connecting Mobile to Pensacola and New Orleans.\n\nThe Port of Mobile is a growing deep-water port handling containers, steel, coal, and forest products. Birmingham serves as a regional distribution center with multiple intermodal yards, and Huntsville's logistics sector has expanded rapidly alongside its aerospace and defense industries. US-431 and US-280 carry significant truck traffic through rural corridors where two-lane roads and limited shoulders increase risk."
+        heading: 'Business Insurance Landscape',
+        content: 'The Alabama business insurance market is served by a broad mix of national carriers, regional insurers, and surplus lines providers. Competition among insurers has helped keep commercial premiums relatively moderate compared to neighboring states, though rates have been rising in property-heavy coastal zones near Mobile and Baldwin County due to hurricane exposure. Businesses in tornado-prone areas of central and northern Alabama may also face elevated property insurance costs.\n\nAlabama\'s pro-business regulatory environment includes tort reform measures that cap punitive damages in certain civil cases, which helps moderate liability costs for many employers. However, the state\'s contributory negligence rule can create unpredictable litigation outcomes, and nuclear verdicts have become a growing concern in Birmingham and Mobile courtrooms. Businesses should work with experienced brokers who understand the Alabama insurance market and can structure programs that account for both the state\'s favorable business policies and its unique litigation risks.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Gulf Coast hurricanes and tropical storms are the most significant seasonal risk for Alabama carriers, particularly those operating south of Montgomery. Heavy rain, flooding, and wind damage can shut down I-10 and I-65 south of Birmingham for extended periods. Tornado activity across central Alabama during spring also creates sudden severe weather exposure.\n\nBirmingham's hilly terrain and aging infrastructure present urban driving challenges, while rural routes in the Black Belt region often lack adequate shoulders and lighting. Summer heat accelerates tire blowouts and pavement deterioration. Alabama consistently ranks among the higher states for fatal truck crashes per mile driven, making safety programs and adequate liability limits essential."
+        heading: 'Key Industries',
+        content: 'Alabama\'s economy has diversified significantly in recent decades. The automotive manufacturing sector is a major employer, with assembly plants and parts suppliers concentrated in the Birmingham, Huntsville, and Montgomery regions. Aerospace and defense industries have a strong presence in Huntsville, home to Redstone Arsenal and NASA\'s Marshall Space Flight Center, creating demand for specialized coverage including errors and omissions, product liability, and government contract compliance insurance.\n\nAgriculture remains a significant part of the Alabama economy, with poultry, cattle, cotton, and timber as leading commodities. The healthcare sector is one of the largest employers statewide, and the Port of Mobile supports a growing logistics and warehousing industry. Tourism along the Gulf Coast generates substantial revenue for hospitality businesses that face seasonal hurricane risk. Each of these industries carries its own insurance requirements and risk profiles that demand tailored coverage solutions.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Alabama's contributory negligence standard and verdict trends",
-          "Physical damage coverage for heat-related mechanical failures and Gulf Coast storm damage",
-          "Motor truck cargo insurance with spoilage endorsement for temperature-sensitive loads moving through the Port of Mobile",
-          "Non-trucking liability for owner-operators during off-dispatch periods",
-          "Umbrella or excess liability to protect against nuclear verdicts in Birmingham and Mobile metro courts"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party bodily injury and property damage claims arising from business operations',
+          'Workers compensation insurance as required for employers with five or more employees, with voluntary coverage recommended for smaller firms',
+          'Commercial property insurance with windstorm and flood endorsements for businesses in coastal and tornado-prone regions',
+          'Commercial auto insurance for any business-owned vehicles operating on Alabama roads',
+          'Umbrella or excess liability coverage to guard against large jury awards in Alabama courts',
+          'Cyber liability insurance for businesses handling sensitive customer data or operating digital platforms'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Does Alabama require any insurance beyond federal FMCSA minimums?",
-        "a": "Alabama's Public Service Commission requires intrastate carriers to file proof of insurance, and the state enforces its own registration process. While the minimum limits generally mirror federal requirements, carriers hauling within Alabama only should verify current PSC filing requirements. Interstate carriers must maintain FMCSA-mandated coverage levels."
+        q: 'Is workers compensation insurance required for all Alabama businesses?',
+        a: 'Alabama requires workers compensation coverage for businesses with five or more employees. Sole proprietors and partners may elect to exclude themselves from coverage. Employers who fail to carry required workers compensation insurance face penalties including fines and personal liability for workplace injuries. Even businesses below the five-employee threshold should consider voluntary coverage to protect against the financial impact of on-the-job injuries.'
       },
       {
-        "q": "How does Alabama's contributory negligence rule affect trucking claims?",
-        "a": "Alabama is one of only a handful of states following pure contributory negligence, meaning a claimant who is even slightly at fault cannot recover damages. This can reduce claim frequency for carriers, but when liability is clear, plaintiff attorneys often pursue larger awards. Carriers should maintain strong limits and robust safety programs."
+        q: 'How does Alabama\'s contributory negligence rule affect business liability claims?',
+        a: 'Alabama is one of only a few states that follows a pure contributory negligence standard. This means that if a claimant is found even one percent at fault for their own injury, they may be completely barred from recovering damages. While this can benefit businesses in some lawsuits, it also means that when liability is clearly on the business, juries may award larger amounts. Maintaining adequate liability limits and umbrella coverage is essential.'
       },
       {
-        "q": "What weather risks should Alabama trucking companies plan for?",
-        "a": "Hurricane season from June through November poses the greatest threat, especially for routes along I-10 and I-65 south of Montgomery. Tornado activity peaks in March through May across central Alabama. Carriers should have severe weather protocols and ensure physical damage policies cover windstorm and flood damage to parked equipment."
+        q: 'Do Alabama businesses need flood insurance?',
+        a: 'Standard commercial property policies in Alabama typically exclude flood damage. Businesses located in flood zones near rivers, the Gulf Coast, or low-lying areas should obtain separate flood insurance through the National Flood Insurance Program or private flood insurers. Even businesses outside designated flood zones may face flood risk from heavy rainfall and tropical weather systems common in Alabama.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "alaska",
-    "name": "Alaska",
-    "abbreviation": "AK",
-    "metaTitle": "Trucking Insurance in Alaska",
-    "metaDescription": "Commercial trucking insurance for Alaska carriers. Coverage for extreme weather operations, the Dalton Highway, remote haul routes.",
-    "heroHeading": "Alaska Trucking Insurance",
-    "heroSubheading": "Specialized coverage for carriers operating in America's last frontier.",
-    "overview": "Trucking in Alaska demands a fundamentally different insurance approach than the lower 48. Limited road networks, extreme cold, remote operations, and long distances between services create exposures that standard policies may not adequately address. Whether hauling supplies up the Dalton Highway to Prudhoe Bay or distributing goods across the Anchorage-Fairbanks corridor, Alaska carriers need policies built for harsh conditions and high per-mile costs.",
-    "sections": [
+    slug: 'alaska',
+    name: 'Alaska',
+    abbreviation: 'AK',
+    metaTitle: 'Business Insurance in Alaska',
+    metaDescription: 'Business insurance solutions for Alaska companies. Understand state-specific workers compensation requirements, liability considerations, and coverage needs for businesses operating in America\'s Last Frontier.',
+    heroHeading: 'Business Insurance in Alaska',
+    heroSubheading: 'Specialized commercial insurance for businesses navigating Alaska\'s unique operating environment and regulatory requirements.',
+    overview: 'Operating a business in Alaska presents challenges that are unlike those found anywhere else in the United States. Extreme weather, remote locations, high costs of goods and labor, and a relatively small insurance market all contribute to a business environment that demands careful risk management. Alaska\'s economy is heavily influenced by oil and gas, fishing, tourism, and government employment, and businesses across all sectors need insurance programs that account for the state\'s harsh climate and geographic isolation. Despite these challenges, Alaska offers significant business opportunities, and a well-designed insurance program can help entrepreneurs and established businesses alike protect their investments.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Alaska carriers operating interstate must meet standard FMCSA financial responsibility requirements. For intrastate operations, the Alaska Department of Transportation and Public Facilities requires motor carriers to maintain liability insurance with minimum limits that align with federal standards. Carriers must file proof of insurance with the state before receiving intrastate operating authority.\n\nAlaska follows a pure comparative fault system, meaning damages are apportioned based on each party's percentage of fault. This generally favors balanced claims outcomes, but the remoteness of accident locations and the high cost of emergency response in Alaska can drive claim severity well above lower-48 averages. Tow and recovery costs alone can exceed $50,000 for incidents on remote highways."
+        heading: 'State Requirements',
+        content: 'Alaska requires virtually all employers to carry workers compensation insurance, with very limited exceptions for certain domestic workers and some independent contractors. The Alaska Workers Compensation Board oversees the system, and employers must obtain coverage through private insurers or qualify for self-insurance. Alaska does not operate a monopolistic state workers compensation fund. Penalties for failing to carry required coverage include fines of up to $1,000 per day and potential criminal charges.\n\nAlaska does not impose a general statewide requirement for business liability insurance, but numerous industries and professional licenses require proof of coverage. Commercial vehicle operators must carry liability insurance meeting state minimums, and businesses contracting with state or local governments typically must provide certificates of insurance. Alaska follows a pure comparative fault system, meaning damages in civil suits are allocated based on each party\'s share of responsibility, which generally produces more predictable litigation outcomes than contributory negligence states.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "The Parks Highway (Route 3) connects Anchorage to Fairbanks and carries the majority of interior freight. The Dalton Highway (Route 11) extends 414 miles from Fairbanks to Deadhorse near Prudhoe Bay, serving the oil fields with fuel, equipment, and supplies in some of the most challenging driving conditions in North America. The Seward Highway (Route 1) connects Anchorage to the port at Seward, while the Glenn Highway links Anchorage to the agricultural Matanuska Valley and Tok.\n\nAnchorage is Alaska's primary distribution hub, with the Port of Anchorage handling the vast majority of consumer goods entering the state. Fairbanks serves as the staging point for North Slope operations. The Alaska Highway connects the state to the Canadian road network and the lower 48, though most freight enters by barge or ship."
+        heading: 'Business Insurance Landscape',
+        content: 'The Alaska business insurance market is characterized by limited carrier availability and higher-than-average premiums. Many national insurers are reluctant to write policies in Alaska due to the remote operating environment, extreme weather exposure, and high claim costs driven by expensive medical care, transportation, and repair services. Businesses often find that they have fewer coverage options and must work with specialty carriers or surplus lines providers to obtain adequate protection.\n\nProperty insurance costs in Alaska are elevated due to earthquake risk across much of the state, wildfire exposure in forested areas, and the high replacement cost of buildings and equipment in remote locations. Workers compensation premiums tend to be among the highest in the nation, reflecting the dangerous nature of Alaska\'s dominant industries including commercial fishing, oil and gas extraction, and construction. Businesses should engage brokers with specific Alaska market expertise to navigate the limited carrier landscape and secure competitive terms.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Extreme cold is the dominant risk factor, with winter temperatures dropping below minus 40 degrees along the Dalton Highway. Ice roads, limited daylight from November through February, and blowing snow create hazardous driving conditions for months at a time. Moose and caribou collisions are frequent and can cause severe vehicle damage and driver injury.\n\nRemote operations mean that accident response times can stretch to hours, and towing costs are extraordinarily high. Many Alaska highways lack cell service, guardrails, and paved shoulders. Spring breakup season brings weight restrictions and road closures as frost heaves damage road surfaces. Avalanche zones along mountain passes add seasonal route closures that can strand equipment for days."
+        heading: 'Key Industries',
+        content: 'Oil and gas production has long been the backbone of Alaska\'s economy, and businesses in the extraction, pipeline maintenance, and support services sectors face significant liability and workers compensation exposures. Commercial fishing is one of the state\'s most important private industries, employing thousands of seasonal and year-round workers in one of the most hazardous occupations in the country. Seafood processing plants along the coast have their own set of insurance needs, including product liability and workers compensation for physically demanding roles.\n\nTourism is a growing sector, with cruise ship visitors and outdoor adventure seekers generating revenue for hospitality, guide services, and transportation businesses across the state. Healthcare and government employment are major economic drivers in Anchorage, Fairbanks, and Juneau. The mining industry continues to be significant, particularly gold and zinc operations. Construction activity, driven by both private development and public infrastructure projects, rounds out Alaska\'s key business sectors, each with distinct insurance and risk management requirements.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits reflecting the high cost of remote accident response and medical evacuation",
-          "Physical damage coverage with agreed-value endorsements given the high replacement cost of cold-weather-equipped trucks",
-          "Motor truck cargo insurance with delay coverage for loads stranded by road closures or weather",
-          "Comprehensive coverage including animal collision, which is a frequent and costly peril in Alaska",
-          "Towing and recovery coverage with elevated limits to account for remote highway recovery operations",
-          "Workers compensation with coverage for cold-weather injuries and remote-site operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Alaska\'s high claim costs and remote operating conditions',
+          'Workers compensation insurance as required by state law, with attention to coverage for hazardous occupations',
+          'Commercial property insurance with earthquake and wildfire endorsements appropriate to the business location',
+          'Commercial auto insurance covering vehicles operating in extreme cold and on remote, unpaved roads',
+          'Umbrella or excess liability coverage to protect against the elevated severity of Alaska injury claims',
+          'Cyber liability coverage for businesses processing customer data in tourism, healthcare, and professional services'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is trucking insurance more expensive in Alaska?",
-        "a": "Alaska premiums reflect the extreme operating environment: high towing and recovery costs in remote areas, expensive vehicle repairs due to cold-weather wear, limited competition among insurers willing to write Alaska risks, and the elevated cost of medical treatment and evacuation when accidents occur far from hospitals."
+        q: 'Why is business insurance more expensive in Alaska?',
+        a: 'Alaska insurance premiums reflect the high cost of doing business in the state. Medical care, vehicle repairs, building construction, and professional services all cost significantly more than national averages. Fewer insurers are willing to write Alaska risks, reducing competition. The extreme climate, earthquake exposure, and remote operating conditions also increase the frequency and severity of claims, all of which are factored into premium calculations.'
       },
       {
-        "q": "Are there special insurance requirements for Dalton Highway operations?",
-        "a": "There are no separate state insurance mandates specifically for the Dalton Highway, but carriers should ensure their policies do not exclude unpaved or restricted-access roads. Many standard policies contain exclusions that could leave Dalton Highway operations uncovered. Confirm with your insurer that your policy covers operations on this route."
+        q: 'Does Alaska require earthquake insurance for businesses?',
+        a: 'Alaska does not mandate earthquake insurance, but standard commercial property policies typically exclude earthquake damage. Given that Alaska experiences more seismic activity than any other state, earthquake coverage is strongly recommended for any business with physical assets. Separate earthquake policies or endorsements are available through private insurers and should be considered essential for businesses in seismically active areas.'
       },
       {
-        "q": "Does Alaska require uninsured motorist coverage for commercial trucks?",
-        "a": "Alaska requires uninsured and underinsured motorist coverage for personal auto policies but does not mandate it for commercial vehicles. However, given the high incidence of uninsured drivers in rural areas, carriers should strongly consider adding this coverage to their commercial auto policies."
+        q: 'Are there special workers compensation rules for seasonal businesses in Alaska?',
+        a: 'Seasonal employers in Alaska, including fishing operations, tourism businesses, and construction firms, must carry workers compensation coverage for the duration of their operating season. Coverage must be in place before any employees begin work. Seasonal businesses should coordinate with their insurers to align policy terms with their operational calendar, and they may benefit from pay-as-you-go premium structures that adjust costs based on actual payroll.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "arizona",
-    "name": "Arizona",
-    "abbreviation": "AZ",
-    "metaTitle": "Trucking Insurance in Arizona",
-    "metaDescription": "Commercial trucking insurance for Arizona carriers. Coverage for I-10 and I-40 cross-country corridors, Phoenix metro freight, and desert climate operations.",
-    "heroHeading": "Arizona Trucking Insurance",
-    "heroSubheading": "Coverage for carriers navigating the Southwest's busiest freight lanes.",
-    "overview": "Arizona is a critical link in the national freight network, with I-10 and I-40 carrying massive volumes of cross-country truck traffic through the state. The Phoenix metropolitan area has emerged as one of the fastest-growing distribution and fulfillment markets in the country, while the Nogales port of entry is the primary gateway for fresh produce imports from Mexico. Arizona carriers operate in extreme desert heat that punishes equipment and creates unique safety challenges.",
-    "sections": [
+    slug: 'arizona',
+    name: 'Arizona',
+    abbreviation: 'AZ',
+    metaTitle: 'Business Insurance in Arizona',
+    metaDescription: 'Business insurance for Arizona companies. Learn about state workers compensation rules, liability requirements, and coverage options for businesses in the Grand Canyon State\'s fast-growing economy.',
+    heroHeading: 'Business Insurance in Arizona',
+    heroSubheading: 'Tailored commercial coverage for Arizona businesses operating in one of the nation\'s fastest-growing states.',
+    overview: 'Arizona has emerged as one of the most dynamic business environments in the country, with rapid population growth driving expansion across technology, healthcare, construction, and professional services. The Phoenix metro area in particular has attracted major corporate relocations and startup activity, while Tucson and Flagstaff maintain their own diversified economies. Arizona\'s business-friendly regulatory climate, lack of excessive mandates, and competitive tax structure make it attractive for entrepreneurs, but the state\'s extreme heat, monsoon storms, and evolving labor market create insurance exposures that require careful attention. A comprehensive business insurance program is essential for any company looking to thrive in Arizona\'s competitive and fast-changing marketplace.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Arizona carriers operating interstate must maintain FMCSA-mandated liability coverage, with minimums of $750,000 for general freight and higher limits for hazardous materials. The Arizona Department of Transportation requires intrastate for-hire carriers to file proof of financial responsibility, with minimum liability limits of $300,000 for vehicles under 26,001 pounds and $750,000 for heavier vehicles.\n\nArizona uses a pure comparative fault system for auto liability claims, allowing injured parties to recover damages reduced by their percentage of fault. The state has seen a notable increase in trucking litigation severity, particularly in Maricopa County, where plaintiff-friendly jury pools have produced several large verdicts against motor carriers in recent years."
+        heading: 'State Requirements',
+        content: 'Arizona requires all employers, including those with just one employee, to carry workers compensation insurance. There is no minimum employee threshold, making Arizona one of the stricter states in this regard. Employers may obtain coverage through private insurers, the State Compensation Fund (a competitive state fund that operates alongside private carriers), or by qualifying for self-insurance. Failure to carry required workers compensation coverage is a Class 6 felony in Arizona, underscoring the seriousness of this mandate.\n\nArizona does not impose a broad state requirement for general business liability insurance, but various professional licenses, commercial leases, and government contracts require proof of coverage. The state follows a pure comparative fault system for civil liability, meaning that damages are apportioned based on each party\'s percentage of fault, and a plaintiff can recover even if they are partially responsible for their own injury. This system produces relatively balanced litigation outcomes, though Arizona has seen growth in large verdicts in Maricopa County courts in recent years.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-10 crosses southern Arizona from the California border at Ehrenberg through Phoenix and Tucson to the New Mexico line, serving as a primary East-West transcontinental freight route. I-40 crosses northern Arizona through Flagstaff and Kingman, carrying heavy volumes between California and the Midwest. I-17 connects Phoenix to Flagstaff and the I-40 corridor, climbing over 5,000 feet through mountainous terrain.\n\nThe Phoenix metro area is home to dozens of major distribution centers for national retailers, e-commerce fulfillment operations, and semiconductor manufacturers. The Maricopa Association of Governments region generates enormous local trucking demand. The Nogales port of entry handles over 60 percent of fresh produce imports from Mexico during winter months, creating heavy refrigerated truck traffic on I-19 and I-10 north to Phoenix and beyond."
+        heading: 'Business Insurance Landscape',
+        content: 'Arizona\'s insurance market benefits from strong carrier competition, with most national and regional commercial insurers actively writing policies in the state. The rapid pace of business growth in the Phoenix metro area has attracted insurer attention, and businesses generally have access to a wide range of coverage options at competitive rates. However, certain sectors including construction, hospitality, and cannabis-related businesses may face tighter underwriting or higher premiums due to industry-specific risks.\n\nProperty insurance in Arizona must account for extreme heat damage, monsoon season flooding and wind, and wildfire risk in northern and rural areas of the state. The monsoon season from June through September brings sudden, intense storms that can cause flash flooding, dust storms, and hail damage. Businesses in wildfire-prone zones near Prescott, Flagstaff, and the Rim Country should ensure their policies include adequate wildfire coverage. The state\'s ongoing drought conditions and urban heat island effects in Phoenix create additional long-term risk considerations for property and liability coverage.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Extreme heat is Arizona's defining risk factor, with summer temperatures routinely exceeding 110 degrees in the Phoenix metro and along the I-10 corridor. Heat causes tire blowouts, brake fade, engine overheating, and pavement deterioration. Dust storms, known as haboobs, can reduce visibility to near zero on desert highways with no warning, causing multi-vehicle pileups.\n\nI-17 between Phoenix and Flagstaff features steep grades, sharp curves, and dramatic elevation changes that challenge loaded trucks. Monsoon season from July through September brings flash flooding that can wash out low-water crossings and flood underpasses. High-speed rural interstates with long straightaways contribute to fatigue-related accidents, and the Tucson-to-Phoenix stretch of I-10 is consistently one of the most dangerous freight corridors in the Southwest."
+        heading: 'Key Industries',
+        content: 'Arizona\'s economy is led by a technology sector that has expanded rapidly with semiconductor manufacturing, data centers, and software development firms choosing the Phoenix and Chandler area as a base of operations. Healthcare is one of the largest employment sectors, with major hospital systems and medical device companies operating statewide. The construction industry has been booming alongside Arizona\'s population growth, building residential developments, commercial properties, and infrastructure at a pace that demands significant insurance capacity for builders risk, general liability, and workers compensation.\n\nTourism and hospitality generate billions in annual revenue, driven by Arizona\'s national parks, desert resorts, and golf destinations. Agriculture remains relevant in the southern and western parts of the state, with cotton, citrus, dairy, and cattle ranching among leading commodities. The defense and aerospace sector maintains a strong presence around Tucson and the greater Phoenix area, while financial services and real estate continue to grow alongside the state\'s expanding population.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum given Maricopa County verdict trends",
-          "Physical damage with comprehensive coverage for dust storm and monsoon flood damage",
-          "Motor truck cargo with temperature deviation coverage for perishable loads from Nogales",
-          "Bobtail and non-trucking liability for owner-operators in the Phoenix drayage market",
-          "Umbrella or excess liability to protect against escalating Arizona jury verdicts"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to cover bodily injury and property damage claims common in Arizona\'s active business environment',
+          'Workers compensation insurance as required by Arizona law for all employers regardless of employee count',
+          'Commercial property insurance with coverage for monsoon flooding, hail, extreme heat damage, and wildfire where applicable',
+          'Commercial auto insurance for business vehicles operating in Arizona\'s high-traffic Phoenix metro corridors',
+          'Umbrella or excess liability coverage to protect against growing verdict trends in Maricopa County',
+          'Cyber liability insurance for the state\'s expanding technology and healthcare sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "What are the biggest insurance cost drivers for Arizona trucking companies?",
-        "a": "Heat-related mechanical claims, dust storm and monsoon weather damage, the high frequency of tire blowouts on desert interstates, and increasing litigation severity in Maricopa County courts all contribute to elevated premiums for Arizona-based carriers. Maintaining strong safety records and investing in heat-mitigation equipment can help control costs."
+        q: 'Does Arizona require workers compensation for businesses with only one employee?',
+        a: 'Yes. Arizona is one of the states that requires workers compensation insurance for all employers regardless of the number of employees. Even a business with a single employee must carry coverage. Employers can obtain policies through private insurers, the Arizona State Compensation Fund, or by qualifying for self-insurance. Failing to maintain required coverage is classified as a Class 6 felony.'
       },
       {
-        "q": "Do Arizona intrastate carriers need different insurance than interstate carriers?",
-        "a": "Arizona intrastate carriers must file proof of insurance with ADOT and meet state-specific minimum limits. For vehicles over 26,001 pounds, the state minimum mirrors the federal $750,000 requirement. Lighter vehicles may qualify for lower limits, but carriers should assess whether minimums provide adequate protection for their specific operations."
+        q: 'Is flood insurance included in standard Arizona business property policies?',
+        a: 'No. Standard commercial property policies in Arizona exclude flood damage. Despite the arid climate, Arizona faces significant flash flood risk during monsoon season from June through September. Businesses in flood-prone areas should obtain separate flood coverage through the National Flood Insurance Program or private insurers. Even businesses outside mapped flood zones can be affected by the sudden, intense rainfall events typical of Arizona monsoons.'
       },
       {
-        "q": "How do dust storms affect trucking insurance claims in Arizona?",
-        "a": "Dust storms cause multi-vehicle accidents with severe injuries and extensive property damage. Comprehensive physical damage coverage is essential for dust storm exposure. Carriers should also train drivers on dust storm protocols, including pulling off the highway and turning off headlights to avoid attracting following vehicles into the dust cloud."
+        q: 'What insurance do Arizona construction businesses need?',
+        a: 'Arizona construction businesses should carry general liability, workers compensation, commercial auto, and builders risk insurance at minimum. Many general contractors also require umbrella or excess liability coverage and professional liability for design-build firms. Subcontractors are typically required to provide certificates of insurance to general contractors. Arizona\'s construction boom has kept demand for coverage high, and businesses should secure policies well before project start dates.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "arkansas",
-    "name": "Arkansas",
-    "abbreviation": "AR",
-    "metaTitle": "Trucking Insurance in Arkansas",
-    "metaDescription": "Commercial trucking insurance for Arkansas carriers. Coverage for I-40 and I-30 corridors, the Fort Smith freight hub, and regional flatbed and poultry hauling.",
-    "heroHeading": "Arkansas Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in one of America's most important trucking states.",
-    "overview": "Arkansas punches well above its weight in the trucking industry. The state is home to several of the nation's largest carriers, and its central location makes it a natural crossroads for freight moving between the Midwest, Southeast, and Texas. I-40 bisects the state east to west through Little Rock, while I-30 connects to Dallas and I-49 links the Northwest Arkansas boom region to Fort Smith and points south. The poultry and agriculture industries generate substantial specialized hauling demand.",
-    "sections": [
+    slug: 'arkansas',
+    name: 'Arkansas',
+    abbreviation: 'AR',
+    metaTitle: 'Business Insurance in Arkansas',
+    metaDescription: 'Business insurance for Arkansas companies. Understand workers compensation requirements, liability rules, and coverage options for businesses in the Natural State\'s diverse economy.',
+    heroHeading: 'Business Insurance in Arkansas',
+    heroSubheading: 'Commercial insurance solutions designed for Arkansas businesses navigating the state\'s regulatory framework and economic opportunities.',
+    overview: 'Arkansas provides a low-cost business environment with affordable real estate, a moderate regulatory burden, and a workforce supported by the state\'s strong community college and vocational training systems. The economy spans major corporate headquarters in the northwest, a significant agricultural sector across the Delta region, and growing healthcare and manufacturing industries statewide. Arkansas businesses face weather-related risks including tornadoes, severe thunderstorms, and flooding along the Arkansas and Mississippi Rivers, making commercial property and business interruption coverage particularly important. A well-planned insurance program helps Arkansas businesses manage these exposures while maintaining the cost advantages that make the state attractive for business.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Arkansas motor carriers must meet FMCSA financial responsibility requirements for interstate operations. The Arkansas Department of Transportation oversees intrastate carrier registration and requires proof of liability insurance. Intrastate carriers must maintain minimum coverage consistent with federal standards based on vehicle weight and cargo type.\n\nArkansas uses a modified comparative fault system with a 50 percent bar, meaning a claimant more than 50 percent at fault cannot recover damages. The state's trucking-heavy economy means that juries are often more familiar with the industry than in other states, which can cut both ways in litigation. The state has relatively moderate verdict trends compared to neighboring Texas and Tennessee."
+        heading: 'State Requirements',
+        content: 'Arkansas requires employers with three or more employees to maintain workers compensation insurance. The Arkansas Workers Compensation Commission oversees the system, and employers may purchase coverage through private insurers or apply for self-insurance authorization. Corporate officers and LLC members may elect to be excluded from coverage. Employers who fail to comply face fines and may be held personally liable for injured workers\' medical expenses and lost wages.\n\nThe state does not mandate general liability insurance for all businesses, but certain professions, contractors, and businesses seeking state or local government contracts must carry specified coverage levels. Arkansas follows a modified comparative fault system with a 50 percent bar, meaning a plaintiff who is 50 percent or more at fault cannot recover damages. This threshold provides some litigation protection for businesses, but defendants found to be the primary cause of injury can still face substantial awards. Arkansas courts have generally been considered moderate in terms of verdict sizes, though claims involving serious injury can be significant.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-40 is Arkansas's main east-west corridor, running from the Memphis metropolitan area through Little Rock to Fort Smith and the Oklahoma border. This route carries enormous freight volumes connecting the Mid-South to the Southern Plains. I-30 runs southwest from Little Rock to Texarkana and on to Dallas, serving as a major link between Arkansas and Texas. I-49 runs north-south through the booming Northwest Arkansas region, connecting Bentonville, Fayetteville, and Fort Smith.\n\nNorthwest Arkansas is home to Walmart's global headquarters in Bentonville and the massive vendor and logistics ecosystem that surrounds it. J.B. Hunt, ABF Freight, and USA Truck are all headquartered in the state, making Arkansas one of the densest concentrations of trucking industry activity in the nation. The Port of Little Rock on the Arkansas River handles barge-to-truck transload operations."
+        heading: 'Business Insurance Landscape',
+        content: 'The Arkansas insurance market offers solid competition among national and regional carriers, with coverage available at rates that tend to be below the national average for most commercial lines. The state\'s lower cost of living and property values translate to more affordable commercial property premiums for many businesses. However, businesses in tornado-prone areas or along flood plains should expect higher property insurance costs and may need to add endorsements for wind, hail, and flood coverage that are not included in standard policies.\n\nArkansas\'s largest employers, including retail giant Walmart and food processors like Tyson Foods, create downstream insurance demand for their extensive supplier and vendor networks. Businesses working as suppliers or contractors for these corporations often must meet specific insurance certificate requirements. The state\'s workers compensation rates have been relatively stable, and Arkansas participates in the National Council on Compensation Insurance rate-setting system, providing transparency and predictability for employers budgeting their insurance costs.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Arkansas sits in a transition zone between the flat Mississippi Delta and the rugged Ozark and Ouachita mountain ranges. Winding mountain roads in the northwest and west create challenging terrain for loaded trucks, while Delta roads in the east are prone to flooding during spring rains. Tornado Alley extends into western Arkansas, and severe thunderstorms with large hail are common from March through June.\n\nIce storms are a significant winter hazard, particularly in the Ozark region where freezing rain can shut down I-49 and mountain routes for days. The I-40 bridge over the Mississippi River at Memphis is one of the most critical chokepoints in the national freight network, and closures or restrictions create major cascading delays for Arkansas-based carriers."
+        heading: 'Key Industries',
+        content: 'Northwest Arkansas has become a major economic hub anchored by the headquarters of Walmart, Tyson Foods, and J.B. Hunt Transport Services, along with a growing ecosystem of technology startups, consumer goods vendors, and professional services firms that support these corporations. This concentration of corporate activity has transformed the Bentonville-Fayetteville corridor into one of the fastest-growing regions in the South, creating demand for a wide range of commercial insurance products.\n\nAgriculture remains central to the Arkansas economy, with rice, soybeans, cotton, poultry, and catfish farming among the leading commodities. The state is the nation\'s top rice producer, and agribusiness operations carry significant property, crop, and liability insurance needs. Manufacturing, particularly food processing and steel production, maintains a strong presence. Healthcare is a major employer throughout the state, and transportation and logistics businesses benefit from Arkansas\'s central U.S. location and extensive highway and river barge infrastructure.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for operations spanning Arkansas, Texas, and Tennessee corridors",
-          "Physical damage coverage with hail and ice storm protection for the Ozark region",
-          "Motor truck cargo insurance tailored to poultry, agriculture, and retail distribution loads",
-          "Occupational accident coverage for the large owner-operator population in the state",
-          "General liability for carriers with yard operations and transloading facilities"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party injury and property damage claims',
+          'Workers compensation insurance as required for employers with three or more employees',
+          'Commercial property insurance with wind, hail, and tornado coverage appropriate to the business location',
+          'Commercial auto insurance for business vehicles operating across Arkansas\'s highway network',
+          'Umbrella or excess liability coverage for businesses with significant public-facing operations',
+          'Cyber liability insurance for businesses in technology, healthcare, and financial services'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why are so many trucking companies based in Arkansas?",
-        "a": "Arkansas's central location provides efficient access to major freight markets in every direction. The state's relatively low cost of living, business-friendly regulatory environment, and the Walmart supply chain ecosystem in Northwest Arkansas have attracted both large fleets and thousands of small carriers. This concentration creates a competitive insurance market for Arkansas-based operations."
+        q: 'How many employees trigger the workers compensation requirement in Arkansas?',
+        a: 'Arkansas employers with three or more employees are required to carry workers compensation insurance. This includes both full-time and part-time workers. Corporate officers and LLC members may elect to exclude themselves from coverage. Employers below the three-employee threshold may still choose to carry voluntary workers compensation coverage to protect themselves and their employees from the financial impact of workplace injuries.'
       },
       {
-        "q": "What specialized coverage do Arkansas poultry haulers need?",
-        "a": "Poultry haulers should carry motor truck cargo insurance with livestock or live animal endorsements, which cover mortality during transit. Refrigerated loads of processed poultry require temperature deviation coverage. Given the high frequency of short-haul runs between farms, processing plants, and cold storage facilities, adequate physical damage and liability coverage for constant stop-and-go operations is also important."
+        q: 'Does Arkansas have specific insurance requirements for contractors?',
+        a: 'Arkansas requires licensed contractors to carry workers compensation insurance if they have three or more employees, and many project owners and general contractors require subcontractors to provide certificates of insurance showing general liability and workers compensation coverage. Contractors working on state-funded projects typically must meet minimum insurance requirements specified in the contract. Specific limits vary by project size and type.'
       },
       {
-        "q": "How do ice storms impact trucking insurance in Arkansas?",
-        "a": "Northwest Arkansas and the Ozark region experience significant ice storms that cause multi-day road closures, vehicle damage from ice accumulation, and a spike in collision claims. Carriers should ensure comprehensive physical damage policies cover ice and freezing rain damage. Business interruption from road closures is a secondary concern that some carriers address through contingent cargo or delay coverage."
+        q: 'What weather-related insurance coverage do Arkansas businesses need?',
+        a: 'Arkansas businesses should ensure their commercial property policies include coverage for wind, hail, and tornado damage, which are common across the state. Flood coverage requires a separate policy, and businesses located near the Arkansas, Mississippi, or White Rivers or in low-lying areas should strongly consider flood insurance. Business interruption coverage is also important given the potential for severe weather to disrupt operations for extended periods.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "occupational-accident"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "california",
-    "name": "California",
-    "abbreviation": "CA",
-    "metaTitle": "Trucking Insurance in California",
-    "metaDescription": "Commercial trucking insurance for California carriers. Coverage for port drayage, I-5 corridor operations, CARB compliance.",
-    "heroHeading": "California Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the largest and most regulated trucking market in the nation.",
-    "overview": "California is the single most important state in American trucking. The ports of Los Angeles and Long Beach handle roughly 40 percent of all containerized imports entering the United States, generating an enormous drayage and distribution trucking market. I-5 runs the length of the state, the Central Valley produces a massive volume of agricultural freight, and the state's regulatory environment sets the standard for emissions, safety, and labor requirements that often spread to other states. Insurance costs in California are among the highest in the nation, reflecting heavy litigation, dense traffic, and strict regulatory oversight.",
-    "sections": [
+    slug: 'california',
+    name: 'California',
+    abbreviation: 'CA',
+    metaTitle: 'Business Insurance in California',
+    metaDescription: 'Business insurance for California companies. Navigate the state\'s extensive regulatory requirements, workers compensation mandates, and coverage needs for the nation\'s largest state economy.',
+    heroHeading: 'Business Insurance in California',
+    heroSubheading: 'Comprehensive commercial coverage for businesses operating in the most regulated and economically diverse state in the nation.',
+    overview: 'California is the largest state economy in the United States and would rank among the top ten economies globally if it were an independent nation. This economic scale brings unparalleled business opportunities but also the most extensive and complex regulatory environment in the country. California imposes strict requirements on employers related to workers compensation, employment practices, environmental compliance, and consumer protection, all of which carry insurance implications. From Silicon Valley tech firms to Central Valley agriculture operations, from Los Angeles entertainment companies to San Diego biotech startups, California businesses need robust insurance programs that address the state\'s unique combination of regulatory intensity, litigation frequency, and natural disaster exposure.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "California imposes some of the most stringent trucking regulations in the country. Beyond FMCSA federal requirements, the California Department of Motor Vehicles requires motor carriers to register through the Motor Carrier Permit program and maintain proof of liability insurance. The minimum liability requirement for intrastate carriers operating vehicles over 10,000 pounds is $750,000, matching the federal standard.\n\nCalifornia's regulatory landscape extends well beyond insurance. The California Air Resources Board requires trucks operating in the state to meet strict emissions standards, and the state has mandated a transition to zero-emission trucks for drayage operations. AB5, the state's worker classification law, has significant implications for owner-operators and the insurance structures that cover them. California uses a pure comparative fault system, and the state's courts are known for producing some of the largest trucking verdicts in the country."
+        heading: 'State Requirements',
+        content: 'California requires all employers with one or more employees to carry workers compensation insurance with no exceptions for small businesses. This is one of the strictest workers compensation mandates in the nation. Employers may obtain coverage through private insurers or the State Compensation Insurance Fund, which serves as a competitive state fund and insurer of last resort. Self-insurance is available to qualifying employers. Failure to carry workers compensation coverage is a criminal offense in California, punishable by fines up to $100,000 and imprisonment.\n\nBeyond workers compensation, California imposes numerous insurance-related requirements on businesses. Commercial vehicle operators must meet state liability minimums. Professional service providers including attorneys, accountants, architects, and healthcare providers face industry-specific insurance mandates. California follows a pure comparative negligence system, allowing injured parties to recover damages even when they bear significant fault. Combined with the state\'s plaintiff-friendly court system, generous damages standards, and active plaintiffs\' bar, California presents one of the most challenging liability environments for businesses in the country.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-5 runs over 800 miles from the Mexican border through San Diego, Los Angeles, the Central Valley, Sacramento, and on to Oregon. It is the West Coast's primary freight spine. I-10 connects the ports of Los Angeles and Long Beach eastward through the Inland Empire and on to Arizona. I-710, known as the Long Beach Freeway, is the most heavily truck-trafficked highway in the nation, carrying containers from the ports to inland distribution centers.\n\nThe Inland Empire region east of Los Angeles has become the largest warehouse and distribution market in North America, with over one billion square feet of logistics space. CA-99 parallels I-5 through the Central Valley, carrying agricultural freight from one of the most productive farming regions in the world. The San Francisco Bay Area and its ports generate additional freight demand, with I-580 and I-880 serving as key East Bay truck routes."
+        heading: 'Business Insurance Landscape',
+        content: 'California\'s insurance market is the largest in the country by premium volume, with virtually every national and international carrier competing for business. Despite this competition, premiums tend to be among the highest in the nation due to the state\'s high claim frequency, expensive litigation environment, elevated construction and repair costs, and significant natural catastrophe exposure. Workers compensation costs in California are well above the national average, driven by generous benefit levels, high medical costs, and a system that historically has been challenging for employers to navigate.\n\nProperty insurance has become increasingly difficult to obtain in wildfire-prone areas of California. Many carriers have reduced their exposure or exited the California property market entirely in recent years, leaving businesses in fire-risk zones with fewer options and higher premiums. The California FAIR Plan provides property insurance of last resort, but with limited coverage. Earthquake insurance remains optional but strongly recommended, particularly for businesses in the Bay Area, Los Angeles basin, and along major fault lines. The complexity of California\'s regulatory environment means that businesses benefit significantly from working with brokers who specialize in California commercial insurance.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Traffic congestion in the Los Angeles basin is the primary daily risk for California carriers. The I-710, I-405, and I-10 corridors in Southern California produce extraordinarily high accident frequency due to the combination of heavy truck traffic and dense passenger vehicle volumes. Rear-end collisions in stop-and-go traffic are the most common claim type.\n\nWildfires create seasonal road closures and air quality hazards, particularly along mountain passes and in Northern California. The Grapevine section of I-5 through the Tehachapi Mountains features steep grades and is frequently closed by snow and ice in winter. Earthquake risk adds a catastrophic exposure that is unique among major trucking states. Cargo theft in Southern California is among the highest in the nation, concentrated around the ports and Inland Empire warehouse districts."
+        heading: 'Key Industries',
+        content: 'California\'s economy is extraordinarily diverse. The technology sector, centered in Silicon Valley and extending throughout the Bay Area, Los Angeles, and San Diego, is a global leader in software, hardware, artificial intelligence, and venture-backed startups. Entertainment and media, headquartered in Los Angeles, generate enormous revenue and require specialized insurance including production coverage, errors and omissions, and intellectual property protection. Agriculture in the Central Valley makes California the nation\'s leading agricultural state, with a vast range of crops from almonds and grapes to dairy and cattle.\n\nHealthcare and biotech are major economic drivers in San Diego, the Bay Area, and Los Angeles, employing hundreds of thousands of workers and requiring comprehensive professional liability and clinical trial coverage. The construction industry is perpetually active given California\'s housing shortage and infrastructure needs. International trade through the ports of Los Angeles, Long Beach, and Oakland supports a massive logistics and warehousing sector. Financial services, professional services, tourism, and the emerging legal cannabis industry round out an economy that demands the full spectrum of commercial insurance products.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with many shippers requiring $2,000,000 or more for California operations",
-          "Umbrella or excess liability given California's consistently high verdict environment",
-          "Motor truck cargo insurance with theft coverage and higher limits for high-value port freight",
-          "Physical damage with comprehensive wildfire and earthquake coverage",
-          "Pollution liability for carriers hauling hazmat through California's strictly regulated environment",
-          "Workers compensation compliant with California's employer-friendly regulatory framework"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits appropriate for California\'s high-verdict court system',
+          'Workers compensation insurance as required by law for all employers with any number of employees',
+          'Commercial property insurance with wildfire and earthquake endorsements or standalone policies',
+          'Commercial auto insurance meeting California\'s state minimums and reflecting urban driving risks',
+          'Umbrella or excess liability coverage essential given California\'s plaintiff-friendly litigation environment',
+          'Cyber liability insurance critical for the state\'s extensive technology, healthcare, and financial services sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is trucking insurance so expensive in California?",
-        "a": "California premiums reflect the state's dense traffic and high accident frequency, a litigation environment that produces some of the largest verdicts in the nation, strict CARB emissions and safety regulations, high vehicle repair and medical costs, and elevated cargo theft rates. The combination of these factors makes California consistently the most expensive state for trucking insurance."
+        q: 'Does California require workers compensation for businesses with just one employee?',
+        a: 'Yes. California requires all employers to carry workers compensation insurance regardless of the number of employees. Even a business with a single part-time employee must maintain coverage. This mandate has no exceptions for small businesses, sole proprietors with employees, or family members working in the business. Failure to carry required coverage is a criminal offense with potential fines up to $100,000.'
       },
       {
-        "q": "How does AB5 affect trucking insurance in California?",
-        "a": "AB5 reclassified many owner-operators as employees rather than independent contractors. This affects insurance structures because carriers who use owner-operators as employees must provide workers compensation coverage and include those drivers under the company's commercial auto policy rather than requiring them to carry their own coverage. The ongoing legal challenges to AB5 in the trucking context mean carriers should consult with both legal counsel and their insurance broker."
+        q: 'Is earthquake insurance required for California businesses?',
+        a: 'Earthquake insurance is not legally required for California businesses, but it is strongly recommended. Standard commercial property policies exclude earthquake damage, meaning a seismic event could result in total uninsured loss of property and equipment. Separate earthquake policies are available through private insurers. Businesses located along major fault lines, including the San Andreas, Hayward, and San Jacinto faults, face particularly high seismic risk and should prioritize this coverage.'
       },
       {
-        "q": "What insurance do I need for port drayage in California?",
-        "a": "Port drayage operations require primary auto liability, motor truck cargo insurance with container coverage, and physical damage coverage. Many port terminals and BCOs require minimum liability limits of $1,000,000 or more. Pollution liability may be required for hazmat containers. Drayage carriers must also comply with CARB truck and equipment regulations to maintain port access."
+        q: 'How does California\'s wildfire crisis affect business insurance?',
+        a: 'California\'s increasing wildfire severity has led many insurers to reduce or eliminate coverage in fire-prone areas. Businesses in these zones may face significantly higher premiums, reduced coverage availability, or need to obtain coverage through the California FAIR Plan, which provides basic fire insurance of last resort with limited coverage amounts. Businesses should work with experienced brokers to find coverage and consider wildfire mitigation measures that may improve insurability.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "motor-truck-cargo",
-      "umbrella-excess",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "colorado",
-    "name": "Colorado",
-    "abbreviation": "CO",
-    "metaTitle": "Trucking Insurance in Colorado",
-    "metaDescription": "Commercial trucking insurance for Colorado carriers. Coverage for I-70 mountain corridor operations, Front Range freight, and high-altitude driving risks.",
-    "heroHeading": "Colorado Trucking Insurance",
-    "heroSubheading": "Coverage for carriers navigating the Rockies and the Front Range freight market.",
-    "overview": "Colorado presents a unique combination of high-altitude mountain driving, rapidly growing Front Range urban freight demand, and critical east-west interstate corridors. I-70 through the Rocky Mountains is one of the most challenging truck routes in the country, while I-25 along the Front Range connects a booming distribution market from Fort Collins through Denver to Pueblo. Colorado's growing population and expanding e-commerce fulfillment sector continue to drive trucking demand higher.",
-    "sections": [
+    slug: 'colorado',
+    name: 'Colorado',
+    abbreviation: 'CO',
+    metaTitle: 'Business Insurance in Colorado',
+    metaDescription: 'Business insurance for Colorado companies. Learn about workers compensation requirements, liability rules, and coverage solutions for businesses in the Centennial State\'s growing economy.',
+    heroHeading: 'Business Insurance in Colorado',
+    heroSubheading: 'Commercial insurance tailored for Colorado businesses navigating a fast-growing economy and unique mountain state exposures.',
+    overview: 'Colorado has become one of the most attractive states for business formation and expansion, driven by a highly educated workforce, a strong technology sector, and a quality of life that attracts talent from across the country. The Denver metro area anchors the state\'s economy, but Colorado Springs, Fort Collins, and Boulder also maintain vibrant business communities. The state\'s diverse geography, from the high plains to mountain communities above 10,000 feet, creates varied insurance exposures including hailstorms, wildfires, winter storms, and altitude-related construction challenges. Colorado businesses need insurance programs that account for both the state\'s rapid economic growth and its distinct environmental risks.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Colorado requires interstate carriers to meet FMCSA financial responsibility standards. The Colorado Public Utilities Commission regulates intrastate for-hire carriers and requires liability coverage minimums of $750,000 for vehicles over 26,001 pounds. The PUC also requires cargo insurance for for-hire carriers transporting property.\n\nColorado uses a modified comparative fault system with a 50 percent threshold. The state has seen a significant increase in trucking litigation severity, particularly in the Denver metro area. High-profile mountain corridor accidents, including the 2019 I-70 runaway truck incident in Lakewood that resulted in a 110-year prison sentence before it was commuted, have heightened public awareness and potentially influenced jury attitudes toward trucking defendants."
+        heading: 'State Requirements',
+        content: 'Colorado requires all employers with one or more employees to carry workers compensation insurance. This includes part-time, seasonal, and temporary workers. Limited exceptions exist for certain sole proprietors, partners, and corporate officers who may elect to exclude themselves, but the default requirement applies broadly. Employers may obtain coverage through private insurers or Pinnacol Assurance, the state\'s competitive workers compensation carrier. Self-insurance is available to qualifying employers with approval from the Colorado Division of Workers Compensation.\n\nColorado does not mandate general liability insurance at the state level, but specific industries and professional licenses require proof of coverage. The state follows a modified comparative fault system with a 50 percent threshold, meaning plaintiffs who are 50 percent or more at fault cannot recover damages. Colorado has enacted certain tort reform measures, but the state has also seen a trend toward larger jury verdicts in Denver and Boulder courts, particularly in cases involving serious personal injury and employment practices. Businesses should maintain coverage levels that reflect this evolving litigation landscape.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 is Colorado's critical east-west corridor, crossing the Continental Divide through the Eisenhower Tunnel at over 11,000 feet. West of Denver, I-70 features steep grades, sharp curves, and chain law requirements that make it one of the most operationally challenging freight routes in North America. I-25 runs north-south along the Front Range through Fort Collins, Denver, Colorado Springs, and Pueblo, carrying the bulk of the state's regional freight.\n\nDenver has emerged as a major distribution hub, with significant warehouse and fulfillment center development in the Commerce City, Aurora, and Brighton areas. I-76 connects Denver to the Nebraska border and the agricultural plains of northeastern Colorado. US-50 and US-160 serve western and southern Colorado's energy, mining, and agricultural sectors. The state's growing renewable energy industry is creating new demand for oversize and specialized hauling."
+        heading: 'Business Insurance Landscape',
+        content: 'Colorado\'s insurance market is well-served by national and regional carriers, and the state\'s strong economy has attracted insurer interest across most commercial lines. Premium levels for general liability and workers compensation are moderate by national standards, though specific industries like construction, cannabis, and outdoor recreation may face higher rates due to elevated claim frequency. Colorado\'s workers compensation system has been relatively stable, and the use of Pinnacol Assurance as a competitive state fund provides employers with an additional market option.\n\nProperty insurance in Colorado is significantly impacted by severe hail exposure along the Front Range. Colorado consistently ranks among the top states for hail damage claims, and the Denver metro, Colorado Springs, and Fort Collins areas are particularly affected. Wildfire risk has increased dramatically in mountain and foothill communities, with several devastating fires in recent years raising insurer concern about the wildland-urban interface. Businesses in these areas may face higher property premiums, restrictive policy terms, or limited carrier availability. Winter storms and freeze damage also contribute to property insurance costs across the state.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Mountain driving on I-70 west of Denver is the defining risk for Colorado trucking operations. Steep downgrades, particularly the 7 percent grade on the east side of the Eisenhower Tunnel and the descent into Idaho Springs, have produced numerous runaway truck incidents. Winter conditions bring chain requirements, road closures, and avalanche control operations that can strand equipment for hours.\n\nThe Front Range is susceptible to sudden severe thunderstorms with large hail from April through August, causing significant vehicle and cargo damage. Winter blizzards can close I-25 and I-70 for extended periods. High altitude affects engine performance and braking systems, particularly for trucks not equipped for mountain operations. The rapid growth of Denver-area traffic has increased congestion-related accident frequency along the I-25 and I-70 interchange area."
+        heading: 'Key Industries',
+        content: 'Colorado\'s technology sector has grown substantially, with the Denver-Boulder corridor emerging as a major hub for software development, cybersecurity, aerospace technology, and telecommunications. This sector requires specialized coverage including technology errors and omissions, cyber liability, and intellectual property protection. The aerospace and defense industry maintains a significant presence in Colorado Springs and the Denver area, driven by military installations and federal agencies including NOAA, the U.S. Space Command, and the Air Force Academy.\n\nOutdoor recreation and tourism are integral to Colorado\'s economy, supporting ski resorts, adventure tour operators, hospitality businesses, and sporting goods companies that face unique liability and property exposures. The craft brewing and cannabis industries have thrived in Colorado\'s business-friendly environment, though cannabis businesses face particular insurance challenges due to the federal-state regulatory conflict. Energy production, both traditional oil and gas on the Western Slope and renewable energy including wind and solar, supports a substantial workforce. Healthcare, higher education, and agriculture round out the state\'s key economic sectors.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with elevated limits given mountain corridor accident severity",
-          "Physical damage coverage with hail and winter storm protection",
-          "Motor truck cargo insurance with delay coverage for weather-related road closures",
-          "Towing and recovery coverage with higher limits for mountain recovery operations",
-          "Excess liability to protect against high-severity mountain accident claims"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Colorado\'s growing verdict trends in metro-area courts',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with hail, wildfire, and winter storm coverage appropriate to the business location',
+          'Commercial auto insurance addressing high-altitude driving conditions and winter weather hazards',
+          'Umbrella or excess liability coverage for businesses in tourism, recreation, and construction sectors',
+          'Cyber liability insurance for the state\'s substantial technology and professional services sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Does Colorado have special insurance requirements for mountain corridor operations?",
-        "a": "Colorado does not impose separate insurance requirements for mountain routes, but the PUC requires adequate coverage for all routes operated. Carriers running I-70 through the mountains should ensure their policies do not exclude high-altitude or chain-law routes and should carry elevated towing and recovery limits given the extreme cost of mountain recoveries."
+        q: 'Is workers compensation required for all Colorado employers?',
+        a: 'Yes. Colorado requires workers compensation insurance for all employers with one or more employees, including part-time and seasonal workers. Sole proprietors, partners, and corporate officers may elect to exclude themselves from coverage. Employers can purchase coverage from private carriers, Pinnacol Assurance (the state competitive fund), or qualify for self-insurance. Non-compliance can result in fines and criminal penalties.'
       },
       {
-        "q": "How does Colorado's chain law affect trucking insurance?",
-        "a": "Colorado's chain law requires commercial vehicles to carry and use chains or approved traction devices on I-70 in the mountains during winter conditions. Failure to comply can result in fines and, if an accident occurs, can complicate insurance claims. Carriers should ensure drivers are trained on chain installation and that policies cover chain-related vehicle damage."
+        q: 'How does hail exposure affect Colorado business insurance?',
+        a: 'Colorado is one of the most hail-prone states in the country, particularly along the Front Range from Fort Collins through Denver to Colorado Springs. Commercial property policies typically cover hail damage, but businesses should verify their policy terms, deductible structures, and any hail-specific sublimits. Some policies may impose separate percentage-based hail deductibles. Businesses with significant outdoor property or equipment should ensure adequate coverage for this frequent peril.'
       },
       {
-        "q": "What makes Denver a growing freight market?",
-        "a": "Denver's central location, growing population, and expanding e-commerce sector have attracted major distribution center investments from national retailers and logistics companies. The city's position as a gateway between the Midwest and West Coast markets makes it a natural hub. This growth has increased demand for trucking insurance in the Front Range region."
+        q: 'Can Colorado cannabis businesses get standard business insurance?',
+        a: 'Cannabis businesses in Colorado face significant insurance challenges because cannabis remains a federally controlled substance. Most standard commercial insurers will not cover cannabis operations. However, a growing number of specialty carriers and surplus lines providers now offer coverage specifically designed for licensed cannabis businesses, including general liability, product liability, property, and crop coverage. Working with a broker experienced in the cannabis insurance market is essential.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "connecticut",
-    "name": "Connecticut",
-    "abbreviation": "CT",
-    "metaTitle": "Trucking Insurance in Connecticut",
-    "metaDescription": "Commercial trucking insurance for Connecticut carriers. Coverage for I-95 Northeast Corridor operations, New England distribution.",
-    "heroHeading": "Connecticut Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in the Northeast's critical freight corridor.",
-    "overview": "Connecticut occupies a strategic position in the Northeast freight network, with I-95 carrying enormous truck volumes between New York City and Boston through the state. The tight urban and suburban geography, aging infrastructure, and heavy traffic density create a challenging operating environment. Connecticut's high cost of living translates to elevated repair costs, medical expenses, and litigation values that drive insurance premiums above the national average.",
-    "sections": [
+    slug: 'connecticut',
+    name: 'Connecticut',
+    abbreviation: 'CT',
+    metaTitle: 'Business Insurance in Connecticut',
+    metaDescription: 'Business insurance for Connecticut companies. Understand workers compensation mandates, liability requirements, and coverage solutions for businesses in the Constitution State.',
+    heroHeading: 'Business Insurance in Connecticut',
+    heroSubheading: 'Commercial insurance solutions for Connecticut businesses operating in one of the nation\'s wealthiest and most regulated states.',
+    overview: 'Connecticut occupies a unique position in the American economy as a center for insurance, financial services, and advanced manufacturing, with proximity to both New York City and Boston providing exceptional market access. The state\'s highly educated workforce, strong infrastructure, and affluent consumer market create attractive business conditions, but Connecticut also imposes some of the most demanding regulatory and compliance requirements in the country. High operating costs, including among the highest property taxes and energy costs in the nation, mean that businesses must manage expenses carefully, including their insurance programs. A well-designed commercial insurance portfolio helps Connecticut businesses protect against the state\'s particular mix of coastal weather risks, litigation exposure, and regulatory compliance demands.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Connecticut requires interstate carriers to maintain FMCSA-mandated financial responsibility coverage. The Connecticut Department of Motor Vehicles oversees intrastate carrier registration and requires proof of liability insurance. Connecticut's minimum liability requirements for commercial vehicles align with federal standards for heavy trucks.\n\nConnecticut follows a modified comparative fault system with a 51 percent bar. The state's courts have historically produced moderate to high verdicts in trucking cases, and the dense population means accidents frequently involve multiple vehicles and claimants. Connecticut also requires commercial vehicles to carry uninsured and underinsured motorist coverage, adding to policy costs."
+        heading: 'State Requirements',
+        content: 'Connecticut requires all employers with one or more employees to carry workers compensation insurance. There are no exemptions based on business size, making this one of the strictest workers compensation mandates in the country. Employers may obtain coverage through private insurers or apply for self-insurance approval. The Connecticut Workers Compensation Commission oversees the system. Penalties for non-compliance include fines of up to $50,000 and potential criminal prosecution.\n\nConnecticut imposes additional insurance-related requirements on specific industries and professions. Licensed contractors must carry liability insurance, and various professional services require proof of coverage for licensure. The state follows a modified comparative fault system with a 51 percent bar, meaning a plaintiff who is 51 percent or more at fault cannot recover damages. Connecticut courts are considered moderately plaintiff-friendly, and businesses operating in the state should maintain liability limits that reflect the relatively high verdict environment, particularly in Fairfield County where proximity to New York City influences jury expectations.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs through the southern portion of Connecticut from the New York border through Stamford, Bridgeport, New Haven, and on to the Rhode Island line. It is the backbone of Northeast Corridor freight movement and one of the most congested truck routes in the country. I-91 runs north-south through Hartford and the Connecticut River Valley, connecting to Springfield and points north in Massachusetts. I-84 crosses the state from Danbury through Hartford to the Massachusetts border.\n\nThe Hartford area serves as a regional distribution point, with several major logistics facilities along the I-91 corridor. The Port of New Haven handles petroleum products, building materials, and other bulk cargo. Bridgeport and Stamford's proximity to New York City generates significant last-mile and regional delivery demand. Connecticut's Merritt Parkway prohibits commercial vehicles, funneling all truck traffic onto I-95 and increasing congestion."
+        heading: 'Business Insurance Landscape',
+        content: 'Connecticut is home to some of the largest insurance companies in the world, including The Hartford, Travelers, and Aetna, which gives the state a unique relationship with the insurance industry. The local market is highly competitive with strong carrier presence across all commercial lines. However, premiums tend to be above the national average due to high property values, elevated construction and repair costs, and the state\'s coastal exposure to hurricanes and nor\'easters.\n\nCoastal businesses in particular face significant challenges obtaining affordable property insurance. Wind and flood coverage along Long Island Sound can be expensive and may require surplus lines or state-sponsored programs. Connecticut\'s workers compensation costs are above the national average, reflecting the state\'s high wage levels and medical costs. Employment practices liability insurance has become increasingly important given Connecticut\'s strong employee protection statutes, which are among the most comprehensive in the nation. Businesses should work with knowledgeable brokers to navigate the Connecticut market effectively.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "I-95 congestion is the dominant risk factor, with stop-and-go traffic producing high rates of rear-end collisions and multi-vehicle accidents. The aging infrastructure includes narrow lane widths, limited shoulders, and structurally deficient bridges that restrict truck movements. The Gold Star Memorial Bridge over the Thames River and the Q Bridge in New Haven are persistent bottleneck points.\n\nNor'easters and winter storms bring heavy snow and ice that shut down highways and create treacherous driving conditions. Connecticut's proximity to the coast exposes carriers to coastal flooding and occasional hurricane impacts. The state's dense population means even minor truck accidents frequently involve pedestrians, cyclists, or multiple passenger vehicles, increasing claim complexity and costs."
+        heading: 'Key Industries',
+        content: 'Financial services and insurance form the historic backbone of Connecticut\'s economy, with Hartford known as the Insurance Capital of the World. Major carriers, reinsurers, and financial institutions headquartered in the state employ tens of thousands of workers and require sophisticated insurance programs including professional liability, directors and officers coverage, and cyber protection. Advanced manufacturing, including aerospace components, medical devices, and precision instruments, maintains a strong presence particularly in central and eastern Connecticut.\n\nHealthcare and biotech are growing sectors, with major hospital systems and pharmaceutical companies operating across the state. The defense industry is significant, anchored by the submarine-building operations at Electric Boat in Groton. Higher education institutions, including Yale University and the University of Connecticut, drive economic activity and innovation. Tourism along the coastline and in the rural Litchfield Hills generates seasonal hospitality revenue. Professional services, technology, and the growing craft food and beverage sector round out Connecticut\'s key industries.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given the density of multi-vehicle accidents on I-95",
-          "Uninsured and underinsured motorist coverage as required by Connecticut law",
-          "Physical damage with winter storm and flood coverage for coastal operations",
-          "Motor truck cargo insurance for high-value retail and consumer goods distribution",
-          "Excess liability for carriers regularly operating in the New York and Boston metro areas"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits appropriate for Connecticut\'s high-cost litigation environment',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with windstorm and flood coverage for coastal businesses',
+          'Commercial auto insurance meeting state requirements and reflecting urban Northeast driving conditions',
+          'Umbrella or excess liability coverage to protect against elevated verdict potential in Connecticut courts',
+          'Cyber liability insurance critical for the state\'s financial services, insurance, and healthcare sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Does Connecticut require uninsured motorist coverage for commercial trucks?",
-        "a": "Yes, Connecticut requires uninsured and underinsured motorist coverage on commercial vehicle policies. This is one of a relatively small number of states that mandate this coverage for commercial vehicles, and it adds to overall policy costs but provides important protection on heavily trafficked corridors where uninsured drivers are present."
+        q: 'Does Connecticut require workers compensation for all employers?',
+        a: 'Yes. Connecticut requires all employers with one or more employees to carry workers compensation insurance, with no exemptions for small businesses. This requirement applies to full-time, part-time, and seasonal employees. Employers who fail to maintain required coverage face fines up to $50,000, potential criminal charges, and personal liability for workplace injuries.'
       },
       {
-        "q": "How does I-95 congestion affect trucking insurance costs in Connecticut?",
-        "a": "The extreme congestion on I-95 through Connecticut produces high accident frequency, which directly impacts loss ratios and premium calculations. Carriers operating primarily on I-95 through the Stamford-to-New Haven corridor typically face higher rates than those operating on less congested routes within the state."
+        q: 'What coastal insurance challenges do Connecticut businesses face?',
+        a: 'Businesses located along Connecticut\'s Long Island Sound coastline face elevated property insurance costs and potential coverage limitations due to hurricane and nor\'easter exposure. Standard commercial property policies may exclude or sublimit wind damage in coastal zones, requiring separate windstorm coverage. Flood insurance is typically excluded from standard policies and must be obtained separately. Working with a broker experienced in coastal Connecticut risks is essential for adequate protection.'
       },
       {
-        "q": "Are there truck restrictions on Connecticut highways?",
-        "a": "Yes, the Merritt Parkway and several other Connecticut roads prohibit commercial vehicles, concentrating truck traffic on I-95 and other designated routes. Weight and height restrictions on certain bridges and overpasses also affect routing. Carriers should ensure drivers are familiar with these restrictions to avoid violations and infrastructure damage claims."
+        q: 'Is employment practices liability insurance important for Connecticut businesses?',
+        a: 'Connecticut has some of the most comprehensive employee protection laws in the nation, covering discrimination, harassment, family and medical leave, wage and hour requirements, and whistleblower protections. Employment practices liability insurance is strongly recommended for all Connecticut employers to protect against claims arising under these statutes. The state\'s low threshold for employer coverage under anti-discrimination laws means that even small businesses face meaningful employment-related litigation risk.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "delaware",
-    "name": "Delaware",
-    "abbreviation": "DE",
-    "metaTitle": "Trucking Insurance in Delaware",
-    "metaDescription": "Commercial trucking insurance for Delaware carriers. Coverage for I-95 corridor, Port of Wilmington freight, and Mid-Atlantic regional distribution operations.",
-    "heroHeading": "Delaware Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the Mid-Atlantic's strategic small-state freight hub.",
-    "overview": "Despite its small size, Delaware plays an outsized role in Mid-Atlantic freight movement. I-95 carries heavy truck traffic through the state between the Baltimore-Washington metro and the Philadelphia-New Jersey corridor. The Port of Wilmington is a major import point for fresh fruit, juice concentrate, and automobiles. Delaware's business-friendly corporate environment and lack of sales tax attract distribution operations that generate steady trucking demand.",
-    "sections": [
+    slug: 'delaware',
+    name: 'Delaware',
+    abbreviation: 'DE',
+    metaTitle: 'Business Insurance in Delaware',
+    metaDescription: 'Business insurance for Delaware companies. Learn about workers compensation requirements, liability considerations, and coverage needs in America\'s corporate capital.',
+    heroHeading: 'Business Insurance in Delaware',
+    heroSubheading: 'Commercial insurance for businesses taking advantage of Delaware\'s business-friendly legal framework and strategic Mid-Atlantic location.',
+    overview: 'Delaware holds a singular position in American business as the state of incorporation for more than half of all publicly traded U.S. companies and a majority of Fortune 500 firms. The state\'s business-friendly Chancery Court system, flexible corporate laws, and favorable tax structure for holding companies have made it the preferred domicile for corporate entities of all sizes. Beyond its legal and financial services infrastructure, Delaware maintains a diversified economy that includes chemical manufacturing, healthcare, agriculture, and a growing technology sector. Businesses physically operating in Delaware benefit from the state\'s strategic Mid-Atlantic location, with easy access to Philadelphia, Baltimore, Washington D.C., and New York City. Insurance programs for Delaware businesses must account for the state\'s regulatory requirements, coastal weather exposure, and the realities of operating in a compact but economically active state.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Delaware requires interstate carriers to maintain FMCSA financial responsibility coverage. The Delaware Department of Transportation oversees commercial vehicle operations within the state. Delaware's minimum auto liability limits for commercial vehicles follow federal standards for trucks operating under USDOT authority.\n\nDelaware uses a modified comparative fault system with a 51 percent bar. The state's small geography means that most trucking accidents occurring in Delaware are litigated in a limited number of courts, primarily in New Castle County, which handles the majority of the state's commercial vehicle accident cases. Verdict trends have been moderate compared to neighboring Pennsylvania and New Jersey."
+        heading: 'State Requirements',
+        content: 'Delaware requires all employers with one or more employees to carry workers compensation insurance. The state does not provide a monopolistic state fund, so employers must obtain coverage through private insurers or qualify for self-insurance. The Delaware Department of Labor oversees workers compensation compliance, and employers who fail to maintain required coverage face substantial penalties including fines, stop-work orders, and personal liability for workplace injury costs.\n\nDelaware follows a modified comparative fault system with a 51 percent bar, meaning a plaintiff who is 51 percent or more at fault cannot recover damages. The state\'s court system, particularly the Court of Chancery, is highly regarded for business litigation, though personal injury cases are handled through the Superior Court. Delaware does not mandate general business liability insurance statewide, but various licensing requirements, lease agreements, and government contracts require proof of coverage. Businesses should be aware that despite Delaware\'s small size, the state has its own regulatory framework distinct from neighboring states.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 passes through the northern tip of Delaware, crossing the Delaware Memorial Bridge into New Jersey and running through Wilmington. This short stretch carries some of the highest truck volumes on the East Coast. I-495 provides a bypass around Wilmington for through traffic. US-13 runs the length of the Delmarva Peninsula through Dover and southern Delaware, carrying agricultural and poultry freight.\n\nThe Port of Wilmington, operated by GT USA Wilmington, specializes in fresh fruit imports, juice concentrate, and roll-on roll-off automobile cargo. The port's proximity to I-95 makes it an efficient distribution point for the entire Northeast. Dover and southern Delaware serve the poultry industry, with processing plants from Perdue and Mountaire generating truck traffic on US-13 and connecting routes. The Delaware Turnpike (I-95) connects to the New Jersey Turnpike, creating a continuous toll corridor."
+        heading: 'Business Insurance Landscape',
+        content: 'Delaware\'s insurance market benefits from the state\'s proximity to major metropolitan insurance centers in Philadelphia, New York, and Baltimore. Businesses have access to a competitive range of national and regional carriers, and commercial insurance premiums are generally moderate by Northeast standards. The state\'s small geographic footprint means that most businesses are within the coastal influence zone, where property insurance must account for hurricane, nor\'easter, and flood risks, particularly in the beach communities of Sussex County and the low-lying areas along the Delaware River and Bay.\n\nWorkers compensation costs in Delaware are in line with regional averages, and the state has made efforts to control medical costs within the system. Delaware\'s large number of incorporated entities creates unique insurance needs, with many businesses requiring directors and officers liability coverage, fiduciary liability insurance, and corporate indemnification policies. The state\'s chemical manufacturing heritage, anchored by the former DuPont operations, means that environmental liability coverage remains relevant for businesses in the industrial corridor between Wilmington and Dover.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The concentrated truck traffic on I-95 through New Castle County creates high accident frequency in a very short corridor. The Delaware Memorial Bridge is a major bottleneck that produces congestion-related incidents. Toll plaza approaches on the Delaware Turnpike are high-risk zones for rear-end collisions.\n\nCoastal storms and nor'easters bring flooding to low-lying areas of southern Delaware and can impact port operations in Wilmington. Fog along the Delaware River and Bay creates visibility hazards during fall and spring months. The small state geography means Delaware carriers frequently operate across state lines into Pennsylvania, New Jersey, and Maryland, requiring policies that reflect multi-state exposure."
+        heading: 'Key Industries',
+        content: 'Financial services and corporate governance are the defining characteristics of Delaware\'s business identity. Banks, credit card companies, and corporate service providers are major employers in the Wilmington area, taking advantage of Delaware\'s favorable banking and corporate laws. The legal profession is a substantial industry in its own right, with law firms specializing in corporate law, intellectual property, and business litigation drawn to the state by the Chancery Court.\n\nChemical manufacturing and advanced materials have deep roots in Delaware, though the sector has evolved from its traditional base into specialty chemicals, agricultural products, and advanced materials research. Healthcare is a major employer across the state, with hospital systems and medical facilities serving both the local population and patients from surrounding states. Agriculture remains important in southern Delaware, particularly the poultry industry on the Delmarva Peninsula. Tourism in the Rehoboth Beach and Dewey Beach areas drives a seasonal hospitality economy, while technology and professional services continue to grow in the greater Wilmington area.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting multi-state operations in the high-cost Philadelphia-Baltimore corridor",
-          "Physical damage with flood coverage for coastal and river-adjacent operations",
-          "Motor truck cargo insurance for perishable freight from the Port of Wilmington",
-          "General liability for carriers with warehouse and transloading operations",
-          "Umbrella liability for exposure to Pennsylvania and New Jersey litigation venues"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against bodily injury and property damage claims',
+          'Workers compensation insurance as required for all Delaware employers with one or more employees',
+          'Commercial property insurance with wind and flood coverage for businesses in coastal and low-lying areas',
+          'Commercial auto insurance for business vehicles operating in the densely traveled Mid-Atlantic corridor',
+          'Umbrella or excess liability coverage to protect against significant claims in Delaware courts',
+          'Cyber liability insurance particularly important for the state\'s financial services and corporate governance sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How does Delaware's small size affect trucking insurance?",
-        "a": "Delaware's compact geography means carriers based in the state almost always operate across state lines, exposing them to the insurance requirements and litigation environments of neighboring Pennsylvania, New Jersey, and Maryland. Policies should be structured to cover multi-state operations, and rates often reflect the higher-cost neighboring jurisdictions."
+        q: 'What are Delaware\'s workers compensation requirements?',
+        a: 'Delaware requires all employers with one or more employees to carry workers compensation insurance, with no small business exemptions. Coverage must be obtained through private insurers or through approved self-insurance programs. Employers who fail to comply face penalties including fines, stop-work orders, and personal liability for workplace injuries. The Delaware Department of Labor enforces compliance and can audit businesses for coverage verification.'
       },
       {
-        "q": "What insurance do Port of Wilmington drayage carriers need?",
-        "a": "Port drayage carriers need primary auto liability, motor truck cargo insurance covering containerized freight, and physical damage coverage. Refrigerated cargo coverage with temperature deviation endorsements is important given the port's focus on fresh fruit imports. Many shipping lines require minimum liability limits of $1,000,000 for port access."
+        q: 'Do Delaware-incorporated companies need Delaware business insurance?',
+        a: 'Incorporation in Delaware does not by itself require business insurance in the state. Insurance requirements are based on where a business physically operates and employs workers, not where it is incorporated. However, businesses with physical operations, employees, or significant assets in Delaware must comply with the state\'s insurance requirements. Companies incorporated in Delaware but operating elsewhere should carry insurance in their states of operation.'
       },
       {
-        "q": "Does Delaware have tolls that affect trucking operations?",
-        "a": "Yes, the Delaware Turnpike (I-95) charges tolls for commercial vehicles, and the Delaware Memorial Bridge toll adds costs for cross-river operations. While tolls do not directly affect insurance requirements, the congestion around toll plazas increases accident frequency and should be factored into risk management planning."
+        q: 'What insurance do Delaware coastal businesses need?',
+        a: 'Coastal Delaware businesses, particularly those in Sussex County beach communities, need commercial property insurance with adequate wind and flood coverage. Standard property policies typically exclude flood damage, requiring separate flood insurance through the NFIP or private insurers. Windstorm coverage may be limited or carry higher deductibles in coastal zones. Business interruption coverage is also important given the potential for weather events to close beach-area businesses during peak tourist season.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "general-liability"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "florida",
-    "name": "Florida",
-    "abbreviation": "FL",
-    "metaTitle": "Trucking Insurance in Florida",
-    "metaDescription": "Commercial trucking insurance for Florida carriers. Coverage for I-95 and I-75 corridors, port freight, hurricane exposure.",
-    "heroHeading": "Florida Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in one of America's most demanding trucking insurance markets.",
-    "overview": "Florida is one of the most challenging states for trucking insurance due to the combination of severe weather exposure, dense urban traffic, a plaintiff-friendly litigation environment, and the sheer volume of freight moving through the state. Multiple deep-water ports, a massive consumer economy, and the state's position as a gateway for Latin American trade generate enormous trucking demand. Insurance costs in Florida consistently rank among the highest in the nation.",
-    "sections": [
+    slug: 'florida',
+    name: 'Florida',
+    abbreviation: 'FL',
+    metaTitle: 'Business Insurance in Florida',
+    metaDescription: 'Business insurance for Florida companies. Navigate hurricane exposure, workers compensation requirements, and liability coverage needs in the Sunshine State\'s dynamic business environment.',
+    heroHeading: 'Business Insurance in Florida',
+    heroSubheading: 'Essential commercial coverage for Florida businesses facing hurricane risk, rapid growth, and a complex insurance market.',
+    overview: 'Florida is the third-most-populous state and one of the fastest-growing business destinations in the country, attracting companies with no state income tax, a large consumer market, and a strategic location for both domestic and international trade. However, Florida also presents one of the most challenging insurance environments in the nation. The state\'s extreme hurricane exposure has reshaped the property insurance market, driving up costs and reducing carrier availability in many areas. Combined with a litigation environment that has been described as one of the most plaintiff-friendly in the country, Florida businesses face significant pressure to maintain robust insurance programs. Understanding the state\'s unique insurance landscape is essential for any business operating in the Sunshine State.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Florida requires interstate carriers to maintain FMCSA financial responsibility minimums. The Florida Department of Transportation requires intrastate carriers to register and maintain liability coverage. Florida is a no-fault state for personal auto insurance, but commercial vehicle liability claims are handled on a fault basis, with pure comparative negligence applying to trucking accident cases.\n\nFlorida's litigation environment is widely considered one of the most plaintiff-friendly in the country. The state has been ground zero for nuclear verdicts in trucking cases, with several jury awards exceeding $100 million in recent years. Third-party litigation financing and aggressive personal injury attorney advertising contribute to a claims environment that demands robust liability limits and proactive risk management."
+        heading: 'State Requirements',
+        content: 'Florida\'s workers compensation requirements vary by industry. Construction businesses must carry coverage if they have one or more employees. Non-construction businesses must carry coverage if they have four or more employees. Agricultural employers must provide coverage if they have six or more regular employees or twelve or more seasonal workers. Corporate officers in the construction industry are automatically included unless they elect an exemption, while officers in non-construction businesses may opt out. Employers may obtain coverage through private insurers or apply for self-insurance.\n\nFlorida does not mandate general liability insurance for most businesses, but contractors must carry both liability and workers compensation coverage to maintain their licenses. Commercial vehicle operators must meet state liability minimums. Florida follows a pure comparative negligence system, recently modified by tort reform legislation, which allows proportional damage recovery. The state has historically been considered one of the most challenging litigation environments in the country, with high claim frequency and a history of large jury verdicts, particularly in Miami-Dade, Broward, and Palm Beach counties. Recent tort reform measures aim to address these concerns, but businesses should still maintain substantial liability limits.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs the full length of Florida's Atlantic coast from Jacksonville through Daytona Beach, the Space Coast, Fort Lauderdale, and Miami. I-75 enters the state from Georgia, passes through Gainesville and Tampa, then crosses the Everglades via Alligator Alley to connect with Fort Lauderdale and Miami. I-4 connects Tampa to Orlando and Daytona Beach, crossing the center of the state through one of the most dangerous highway stretches in America.\n\nThe Port of Miami, Port Everglades in Fort Lauderdale, and JAXPORT in Jacksonville are major container ports generating drayage demand. Tampa's port focuses on bulk and petroleum products. Orlando's massive tourism economy drives refrigerated food distribution and construction materials hauling. The Florida Turnpike supplements I-95 as a north-south freight route. US-27 carries agricultural freight through the interior."
+        heading: 'Business Insurance Landscape',
+        content: 'Florida\'s property insurance market is in a state of ongoing disruption. Multiple insurers have exited the state or significantly reduced their exposure in recent years due to escalating hurricane losses, litigation costs, and reinsurance expenses. Businesses in coastal areas and throughout much of the peninsula face high property insurance premiums, limited carrier options, and potential gaps in coverage. Citizens Property Insurance Corporation, the state-backed insurer of last resort, has grown substantially as private market options have contracted.\n\nFlood insurance is a critical concern for Florida businesses, as the state has more properties in flood zones than any other. Standard commercial property policies exclude flood, requiring separate coverage through the National Flood Insurance Program or private flood insurers. Workers compensation costs in Florida are moderate by national standards, and the state has implemented reforms to control system costs. However, the combination of expensive property coverage, elevated liability risk, and the state\'s high growth rate means that Florida businesses must budget carefully for their insurance needs and work with brokers who understand the state\'s complex and evolving market.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane season from June through November is the most significant catastrophic risk for Florida trucking operations. Storms can destroy parked equipment, shut down port operations, and close major highways for days. Even tropical storms bring flooding and wind damage that produce substantial physical damage claims. The state averages the most lightning strikes per square mile in the country, creating an additional weather hazard.\n\nI-4 between Tampa and Orlando is consistently ranked among the most dangerous highways in America for fatal crashes. South Florida's combination of aggressive driving culture, high tourist traffic, and dense urban freight operations produces extremely high accident frequency. Cargo theft in the Miami and Fort Lauderdale area is among the worst in the nation, and insurance fraud rings targeting commercial vehicles are a persistent problem in South Florida."
+        heading: 'Key Industries',
+        content: 'Tourism and hospitality form the largest sector of Florida\'s economy, with theme parks, beach resorts, cruise lines, and convention centers employing hundreds of thousands of workers and generating billions in revenue. These businesses face significant property exposure from hurricanes, liability risk from high visitor volumes, and workers compensation costs associated with physically active workforces. Real estate and construction have boomed alongside population growth, creating demand for builders risk, general liability, and professional liability coverage.\n\nInternational trade is a major economic driver, with the Port of Miami and Port Everglades serving as primary gateways for Latin American and Caribbean commerce. Agriculture remains significant, with Florida leading the nation in citrus production and maintaining substantial operations in sugarcane, tomatoes, and cattle. The aerospace and defense industry has a major presence along the Space Coast and in the Tampa Bay area. Healthcare is one of the largest employers statewide, and the technology sector continues to grow in Miami, Tampa, and Orlando. Financial services, particularly in South Florida, and the emerging life sciences sector add to the state\'s diverse insurance needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum, with many Florida markets requiring $2,000,000 or higher",
-          "Umbrella or excess liability as the most critical coverage given Florida's nuclear verdict environment",
-          "Physical damage with named-storm, flood, and comprehensive wind coverage",
-          "Motor truck cargo insurance with theft coverage and higher deductibles in South Florida",
-          "Pollution liability for carriers hauling through environmentally sensitive Everglades and coastal areas",
-          "Workers compensation covering heat-related illness and hurricane evacuation scenarios"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Florida\'s plaintiff-friendly litigation environment',
+          'Workers compensation insurance meeting the applicable threshold for your industry and employee count',
+          'Commercial property insurance with comprehensive hurricane and named-storm coverage, including wind and flood',
+          'Commercial auto insurance for business vehicles operating in Florida\'s high-traffic metropolitan areas',
+          'Umbrella or excess liability coverage essential given Florida\'s verdict history in South Florida courts',
+          'Cyber liability insurance for businesses in tourism, healthcare, financial services, and technology'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why are Florida trucking insurance premiums so high?",
-        "a": "Florida combines a plaintiff-friendly litigation environment with nuclear verdict exposure, high accident frequency on congested corridors like I-4 and I-95, significant hurricane and flood risk, elevated cargo theft rates in South Florida, and one of the highest rates of insurance fraud in the country. These factors create an extremely challenging underwriting environment that drives premiums well above the national average."
+        q: 'When is workers compensation required for Florida businesses?',
+        a: 'Workers compensation requirements in Florida depend on your industry. Construction businesses must carry coverage with one or more employees. Non-construction businesses must carry coverage with four or more employees. Agricultural employers have separate thresholds based on the number of regular and seasonal workers. Corporate officers in construction are automatically covered unless they file for exemption, while non-construction officers may opt out.'
       },
       {
-        "q": "How should Florida trucking companies prepare for hurricane season?",
-        "a": "Carriers should develop written hurricane preparedness plans that include equipment relocation protocols, driver safety procedures, and communication plans. Insurance policies should include comprehensive wind and flood coverage without named-storm exclusions. Physical damage policies should cover equipment at any location, not just the terminal address, since trucks may need to be relocated inland during storms."
+        q: 'How do hurricanes affect Florida business insurance costs?',
+        a: 'Hurricane exposure is the single largest factor driving Florida commercial property insurance costs. Many private insurers have reduced their Florida presence, leaving businesses with fewer options and higher premiums. Coastal businesses face the highest costs, but even inland locations are affected by windstorm risk. Businesses should ensure their policies cover wind, named storms, and flood damage, which typically requires separate policies or endorsements.'
       },
       {
-        "q": "What is driving nuclear verdicts in Florida trucking cases?",
-        "a": "Florida's pure comparative negligence standard, strong personal injury attorney presence, third-party litigation financing, and jury attitudes toward commercial trucking companies all contribute. Carriers should invest in dashcam technology, electronic logging compliance, thorough driver screening, and proactive safety programs to create strong defense positions when claims arise."
+        q: 'Is flood insurance mandatory for Florida businesses?',
+        a: 'Flood insurance is not universally mandatory, but businesses with federally backed mortgages in designated flood zones are required to carry it. Given that Florida has more flood-prone properties than any other state, flood insurance is strongly recommended for virtually all Florida businesses regardless of location. Standard commercial property policies exclude flood damage, so separate coverage through the National Flood Insurance Program or private flood insurers is necessary.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "physical-damage",
-      "motor-truck-cargo"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "georgia",
-    "name": "Georgia",
-    "abbreviation": "GA",
-    "metaTitle": "Trucking Insurance in Georgia",
-    "metaDescription": "Commercial trucking insurance for Georgia carriers. Coverage for Atlanta freight hub operations, I-75 and I-85 corridors, and Port of Savannah drayage.",
-    "heroHeading": "Georgia Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the Southeast's largest freight hub.",
-    "overview": "Georgia anchors the Southeast freight network, with Atlanta serving as one of the nation's most important distribution and intermodal hubs. The Port of Savannah is the fastest-growing container port in the country and the third-busiest overall, generating massive drayage and long-haul demand. Multiple major interstates converge in Georgia, and the state's carrier population has grown significantly to meet rising freight volumes. Insurance considerations reflect Atlanta's notorious traffic congestion and a challenging litigation environment.",
-    "sections": [
+    slug: 'georgia',
+    name: 'Georgia',
+    abbreviation: 'GA',
+    metaTitle: 'Business Insurance in Georgia',
+    metaDescription: 'Business insurance for Georgia companies. Understand workers compensation requirements, liability rules, and coverage options for businesses in the Peach State\'s diverse and growing economy.',
+    heroHeading: 'Business Insurance in Georgia',
+    heroSubheading: 'Commercial coverage solutions for Georgia businesses operating in the economic capital of the Southeast.',
+    overview: 'Georgia is the economic powerhouse of the Southeastern United States, with Atlanta serving as a global business hub for logistics, technology, film production, and corporate headquarters. The state\'s pro-business policies, strategic location at the intersection of major transportation networks, and growing metropolitan areas make it one of the most attractive states for business investment. Georgia\'s economy extends well beyond Atlanta, with significant agricultural output across the southern and central parts of the state, a strong military and defense presence, and growing manufacturing and healthcare sectors. Businesses in Georgia must account for a range of insurance exposures including severe weather, an active litigation environment, and industry-specific regulatory requirements.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Georgia requires interstate carriers to meet FMCSA financial responsibility requirements. The Georgia Department of Public Safety, Motor Carrier Compliance Division, oversees intrastate carrier registration and requires proof of liability insurance. Georgia's minimum commercial vehicle liability limits follow federal standards, with $750,000 required for general freight carriers.\n\nGeorgia uses a modified comparative fault system with a 50 percent bar. The Fulton County and Gwinnett County courts in the Atlanta metro area have produced several notable large verdicts in trucking cases. Georgia's apportionment statute allows juries to consider the fault of all parties, which can benefit carriers in multi-vehicle accident cases but has not prevented a trend toward increasing verdict severity in the Atlanta market."
+        heading: 'State Requirements',
+        content: 'Georgia requires employers with three or more employees to carry workers compensation insurance, including part-time employees and corporate officers unless specifically excluded. The State Board of Workers Compensation oversees the system. Employers must obtain coverage through private insurers, as Georgia does not operate a state workers compensation fund. Self-insurance is available for qualifying employers. Penalties for non-compliance include fines, injunctions, and personal liability for corporate officers.\n\nGeorgia does not require general liability insurance for all businesses, but contractors, professional service providers, and businesses seeking government contracts typically must carry specified coverage levels. The state follows a modified comparative fault system with a 50 percent threshold, barring recovery for plaintiffs who are 50 percent or more at fault. Despite this threshold, Georgia\'s court system, particularly in the metro Atlanta area, has produced substantial jury verdicts in recent years, especially in personal injury and premises liability cases. Businesses operating in high-traffic locations or customer-facing industries should maintain robust liability limits.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-75 runs north-south through the center of Georgia from Chattanooga through Atlanta to Valdosta and the Florida border. I-85 enters from South Carolina, passes through Atlanta, and continues southwest to the Alabama border. These two interstates merge in downtown Atlanta to form the Downtown Connector, one of the most congested freight corridors in the Southeast. I-20 crosses the state east-west through Atlanta, connecting Augusta to Birmingham.\n\nI-16 connects Savannah to Macon, serving as the primary route for Port of Savannah container traffic moving inland. I-95 runs along the coast through Savannah and Brunswick. The Port of Savannah handled over 5.5 million TEUs in recent years and has expanded its inland port operations in Cordele and northeast Georgia to distribute port freight deeper into the state. Atlanta's Hartsfield-Jackson airport area is a major air cargo to truck transshipment point."
+        heading: 'Business Insurance Landscape',
+        content: 'Georgia\'s large and diverse economy attracts strong insurer participation, giving businesses access to competitive coverage options across most commercial lines. The Atlanta market in particular benefits from having numerous national and regional carriers actively competing for business. Premium levels for general liability and workers compensation are moderate by national standards, though specific industries and geographic areas may face higher costs.\n\nProperty insurance in Georgia must account for severe thunderstorms, tornadoes, hail, and hurricane risk along the coast. The Savannah area and coastal islands face direct hurricane exposure, while inland areas from Atlanta southward experience frequent severe convective storms. Georgia\'s workers compensation system has undergone reforms aimed at controlling costs while maintaining adequate benefits for injured workers. The state\'s growing technology and film production sectors have created demand for specialized coverage products including production insurance, intellectual property protection, and technology errors and omissions. Businesses should partner with brokers familiar with Georgia\'s specific market dynamics and regulatory requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Atlanta traffic congestion is the dominant risk factor, with the I-75/I-85 Downtown Connector and the I-285 perimeter loop generating extremely high accident frequency. The Spaghetti Junction interchange where I-85 meets I-285 is one of the most complex and dangerous interchanges for truck traffic in the Southeast. Rush hour congestion extends for hours and miles beyond the city center.\n\nSevere thunderstorms with tornadoes and hail affect Georgia from March through June. Tropical storms moving inland from the Gulf or Atlantic can bring heavy flooding, particularly in southern Georgia. Fog is a significant hazard in the coastal plain and along I-16 between Macon and Savannah. The rapid growth of the Port of Savannah has increased truck traffic on I-16 and I-95, routes that were not originally designed for current volume levels."
+        heading: 'Key Industries',
+        content: 'Atlanta is a global transportation and logistics hub, home to the world\'s busiest airport by passenger traffic and a major rail and highway interchange. Logistics companies, airlines, and distribution operations in the Atlanta area have significant insurance needs including cargo coverage, commercial auto, and workers compensation for large mobile workforces. The technology sector has grown rapidly, with Atlanta emerging as a fintech center and attracting major tech firms seeking southeastern talent.\n\nFilm and television production has exploded in Georgia, driven by generous state tax credits that have made Atlanta a rival to Los Angeles for studio production. Agriculture remains the foundation of rural Georgia\'s economy, with poultry, pecans, peanuts, and cotton among the leading commodities. The military and defense sector is anchored by installations including Fort Moore, Fort Stewart, and Robins Air Force Base. Healthcare is among the largest employers statewide, and manufacturing, particularly automotive and food processing, continues to expand. The Port of Savannah, one of the largest and fastest-growing container ports in North America, drives substantial economic activity in logistics, warehousing, and international trade.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher for Atlanta metro operations",
-          "Umbrella or excess liability to protect against Fulton County verdict exposure",
-          "Motor truck cargo insurance for containerized freight from the Port of Savannah",
-          "Physical damage with hail and flood coverage for severe weather events",
-          "Non-trucking liability for the large owner-operator population serving Atlanta distribution centers"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with adequate limits for Georgia\'s active litigation environment, particularly in metro Atlanta',
+          'Workers compensation insurance as required for employers with three or more employees',
+          'Commercial property insurance with severe storm, tornado, and hurricane coverage based on business location',
+          'Commercial auto insurance for businesses operating vehicles in Atlanta\'s congested metropolitan traffic',
+          'Umbrella or excess liability coverage to guard against the large verdicts seen in Georgia courts',
+          'Cyber liability insurance for the state\'s growing technology, healthcare, and professional services sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "What insurance do I need for Port of Savannah drayage?",
-        "a": "Port drayage carriers need primary auto liability at $1,000,000 minimum, motor truck cargo insurance for containerized freight, physical damage coverage, and often a MCS-90 endorsement. The Georgia Ports Authority and most shipping lines require specific certificate of insurance language. Overweight container permits for I-16 operations may require additional coverage verification."
+        q: 'What triggers the workers compensation requirement in Georgia?',
+        a: 'Georgia requires workers compensation insurance for employers with three or more employees, including part-time workers and corporate officers who have not specifically elected exclusion. The three-employee count includes the business owner in some cases. Employers who fail to carry required coverage face fines, potential injunctions against business operations, and personal liability for officers and directors.'
       },
       {
-        "q": "How does Atlanta traffic affect trucking insurance rates?",
-        "a": "Carriers operating primarily in the Atlanta metro area face higher premiums due to the extremely high accident frequency on I-75, I-85, and I-285. Insurers evaluate the percentage of operations in the Atlanta metro when rating policies. Carriers with GPS data showing primarily rural or non-Atlanta routes may qualify for better rates."
+        q: 'What weather risks affect Georgia business insurance?',
+        a: 'Georgia businesses face multiple severe weather exposures. Coastal areas around Savannah and the Golden Isles are subject to hurricane risk. Central and northern Georgia experience frequent tornadoes, severe thunderstorms, and damaging hail, particularly during spring. Flooding can affect businesses near rivers and in low-lying areas throughout the state. Commercial property policies should include appropriate coverage for these perils, and flood coverage requires a separate policy.'
       },
       {
-        "q": "Is Georgia a high-risk state for trucking litigation?",
-        "a": "Georgia has seen increasing trucking verdict severity, particularly in the Atlanta metro courts. Fulton County has produced several large trucking verdicts, and the trend is accelerating. Carriers should maintain liability limits of at least $1,000,000 and carry excess or umbrella coverage. Dashcam footage and electronic logging compliance are essential defense tools."
+        q: 'Do Georgia film production companies need special insurance?',
+        a: 'Yes. Film and television productions in Georgia require specialized insurance including production liability, cast and crew coverage, equipment insurance, errors and omissions coverage, and workers compensation. Most studios and production facilities require proof of comprehensive insurance before allowing productions to begin. Georgia\'s growing film industry has attracted specialty insurers who understand the unique risks of production work.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "motor-truck-cargo",
-      "physical-damage"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "hawaii",
-    "name": "Hawaii",
-    "abbreviation": "HI",
-    "metaTitle": "Trucking Insurance in Hawaii",
-    "metaDescription": "Commercial trucking insurance for Hawaii carriers. Coverage for island freight operations, port drayage, and the unique challenges of insular trucking markets.",
-    "heroHeading": "Hawaii Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in the nation's most isolated freight market.",
-    "overview": "Trucking in Hawaii operates under fundamentally different conditions than the mainland. All freight enters the islands by ship or air, making port drayage and local distribution the core of the trucking market. Operations are confined to individual islands with limited highway networks, short haul distances, and unique regulatory requirements. The isolated insurance market and high cost of vehicle repair and replacement contribute to elevated premiums relative to haul distances.",
-    "sections": [
+    slug: 'hawaii',
+    name: 'Hawaii',
+    abbreviation: 'HI',
+    metaTitle: 'Business Insurance in Hawaii',
+    metaDescription: 'Business insurance for Hawaii companies. Learn about the state\'s mandatory coverage requirements, unique island economy, and insurance needs for businesses in the Aloha State.',
+    heroHeading: 'Business Insurance in Hawaii',
+    heroSubheading: 'Island-appropriate commercial coverage for Hawaii businesses navigating unique regulatory requirements and geographic challenges.',
+    overview: 'Hawaii\'s island geography and isolated location in the Pacific Ocean create a business environment unlike anywhere else in the United States. The state\'s economy is heavily dependent on tourism, military spending, and construction, with limited manufacturing and agricultural diversification. High operating costs, including expensive real estate, energy, and shipping, create financial pressures that make effective risk management and insurance planning especially important. Hawaii imposes some unique insurance requirements, including mandatory temporary disability insurance and prepaid healthcare coverage, that go beyond what most other states require. Businesses operating in Hawaii need insurance programs that account for the state\'s distinct regulatory framework, volcanic and hurricane exposure, and the economic realities of doing business on remote Pacific islands.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Hawaii requires commercial motor carriers to maintain liability insurance meeting both federal FMCSA standards for any interstate authority and state requirements for intrastate operations. The Hawaii Public Utilities Commission regulates for-hire motor carriers and requires a Certificate of Public Convenience and Necessity along with proof of insurance.\n\nHawaii uses a modified comparative fault system with a 51 percent bar. The state's small, tight-knit communities and limited number of trial courts mean that trucking cases are handled by judges and juries who may have strong local perspectives. Repair costs and medical expenses in Hawaii significantly exceed mainland averages due to the cost of shipping parts and the limited supply of medical specialists."
+        heading: 'State Requirements',
+        content: 'Hawaii requires all employers with one or more employees to carry workers compensation insurance. The state operates a competitive state fund through the Hawaii Employers\' Mutual Insurance Company, but employers may also obtain coverage through private carriers or qualify for self-insurance. Uniquely, Hawaii also mandates that employers provide Temporary Disability Insurance covering non-work-related injuries and illnesses, and Prepaid Health Care covering employees who work 20 or more hours per week. These additional mandates make Hawaii one of the most demanding states for employer-provided insurance coverage.\n\nHawaii follows a modified comparative negligence system with a 51 percent bar, preventing recovery by plaintiffs who are more at fault than the defendant. The state does not mandate general business liability insurance, but numerous professional licenses and government contracts require proof of coverage. Hawaii\'s isolated court system and relatively small legal community can produce unpredictable verdict outcomes, though the state is generally considered moderate in terms of litigation climate. Businesses should maintain adequate liability coverage that reflects Hawaii\'s high cost of living and correspondingly high damage award expectations.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "Oahu carries the majority of Hawaii's truck traffic, with H-1 connecting Pearl Harbor and the Port of Honolulu to Waikiki and eastern Honolulu. H-2 runs from Wahiawa to Pearl City, and H-3 connects Kaneohe to the H-1 corridor. The Port of Honolulu is the primary receiving point for containerized consumer goods entering the state.\n\nOn the Big Island, the Hawaii Belt Road (Route 19 and Route 11) circles the island and carries agricultural, construction, and tourism-related freight. Maui's Hana Highway and Haleakala Highway serve the island's resorts and agricultural operations. Kahului Harbor on Maui and Nawiliwili Harbor on Kauai are secondary ports receiving inter-island barge shipments. Young Brothers operates the inter-island barge service that feeds local trucking operations on each island."
+        heading: 'Business Insurance Landscape',
+        content: 'Hawaii\'s insurance market is constrained by the state\'s geographic isolation and relatively small business population. Fewer carriers actively compete in Hawaii compared to mainland states, which can result in less favorable pricing and coverage terms for some commercial lines. Property insurance is significantly impacted by hurricane exposure, volcanic activity, and tsunami risk, with many mainland carriers reluctant to take on concentrated island property exposures.\n\nThe Hawaii Property Insurance Association provides property coverage for businesses unable to obtain it in the private market, serving a function similar to FAIR plans in other states. Workers compensation premiums in Hawaii are above the national average, reflecting the state\'s high medical costs and wage levels. The additional requirements for temporary disability insurance and prepaid healthcare add to employers\' total insurance costs, making Hawaii one of the most expensive states for comprehensive workforce coverage. Businesses should work with brokers who have specific Hawaii market expertise and relationships with the limited number of carriers actively writing island risks.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Volcanic activity on the Big Island creates road closures, air quality hazards, and infrastructure damage. The 2018 Kilauea eruption destroyed roads and isolated communities, disrupting freight operations for months. Tropical storms and hurricanes are periodic threats, though less frequent than on the mainland Gulf Coast. Heavy rainfall and flash flooding are common, particularly on windward coasts.\n\nNarrow, winding roads with steep grades and limited shoulders characterize much of Hawaii's rural highway network. Tourist traffic on scenic routes creates congestion and accident risk. Salt air corrosion accelerates vehicle deterioration, increasing physical damage claim frequency. The limited availability of replacement vehicles and parts means downtime from accidents or breakdowns is significantly longer than on the mainland."
+        heading: 'Key Industries',
+        content: 'Tourism is the dominant private industry in Hawaii, generating billions in annual revenue and employing a significant portion of the workforce in hotels, restaurants, tour operators, retail, and transportation services. Tourism businesses face substantial property exposure from tropical weather, liability risks from high visitor volumes engaging in activities ranging from beach recreation to helicopter tours, and workers compensation costs for large hospitality workforces.\n\nThe military and federal government are the largest single employer in Hawaii, with major installations including Pearl Harbor, Joint Base Pearl Harbor-Hickam, Schofield Barracks, and Marine Corps Base Hawaii. Defense-related contracting and support services create significant business activity. Construction is a perpetually active sector driven by resort development, military construction, and residential building, though high material costs and labor shortages present challenges. Healthcare serves both the resident population and the seasonal visitor influx. Agriculture, while smaller than in previous decades, includes diversified farming, coffee production, macadamia nuts, and a growing local food movement. The renewable energy sector is expanding as Hawaii pursues its goal of 100 percent renewable electricity.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting Hawaii's high medical cost environment",
-          "Physical damage with agreed-value coverage given the high cost of vehicle replacement on the islands",
-          "Motor truck cargo insurance for port drayage and inter-island freight",
-          "Comprehensive coverage for volcanic activity, tropical storm, and flood exposure",
-          "Workers compensation compliant with Hawaii's state-specific requirements"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Hawaii\'s high cost of living and damage award expectations',
+          'Workers compensation insurance as required for all employers, plus Temporary Disability Insurance compliance',
+          'Commercial property insurance with hurricane, volcanic activity, and flood coverage appropriate to the island location',
+          'Commercial auto insurance for business vehicles operating on island road networks',
+          'Umbrella or excess liability coverage for tourism and hospitality businesses with high public interaction',
+          'Cyber liability insurance for healthcare, hospitality, and professional services businesses handling customer data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is trucking insurance expensive in Hawaii?",
-        "a": "Hawaii premiums reflect the isolated market with fewer competing insurers, extremely high vehicle repair and replacement costs due to shipping, medical expenses well above mainland averages, and the logistical challenges of claims handling in an island environment. The limited pool of commercial auto insurers willing to write Hawaii policies further limits competitive pricing."
+        q: 'What unique insurance requirements does Hawaii impose on employers?',
+        a: 'Hawaii requires employers to provide three types of coverage that are not mandated in most other states: workers compensation insurance for all employers with one or more employees, Temporary Disability Insurance covering non-work-related illness and injury, and Prepaid Health Care covering employees working 20 or more hours per week. These combined requirements make Hawaii one of the most demanding states for employer-provided insurance and benefits.'
       },
       {
-        "q": "Can mainland trucking insurance policies cover Hawaii operations?",
-        "a": "Most mainland commercial auto policies do not automatically cover Hawaii operations because vehicles cannot be driven between the mainland and the islands. Hawaii operations typically require separate policies issued by carriers licensed in the state. Some national insurers offer coordinated programs, but coverage must specifically include Hawaii territory."
+        q: 'How does volcanic activity affect Hawaii business insurance?',
+        a: 'Volcanic activity creates unique insurance exposures for Hawaii businesses, particularly on the Big Island. Standard commercial property policies may exclude volcanic damage or include it with specific limitations. Businesses in areas near active volcanic zones should verify their policy terms and may need specialized endorsements. Volcanic emissions, lava flow, and volcanic fog called vog can damage property, disrupt operations, and create health hazards for workers.'
       },
       {
-        "q": "What unique risks do Hawaii trucking companies face?",
-        "a": "Volcanic activity, saltwater corrosion, isolated operations with long parts-supply timelines, narrow mountain roads, tropical weather, and a limited pool of qualified commercial vehicle mechanics all create risks unique to Hawaii. Carriers should work with brokers experienced in the Hawaii market to ensure these exposures are properly covered."
+        q: 'Is hurricane insurance included in standard Hawaii property policies?',
+        a: 'Hurricane and windstorm coverage in Hawaii varies by carrier and policy. Some standard commercial property policies include wind coverage with higher deductibles for named storms, while others may exclude or significantly limit hurricane coverage. The Hawaii Hurricane Relief Fund was established after Hurricane Iniki in 1992 but is currently inactive. Businesses should carefully review their property policies to ensure adequate hurricane protection and may need separate windstorm policies.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "idaho",
-    "name": "Idaho",
-    "abbreviation": "ID",
-    "metaTitle": "Trucking Insurance in Idaho",
-    "metaDescription": "Commercial trucking insurance for Idaho carriers. Coverage for I-84 and I-90 corridor operations, agricultural hauling, and mountain terrain driving risks.",
-    "heroHeading": "Idaho Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating across Idaho's diverse terrain and agricultural freight lanes.",
-    "overview": "Idaho's trucking industry is shaped by its agricultural economy, long-haul corridors connecting the Pacific Northwest to the Mountain West, and challenging mountain terrain. I-84 crosses southern Idaho through Boise and Twin Falls, carrying freight between Portland and Salt Lake City. The state's potato, dairy, and grain production generates significant refrigerated and bulk hauling demand. Idaho's growing population, particularly in the Boise metro area, is expanding the local distribution market.",
-    "sections": [
+    slug: 'idaho',
+    name: 'Idaho',
+    abbreviation: 'ID',
+    metaTitle: 'Business Insurance in Idaho',
+    metaDescription: 'Business insurance for Idaho companies. Understand workers compensation requirements, liability rules, and coverage options for businesses in one of America\'s fastest-growing states.',
+    heroHeading: 'Business Insurance in Idaho',
+    heroSubheading: 'Commercial insurance solutions for Idaho businesses capitalizing on the Gem State\'s rapid growth and business-friendly environment.',
+    overview: 'Idaho has emerged as one of the fastest-growing states in the country, attracting businesses and residents with its low cost of living, business-friendly regulations, no franchise tax, and high quality of life. The Boise metropolitan area has experienced particularly rapid growth, with technology companies, healthcare systems, and professional services firms expanding their presence. Idaho\'s economy also draws strength from agriculture, timber, mining, and food processing industries that have been pillars of the state for generations. The combination of established natural resource industries and a growing modern economy creates diverse insurance needs. Idaho businesses must also account for geographic risks including wildfire, severe winter weather, and earthquake activity in certain parts of the state.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Idaho requires interstate carriers to meet FMCSA financial responsibility requirements. The Idaho Transportation Department oversees motor carrier registration and requires proof of insurance for intrastate operations. Idaho's minimum liability requirements for commercial vehicles follow federal standards based on vehicle weight and cargo type.\n\nIdaho uses a modified comparative fault system with a 50 percent bar. The state's rural character and relatively small population mean that trucking litigation volume is lower than in more urban states, and verdict trends have been moderate. However, the severity of accidents on mountain roads and high-speed rural interstates can produce significant individual claims."
+        heading: 'State Requirements',
+        content: 'Idaho requires all employers with one or more employees to carry workers compensation insurance, with limited exceptions for household domestic workers and certain casual employees. The Idaho Industrial Commission oversees the workers compensation system. Employers must obtain coverage through private carriers, the Idaho State Insurance Fund (a competitive state fund), or by qualifying for self-insurance. Idaho\'s State Insurance Fund provides a market of last resort for employers who cannot obtain private coverage, ensuring all businesses have access to required workers compensation insurance.\n\nIdaho does not impose a statewide general liability insurance requirement, but contractors, certain licensed professionals, and businesses contracting with government entities are typically required to carry specific coverage levels. The state follows a modified comparative fault system with a 50 percent bar, meaning plaintiffs who are equally or more at fault than the defendant cannot recover damages. Idaho\'s court system is generally considered favorable to defendants compared to many other states, with moderate verdict sizes. However, businesses should still maintain adequate liability coverage, as serious injury claims can result in significant awards regardless of the overall litigation climate.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-84 is Idaho's primary east-west corridor, entering from Oregon near Boise and running through Twin Falls, Burley, and Pocatello before crossing into Utah. This route carries heavy freight volumes between the Pacific Northwest and the Intermountain West. I-86 connects I-84 at Pocatello to I-15 at Chubbuck, providing access to the north-south corridor running through eastern Idaho.\n\nI-90 crosses the Idaho panhandle through Coeur d'Alene, connecting Spokane, Washington to western Montana. I-15 runs through eastern Idaho from Montana through Idaho Falls and Pocatello to Utah, carrying freight along the Intermountain corridor. US-95 is the primary north-south route through western Idaho, connecting the Boise area to the panhandle through rugged mountain terrain. The Boise metro area has seen significant distribution center development along the I-84 corridor."
+        heading: 'Business Insurance Landscape',
+        content: 'Idaho\'s insurance market has grown alongside the state\'s economy, with an increasing number of national carriers actively competing for Idaho business. The Idaho State Insurance Fund provides additional competition in the workers compensation market and serves as an option for employers who face difficulty obtaining private coverage. Workers compensation costs in Idaho are generally below the national average, reflecting the state\'s moderate wage levels, effective return-to-work programs, and relatively favorable claims environment.\n\nProperty insurance costs vary significantly based on location within the state. Wildfire risk has become an increasingly important factor for businesses in the Boise foothills, central Idaho mountain communities, and timber country. The wildfire seasons of recent years have heightened insurer awareness and, in some areas, led to higher premiums or more restrictive underwriting. Earthquake risk exists primarily in the southeastern part of the state near the Intermountain Seismic Belt, and businesses in these areas should consider earthquake coverage. Severe winter storms, spring flooding, and agricultural risks round out the property insurance considerations for Idaho businesses.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Mountain terrain defines much of Idaho's trucking risk profile. Passes on US-95, US-12, and Highway 21 feature steep grades, tight switchbacks, and limited sight distances. Winter conditions bring heavy snow, ice, and road closures on mountain routes that can last for days. The Lookout Pass area on I-90 and the Malad Gorge area on I-84 are particularly challenging in winter.\n\nWildlife collisions are common throughout Idaho, with deer, elk, and moose creating significant hazards on rural highways. Wildfires during summer can close roads and damage equipment. The long, straight stretches of I-84 across the Snake River Plain contribute to fatigue-related accidents, particularly during nighttime hours. Agricultural equipment sharing rural roads creates slow-moving vehicle collision risks during harvest seasons."
+        heading: 'Key Industries',
+        content: 'The technology sector has been Idaho\'s fastest-growing industry, with the Boise area attracting software companies, semiconductor firms, and tech startups. Micron Technology, headquartered in Boise, anchors a semiconductor ecosystem, while numerous smaller technology companies have established operations in the region. This sector requires cyber liability coverage, technology errors and omissions insurance, and specialized property coverage for high-value equipment and data centers.\n\nAgriculture is foundational to Idaho\'s economy, with the state leading the nation in potato production and also producing significant quantities of dairy, wheat, barley, sugar beets, and hay. Food processing, including dairy products, potato processing, and meat packing, is a major manufacturing subsector. Timber and forest products maintain importance in northern and central Idaho. Mining, particularly for phosphate, silver, and molybdenum, continues in various parts of the state. Healthcare has grown substantially, and outdoor recreation and tourism contribute significantly to the economies of resort communities like Sun Valley and McCall.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits appropriate for mountain corridor accident severity",
-          "Physical damage with comprehensive coverage for wildlife collisions and winter weather damage",
-          "Motor truck cargo insurance for agricultural and refrigerated loads",
-          "Towing and recovery coverage with elevated limits for mountain pass recoveries",
-          "Workers compensation for seasonal agricultural hauling workforce fluctuations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims in Idaho\'s growing business environment',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with wildfire coverage for businesses in fire-prone areas and earthquake coverage where applicable',
+          'Commercial auto insurance for business vehicles operating in Idaho\'s varied terrain and winter conditions',
+          'Umbrella or excess liability coverage for businesses with significant public-facing or high-risk operations',
+          'Cyber liability insurance for the state\'s expanding technology sector and businesses handling digital data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "What are the main insurance considerations for Idaho agricultural haulers?",
-        "a": "Agricultural haulers in Idaho should carry motor truck cargo insurance covering potatoes, dairy products, grain, and other perishable commodities. Refrigerated breakdown coverage with spoilage endorsements is important for temperature-sensitive loads. Seasonal workforce fluctuations may require adjustable workers compensation policies. Many agricultural loads move on rural roads with higher accident rates per mile than interstates."
+        q: 'Does Idaho require workers compensation for all employers?',
+        a: 'Yes. Idaho requires workers compensation insurance for all employers with one or more employees, with very limited exceptions for household domestic workers and certain casual employees. Employers can obtain coverage through private carriers, the Idaho State Insurance Fund, or by qualifying for self-insurance. The Idaho State Insurance Fund serves as a competitive carrier and market of last resort, ensuring all employers can access coverage.'
       },
       {
-        "q": "How does Idaho's mountain terrain affect trucking insurance?",
-        "a": "Mountain operations increase the severity of accidents when they occur, produce higher towing and recovery costs, and create winter weather exposure that leads to road closures and equipment damage. Carriers operating regularly on mountain routes like US-95 and Lookout Pass should ensure their policies cover mountainous terrain and carry adequate towing limits."
+        q: 'How does wildfire risk affect Idaho business insurance?',
+        a: 'Wildfire risk has become an increasingly important factor in Idaho commercial property insurance, particularly for businesses in the Boise foothills, central Idaho mountain communities, and forested areas. Insurers may require wildfire mitigation measures, impose higher deductibles, or limit coverage in high-risk zones. Businesses should verify that their property policies adequately cover wildfire damage and consider creating defensible space around their properties to improve insurability.'
       },
       {
-        "q": "Is the Boise area growing as a freight market?",
-        "a": "Yes, Boise has been one of the fastest-growing metro areas in the country, attracting distribution center investments and increasing local trucking demand. The I-84 corridor through the Treasure Valley has seen significant logistics development, creating new opportunities for carriers and a more competitive local insurance market."
+        q: 'What is the Idaho State Insurance Fund?',
+        a: 'The Idaho State Insurance Fund is a competitive state workers compensation carrier that operates alongside private insurers. It provides an option for businesses that may have difficulty obtaining coverage in the private market due to their industry, claims history, or size. The State Fund is not a government insurance mandate but rather a competitive market participant that ensures all Idaho employers have access to required workers compensation coverage.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "illinois",
-    "name": "Illinois",
-    "abbreviation": "IL",
-    "metaTitle": "Trucking Insurance in Illinois",
-    "metaDescription": "Commercial trucking insurance for Illinois carriers. Coverage for Chicago freight hub operations, I-80 and I-55 corridors, and intermodal drayage.",
-    "heroHeading": "Illinois Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in America's freight crossroads.",
-    "overview": "Illinois is the hub of the nation's freight network, with Chicago serving as the largest intermodal center and one of the busiest trucking markets in North America. Six major interstates converge in the Chicago metro, and the surrounding area contains an enormous concentration of warehouses, distribution centers, and intermodal yards. Downstate Illinois adds significant agricultural hauling demand. The state's litigation environment, particularly in Cook County, makes insurance a critical strategic consideration for Illinois-based carriers.",
-    "sections": [
+    slug: 'illinois',
+    name: 'Illinois',
+    abbreviation: 'IL',
+    metaTitle: 'Business Insurance in Illinois',
+    metaDescription: 'Business insurance for Illinois companies. Navigate workers compensation requirements, liability rules, and coverage needs in the Land of Lincoln\'s major metropolitan and agricultural economy.',
+    heroHeading: 'Business Insurance in Illinois',
+    heroSubheading: 'Comprehensive commercial insurance for Illinois businesses operating in the Midwest\'s largest economic hub.',
+    overview: 'Illinois is the economic engine of the Midwest, with Chicago serving as a global center for finance, transportation, technology, and professional services. The state\'s economy is remarkably diverse, encompassing everything from world-class financial markets and corporate headquarters to vast agricultural operations and heavy manufacturing. Illinois businesses operate in a regulatory environment that is more demanding than many neighboring Midwest states, with stronger worker protection laws and a litigation climate that produces some of the largest jury verdicts in the country. The combination of Chicago\'s metropolitan intensity and downstate Illinois\'s agricultural and manufacturing base creates a wide spectrum of insurance needs that businesses must address to operate successfully.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Illinois requires interstate carriers to meet FMCSA financial responsibility requirements. The Illinois Commerce Commission regulates intrastate for-hire carriers and requires proof of liability insurance. Illinois imposes some requirements beyond the federal minimum, including mandatory uninsured motorist coverage on commercial vehicle policies.\n\nIllinois uses a modified comparative fault system with a 51 percent bar. Cook County, which encompasses Chicago, is widely regarded as one of the most plaintiff-friendly jurisdictions in the country for trucking cases. Nuclear verdicts exceeding $30 million have become increasingly common in Cook County courts, and the trend shows no signs of slowing. Carriers operating in the Chicago market must carry robust liability limits."
+        heading: 'State Requirements',
+        content: 'Illinois requires all employers with one or more employees to carry workers compensation insurance, with no exceptions for small businesses. This is among the broadest workers compensation mandates in the country. Employers must obtain coverage through private carriers or qualify for self-insurance. Illinois does not operate a state workers compensation fund. The Illinois Workers Compensation Commission oversees the system, and penalties for non-compliance include criminal charges, fines, and injunctions against business operations.\n\nIllinois follows a modified comparative fault system, where damages are allocated based on each party\'s degree of fault, and a plaintiff who is more than 50 percent at fault cannot recover. However, Cook County (Chicago) is widely regarded as one of the most plaintiff-friendly jurisdictions in the United States, regularly producing multi-million-dollar verdicts in personal injury, product liability, and premises liability cases. This litigation environment makes adequate liability insurance and umbrella coverage essential for any business with operations in the Chicago metro area. Downstate courts tend to be more moderate but can still produce significant awards.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-90 and I-94 converge in Chicago, linking the city to Milwaukee, Minneapolis, and points west. I-80 crosses the southern Chicago suburbs and continues across Illinois to Iowa, serving as a primary east-west transcontinental route. I-55 runs from Chicago through Springfield and down to St. Louis. I-57 and I-39 provide north-south connections through the agricultural heartland of central Illinois.\n\nChicago is the nation's largest intermodal hub, with BNSF's Logistics Park and Union Pacific's Global IV facility driving massive container drayage volumes. The Will County logistics corridor south of Chicago, centered on Joliet and Elwood, has become one of the largest warehouse clusters in the country. O'Hare International Airport generates significant air cargo trucking demand. The I-80 and I-55 interchange area near Joliet is a critical freight node with heavy truck traffic around the clock."
+        heading: 'Business Insurance Landscape',
+        content: 'Illinois, and Chicago in particular, is one of the largest commercial insurance markets in the country. The presence of major brokerages, underwriting offices, and corporate insurance buyers in Chicago creates a highly competitive environment with extensive coverage options across all commercial lines. Businesses generally have access to a wide range of carriers and products, with pricing that varies significantly based on industry, location, and claims history.\n\nWorkers compensation costs in Illinois are above the national average, driven by the state\'s generous benefit levels, high medical costs in the Chicago area, and an adjudication process that has historically been favorable to claimants. Property insurance must account for severe weather including tornadoes, hail, heavy snowfall, and flooding along the state\'s many rivers. Flood insurance is particularly important for businesses in low-lying areas near the Chicago River, Des Plaines River, Illinois River, and Mississippi River. The state\'s high property tax burden and elevated construction costs also factor into commercial property insurance pricing. Businesses operating in the nuclear verdict environment of Cook County should prioritize umbrella and excess liability coverage.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Chicago metro congestion is the defining risk for Illinois trucking operations. The Dan Ryan Expressway, Stevenson Expressway, and Kennedy Expressway carry enormous truck volumes through dense urban environments. The I-290 and I-294 interchanges are persistent accident hotspots. Urban driving in Chicago involves navigating older infrastructure with tight turns, low overpasses, and narrow side streets for deliveries.\n\nIllinois winters bring lake-effect snow in the Chicago area and ice storms downstate. Severe thunderstorms and tornadoes affect central and southern Illinois from April through June. The Cook County litigation environment is the single biggest insurance cost driver, with plaintiff attorneys specializing in trucking cases operating at an aggressive pace. Cargo theft in the Chicago metro area is significant, and staged accident fraud rings have historically targeted commercial vehicles in certain neighborhoods."
+        heading: 'Key Industries',
+        content: 'Chicago\'s financial sector includes the Chicago Mercantile Exchange, the Chicago Board of Trade, and numerous banks, hedge funds, and financial technology firms. This sector demands sophisticated insurance programs including directors and officers liability, professional liability, cyber coverage, and fiduciary liability protection. Transportation and logistics are deeply embedded in the city\'s identity, with Chicago serving as the nation\'s primary rail hub and O\'Hare International Airport ranking among the busiest in the world.\n\nManufacturing, including food processing, chemicals, machinery, and fabricated metals, remains a significant employer in both the Chicago suburbs and downstate communities. Agriculture is a dominant force in central and southern Illinois, with corn and soybeans as the primary crops generating billions in annual output. Healthcare is one of the largest employment sectors, with major academic medical centers and hospital systems concentrated in Chicago. Technology, professional services, higher education, and the growing cannabis industry add to the state\'s diverse insurance needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 minimum, with $2,000,000 or higher strongly recommended for Chicago metro operations",
-          "Umbrella or excess liability as the most critical coverage layer given Cook County verdict exposure",
-          "Motor truck cargo insurance for intermodal container freight and high-value retail distribution",
-          "Physical damage with winter weather and hail coverage",
-          "Uninsured motorist coverage as required by Illinois law for commercial vehicles",
-          "General liability for carriers with yard and warehouse operations in the Will County logistics corridor"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with high limits to address Cook County\'s nuclear verdict environment',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with coverage for severe storms, tornadoes, hail, and flood where applicable',
+          'Commercial auto insurance for business vehicles navigating Chicago traffic and statewide highway corridors',
+          'Umbrella or excess liability coverage critical for businesses operating in or near the Chicago metropolitan area',
+          'Cyber liability insurance for the state\'s significant financial services, technology, and healthcare sectors'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is Cook County considered high-risk for trucking insurance?",
-        "a": "Cook County has produced numerous nuclear verdicts in trucking cases, with jury awards regularly exceeding $10 million and sometimes surpassing $30 million or more. Plaintiff attorneys specializing in trucking litigation are concentrated in Chicago, and the jury pool tends to be sympathetic to injured individuals in cases involving large commercial vehicles. This litigation environment directly drives insurance costs for carriers operating in the Chicago area."
+        q: 'Why are workers compensation costs higher in Illinois?',
+        a: 'Illinois workers compensation costs exceed the national average due to several factors: generous statutory benefit levels, high medical costs particularly in the Chicago area, an adjudication process that has historically favored claimants, and higher wage bases that increase premium calculations. However, the state has implemented reforms aimed at controlling costs, and employers can reduce premiums through effective safety programs, return-to-work initiatives, and claims management strategies.'
       },
       {
-        "q": "What insurance do intermodal drayage carriers in Chicago need?",
-        "a": "Intermodal drayage carriers need primary auto liability at elevated limits, motor truck cargo covering containerized freight, physical damage, and bobtail or non-trucking liability. Many railroads and intermodal marketing companies require specific liability limits and additional insured endorsements. The short-haul, high-frequency nature of drayage operations produces elevated accident frequency that must be reflected in coverage levels."
+        q: 'How does Cook County\'s litigation climate affect business insurance?',
+        a: 'Cook County is consistently ranked as one of the most plaintiff-friendly jurisdictions in the United States, regularly producing multi-million-dollar verdicts in personal injury and liability cases. This litigation environment directly impacts insurance costs for businesses operating in the Chicago area, making higher liability limits and umbrella or excess coverage essential. Businesses should carry limits well above what might be considered adequate in other states and maintain strong risk management practices.'
       },
       {
-        "q": "Does Illinois require uninsured motorist coverage for trucks?",
-        "a": "Yes, Illinois requires uninsured motorist coverage on commercial auto policies. This is one of a limited number of states with this mandate for commercial vehicles. The requirement adds to policy costs but provides important protection given the rate of uninsured drivers in the Chicago metro area."
+        q: 'What property insurance considerations are specific to Illinois?',
+        a: 'Illinois businesses face property exposure from tornadoes and severe thunderstorms across the state, flood risk near major rivers and in low-lying urban areas, heavy winter snow loads on building roofs, and hail damage. Standard commercial property policies typically exclude flood, requiring separate coverage. Businesses in tornado-prone areas should ensure their policies cover wind damage without restrictive sublimits. Business interruption coverage is important given the potential for weather events to close operations for extended periods.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "motor-truck-cargo",
-      "physical-damage"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "indiana",
-    "name": "Indiana",
-    "abbreviation": "IN",
-    "metaTitle": "Trucking Insurance in Indiana",
-    "metaDescription": "Commercial trucking insurance for Indiana carriers. Coverage for the Crossroads of America, I-65 and I-70 corridor operations.",
-    "heroHeading": "Indiana Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the Crossroads of America.",
-    "overview": "Indiana rightfully claims the title Crossroads of America, with more interstate highway miles per square mile than any other state. I-65, I-70, I-69, and I-74 create a dense network that makes Indianapolis one of the most accessible freight markets in the country. The state's central location, competitive operating costs, and strong manufacturing base support a thriving trucking industry. Indiana's relatively moderate litigation environment and insurer-friendly regulatory climate make it a favorable state for carrier operations compared to its neighbors.",
-    "sections": [
+    slug: 'indiana',
+    name: 'Indiana',
+    abbreviation: 'IN',
+    metaTitle: 'Business Insurance in Indiana',
+    metaDescription: 'Business insurance for Indiana companies. Understand workers compensation rules, liability requirements, and coverage options for businesses in the Crossroads of America.',
+    heroHeading: 'Business Insurance in Indiana',
+    heroSubheading: 'Commercial insurance tailored for Indiana businesses in the heart of America\'s manufacturing and logistics corridor.',
+    overview: 'Indiana is known as the Crossroads of America for good reason, with more interstate highway miles per square mile than any other state and a central location that makes it a natural hub for manufacturing, logistics, and distribution. The state\'s pro-business climate is characterized by relatively low taxes, moderate regulatory requirements, and a workforce with deep manufacturing expertise. Indianapolis, the state capital, has developed a diversified economy including healthcare, technology, sports and conventions, and life sciences. Indiana\'s affordable cost of doing business and skilled labor pool attract companies across industries, and the state\'s insurance market offers competitive options for businesses seeking to protect their operations.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Indiana requires interstate carriers to meet FMCSA financial responsibility requirements. The Indiana Department of Revenue oversees intrastate motor carrier registration, and carriers must maintain proof of liability insurance. Indiana's minimum commercial vehicle liability requirements follow federal standards.\n\nIndiana uses a modified comparative fault system with a 51 percent bar. The state's courts have generally produced moderate verdict trends compared to neighboring Illinois and Ohio, though Marion County in Indianapolis has seen some larger awards in recent years. Indiana's relatively business-friendly legal environment helps keep insurance costs more manageable than in many surrounding states."
+        heading: 'State Requirements',
+        content: 'Indiana requires all employers with one or more employees to carry workers compensation insurance, with very limited exceptions. The Indiana Workers Compensation Board oversees the system. Employers may obtain coverage through private insurers or qualify for self-insurance. Indiana does not operate a state workers compensation fund, so the private market is the primary source of coverage. Corporate officers and LLC members may elect to exclude themselves from coverage in some circumstances, but the default requirement applies broadly.\n\nIndiana does not mandate general liability insurance for all businesses, but licensed contractors, certain professional services, and businesses working on government contracts must carry specified coverage levels. The state follows a modified comparative fault system with a 51 percent bar, meaning a plaintiff who is 51 percent or more at fault cannot recover damages. Indiana is generally considered a moderate litigation environment with reasonable verdict sizes by national standards, though cases involving catastrophic injury can still result in substantial awards. The state caps medical malpractice damages, which affects healthcare-related insurance costs.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 runs north-south through Indianapolis, connecting Chicago to Louisville and Nashville. I-70 runs east-west through Indianapolis, linking St. Louis to Columbus, Ohio, and the East Coast. The intersection of I-65 and I-70 in downtown Indianapolis is one of the busiest freight interchanges in the Midwest. I-69 connects Indianapolis to Fort Wayne and continues into Michigan, while I-74 provides a southwest diagonal route toward Cincinnati.\n\nIndianapolis is a premier distribution hub, with major logistics facilities concentrated along the I-70 corridor in Plainfield, Whitestown, and Greenfield. The city's central location allows overnight truck delivery to a majority of the U.S. population. Fort Wayne, South Bend, and Evansville serve as regional freight nodes. The Indiana Toll Road (I-80/I-90) carries heavy through traffic across northern Indiana between Chicago and the Ohio Turnpike."
+        heading: 'Business Insurance Landscape',
+        content: 'Indiana\'s insurance market is competitive and well-served by national and regional carriers. The state\'s moderate regulatory environment and stable economy make it attractive to insurers, resulting in generally reasonable premium levels for most commercial lines. Workers compensation costs in Indiana are below the national average, reflecting the state\'s effective workers compensation system, moderate wage levels, and emphasis on workplace safety and return-to-work programs.\n\nProperty insurance in Indiana must account for severe thunderstorms, tornadoes, hail, and winter weather. The state sits in the southern portion of the traditional tornado belt, and severe storms can cause significant property damage across central and southern Indiana. Flooding along the Wabash, White, and Ohio Rivers affects businesses in low-lying areas. Indiana\'s large manufacturing sector creates demand for specialized coverage including equipment breakdown, business interruption, product liability, and environmental liability. The state\'s logistics and distribution hub status means that commercial auto and cargo insurance are also in high demand.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "High truck traffic density on Indiana's interstates is the primary risk factor, with truck percentages on I-65 and I-70 regularly exceeding 30 percent of total traffic. The concentration of truck-to-truck accidents is higher in Indiana than in most states due to this density. The I-465 loop around Indianapolis carries heavy freight volumes and experiences frequent congestion-related incidents.\n\nIndiana winters bring freezing rain, snow, and fog that affect operations statewide. Lake-effect snow in the northern part of the state near South Bend can be severe. Severe thunderstorms and tornadoes occur from April through June, primarily in central and southern Indiana. Construction zones on the heavily trafficked interstate system create seasonal bottlenecks that increase accident frequency during the warmer months."
+        heading: 'Key Industries',
+        content: 'Manufacturing is the heart of Indiana\'s economy, contributing a higher share of state GDP than in almost any other state. The automotive sector is particularly strong, with assembly plants, parts manufacturers, and related supply chain companies concentrated in the Indianapolis area and throughout northern Indiana. Steel production remains significant in the Gary and northwest Indiana region. Pharmaceutical and medical device manufacturing have grown substantially, with major companies maintaining operations across the state.\n\nLogistics and distribution are natural strengths given Indiana\'s central location and interstate highway network. Indianapolis is a major distribution center for companies serving the Midwest and national markets. Healthcare is one of the largest employers, with Indianapolis home to some of the nation\'s leading hospital systems and health insurers. Life sciences and biotechnology research have expanded, building on the state\'s pharmaceutical manufacturing base. Agriculture, particularly corn, soybeans, and hog production, remains significant in rural areas. The technology, motorsports, and convention and tourism sectors add diversity to the state\'s insurance needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 for operations in the high-truck-traffic Indianapolis interchange area",
-          "Physical damage with winter weather and hail coverage",
-          "Motor truck cargo insurance for manufacturing components and retail distribution freight",
-          "Non-trucking liability for owner-operators in the Indianapolis drayage and distribution market",
-          "General liability for carriers with warehouse and cross-dock operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims in Indiana\'s manufacturing and service-oriented economy',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with coverage for tornadoes, severe storms, hail, and flood where applicable',
+          'Commercial auto insurance for business vehicles operating on Indiana\'s extensive interstate highway network',
+          'Umbrella or excess liability coverage for manufacturing, logistics, and customer-facing businesses',
+          'Cyber liability insurance for healthcare, life sciences, and technology companies handling sensitive data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is Indiana considered a good state for trucking companies?",
-        "a": "Indiana offers central location with overnight access to a majority of the U.S. population, competitive operating costs, a dense interstate highway network, moderate litigation environment, and a business-friendly regulatory climate. These factors make insurance and overall operating costs more manageable than in neighboring Illinois, Ohio, or Michigan."
+        q: 'Does Indiana require workers compensation for all employers?',
+        a: 'Yes. Indiana requires virtually all employers with one or more employees to carry workers compensation insurance. Very limited exceptions exist for certain agricultural workers and independent contractors who meet strict legal definitions. Employers must obtain coverage through private insurers or qualify for self-insurance. Non-compliance can result in fines and personal liability for business owners.'
       },
       {
-        "q": "What makes Indianapolis a top distribution hub?",
-        "a": "Indianapolis sits at the intersection of I-65 and I-70 and is within a day's drive of over 80 percent of U.S. businesses and population. This geographic advantage, combined with competitive real estate costs and a strong labor pool, has attracted massive distribution center development. FedEx operates its second-largest hub at Indianapolis International Airport, further strengthening the freight ecosystem."
+        q: 'What makes Indiana\'s business insurance costs competitive?',
+        a: 'Indiana benefits from a pro-business regulatory environment, moderate litigation climate, below-average workers compensation costs, and strong competition among insurers in the state. The state\'s lower cost of living compared to coastal states translates to more affordable property values, construction costs, and wage levels, all of which factor into lower insurance premiums. Tort reform measures, including caps on certain damages, also help moderate liability costs.'
       },
       {
-        "q": "How does Indiana's high truck traffic percentage affect insurance?",
-        "a": "Indiana's interstates carry some of the highest truck-to-total-traffic ratios in the country, meaning truck-to-truck collisions are more common than in states with lower ratios. This affects both liability and physical damage claims frequency. Carriers should ensure adequate following-distance policies and invest in collision avoidance technology."
+        q: 'What insurance do Indiana manufacturing businesses need?',
+        a: 'Indiana manufacturers should carry general liability, workers compensation, commercial property, and product liability insurance as a baseline. Depending on the operation, additional coverage may include equipment breakdown, business interruption, environmental liability, commercial auto, and umbrella or excess liability. Manufacturers working in the automotive supply chain often face specific insurance requirements from their customers and should ensure their programs meet those contractual obligations.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "general-liability"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "iowa",
-    "name": "Iowa",
-    "abbreviation": "IA",
-    "metaTitle": "Trucking Insurance in Iowa",
-    "metaDescription": "Commercial trucking insurance for Iowa carriers. Coverage for I-80 transcontinental corridor, agricultural bulk hauling, and Midwest regional distribution.",
-    "heroHeading": "Iowa Trucking Insurance",
-    "heroSubheading": "Coverage for carriers serving the agricultural heartland and transcontinental freight lanes.",
-    "overview": "Iowa is a critical state in the national freight network, with I-80 carrying heavy transcontinental truck traffic across its width and the state's massive agricultural economy generating enormous demand for grain, livestock, and farm equipment hauling. Des Moines has grown into a regional distribution center, and the state's network of secondary highways carries agricultural freight from farms to grain elevators, processing plants, and rail terminals. Iowa's moderate regulatory environment and central location support a robust carrier population.",
-    "sections": [
+    slug: 'iowa',
+    name: 'Iowa',
+    abbreviation: 'IA',
+    metaTitle: 'Business Insurance in Iowa',
+    metaDescription: 'Business insurance for Iowa companies. Learn about workers compensation requirements, liability rules, and coverage options for businesses in the Hawkeye State\'s agriculture and insurance-centric economy.',
+    heroHeading: 'Business Insurance in Iowa',
+    heroSubheading: 'Commercial coverage solutions for Iowa businesses operating in America\'s agricultural heartland and insurance industry center.',
+    overview: 'Iowa occupies a distinctive position in the American economy as both the nation\'s agricultural heartland and a major center for the insurance and financial services industry. Des Moines is home to more insurance company headquarters per capita than any other U.S. city, giving Iowa a deep institutional understanding of risk management and insurance markets. The state\'s economy extends well beyond agriculture and insurance to include advanced manufacturing, renewable energy, biotechnology, and a growing technology sector. Iowa offers businesses a low cost of operations, a highly educated workforce, and a stable regulatory environment. Natural disaster exposure, primarily from severe thunderstorms, tornadoes, flooding, and winter blizzards, requires careful attention in commercial property and business interruption coverage.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Iowa requires interstate carriers to meet FMCSA financial responsibility requirements. The Iowa Department of Transportation oversees intrastate motor carrier registration and requires proof of liability insurance. Iowa's minimum commercial vehicle liability requirements follow federal standards based on cargo type and vehicle weight.\n\nIowa uses a modified comparative fault system with a 50 percent bar. The state's courts have historically produced moderate verdict trends, and the rural character of many trucking accident cases often results in practical, measured jury decisions. However, the Des Moines metro and eastern Iowa cities like Cedar Rapids and Davenport have seen some larger verdicts as litigation trends evolve."
+        heading: 'State Requirements',
+        content: 'Iowa requires all employers with one or more employees to carry workers compensation insurance, with limited exceptions for certain agricultural workers, domestic servants, and independent contractors meeting strict criteria. The Iowa Division of Workers Compensation oversees the system. Employers may obtain coverage through private carriers or qualify for self-insurance. Iowa does not operate a monopolistic or competitive state workers compensation fund, so the private market is the sole source of coverage.\n\nIowa does not mandate general liability insurance for all businesses, but contractors, certain professionals, and businesses working with government entities must carry specified coverage levels. The state follows a modified comparative fault system with a 51 percent bar, preventing recovery for plaintiffs who are primarily at fault. Iowa\'s court system is generally considered moderate and business-friendly in terms of litigation outcomes, though serious injury cases can produce substantial verdicts. The state\'s strong insurance industry presence also means that businesses have access to knowledgeable local insurers and brokers who understand Iowa-specific risks.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-80 crosses Iowa from the Quad Cities on the east to Council Bluffs on the west, carrying massive transcontinental freight volumes. This route regularly ranks among the highest truck-traffic corridors in the Midwest. I-35 runs north-south through Des Moines, connecting Minneapolis to Kansas City. I-380 connects Cedar Rapids to Waterloo, and I-74 serves the Quad Cities area.\n\nDes Moines has developed into a significant distribution hub, with logistics facilities concentrated along the I-80 and I-35 corridors. The Quad Cities area on the Mississippi River handles barge-to-truck transloading. Council Bluffs and Sioux City serve as gateways to Nebraska and South Dakota. Iowa's extensive grain elevator network and ethanol production facilities generate seasonal surges in bulk hauling demand that stretch the state's carrier capacity."
+        heading: 'Business Insurance Landscape',
+        content: 'Iowa\'s insurance market is among the most competitive in the nation, which directly benefits businesses seeking coverage. The concentration of insurance companies in Des Moines and Cedar Rapids means that local businesses have exceptional access to carriers and specialized products. Premium levels for most commercial lines are below the national average, reflecting the state\'s moderate litigation climate, lower operating costs, and strong insurer competition.\n\nProperty insurance in Iowa must address significant severe weather exposure. The state experiences frequent tornadoes, damaging hail storms, straight-line wind events, and heavy thunderstorms during spring and summer months. The 2020 derecho that devastated central Iowa demonstrated the catastrophic potential of severe wind events. Flooding along the Mississippi, Missouri, Des Moines, and Cedar Rivers is a recurring concern, and businesses near waterways should carry flood insurance. Winter blizzards can cause roof collapses, frozen pipe damage, and extended business interruptions. Despite these weather risks, Iowa\'s insurance market generally handles them well, with competitive pricing reflecting the state\'s overall moderate risk profile.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather is Iowa's primary risk factor, with blizzards, ice storms, and extreme cold affecting operations from November through March. Blowing snow on open prairie highways can reduce visibility to zero and cause massive chain-reaction pileups, particularly on I-80 in western Iowa. Spring flooding along the Missouri and Mississippi Rivers periodically closes highways and disrupts freight movement.\n\nIowa sits squarely in Tornado Alley, with severe thunderstorms bringing tornadoes, damaging straight-line winds, and large hail from May through July. Agricultural equipment on rural highways creates collision risks during planting and harvest seasons. Deer collisions are among the highest in the nation, with fall months bringing a significant spike in animal-strike claims. The long, straight stretches of I-80 contribute to fatigue-related accidents."
+        heading: 'Key Industries',
+        content: 'Insurance and financial services form a distinctive pillar of Iowa\'s economy, with major companies including Principal Financial Group, EMC Insurance, and Farm Bureau Financial Group headquartered in the state. This sector employs tens of thousands of Iowans and requires its own set of professional liability, directors and officers, and cyber insurance coverage. Agriculture is central to Iowa\'s identity, with the state consistently ranking among the nation\'s top producers of corn, soybeans, hogs, and eggs.\n\nAdvanced manufacturing has grown significantly, including food processing, agricultural equipment, and aerospace components. Renewable energy, particularly wind power, has made Iowa one of the leading states for wind energy production, creating demand for specialized insurance products covering wind turbines and energy infrastructure. Biotechnology and agricultural technology have expanded, building on the state\'s agricultural expertise. Healthcare is a major employer across the state, and education institutions, including the state\'s major universities, contribute to economic activity. The technology sector, particularly in Des Moines and the Iowa City corridor, continues to attract investment and talent.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for transcontinental I-80 corridor operations",
-          "Physical damage with comprehensive winter storm, hail, and flood coverage",
-          "Motor truck cargo insurance for grain, livestock, and agricultural commodities",
-          "Comprehensive coverage for deer and wildlife collisions, which are frequent in Iowa",
-          "Workers compensation for seasonal agricultural hauling workforce needs"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims across Iowa\'s diverse business sectors',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with comprehensive severe weather coverage including tornado, hail, wind, and flood',
+          'Commercial auto insurance for business vehicles operating across Iowa\'s extensive rural and interstate road network',
+          'Umbrella or excess liability coverage for businesses with significant operational or public-facing risks',
+          'Cyber liability insurance for insurance, financial services, healthcare, and technology companies'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "What special insurance do Iowa grain haulers need?",
-        "a": "Grain haulers should carry motor truck cargo insurance specific to agricultural bulk commodities. Coverage should address in-transit spoilage from moisture or contamination, loading and unloading at elevators, and seasonal volume fluctuations. Many grain haulers operate with seasonal authority and need policies that can be adjusted for peak harvest demand from September through November."
+        q: 'Does Iowa require workers compensation for all employers?',
+        a: 'Iowa requires workers compensation insurance for virtually all employers with one or more employees. Limited exceptions exist for certain agricultural workers, domestic servants in private homes, and individuals who meet the strict legal definition of independent contractors. Most Iowa businesses will need to carry workers compensation coverage obtained through private insurers or through approved self-insurance programs.'
       },
       {
-        "q": "How do Iowa winters affect trucking insurance claims?",
-        "a": "Iowa winters produce significant physical damage claims from ice and snow, collision claims from limited visibility pileups on prairie highways, and cargo damage from freezing. Carriers should ensure physical damage policies cover winter-specific perils and maintain aggressive winter driving protocols. Chain and tire traction requirements should be part of every driver training program."
+        q: 'How does Iowa\'s severe weather affect business insurance?',
+        a: 'Iowa businesses face significant severe weather exposure including tornadoes, hail, straight-line winds, and heavy thunderstorms from spring through fall, and blizzards during winter. The 2020 derecho demonstrated that severe wind events can cause catastrophic damage across wide areas. Commercial property policies should include adequate coverage for these perils. Flood coverage requires a separate policy and is strongly recommended for businesses near rivers or in low-lying areas.'
       },
       {
-        "q": "Is Iowa a good state for trucking company headquarters?",
-        "a": "Iowa offers competitive operating costs, a central location on the I-80 transcontinental route, moderate litigation environment, and a business-friendly regulatory climate. Several mid-size and large carriers are headquartered in Iowa, benefiting from these advantages and the state's strong workforce availability."
+        q: 'Are Iowa business insurance premiums lower than the national average?',
+        a: 'Iowa generally offers below-average commercial insurance premiums compared to national averages across most lines of coverage. This reflects the state\'s moderate litigation climate, strong insurer competition driven by the concentration of insurance companies in Des Moines, lower operating and construction costs, and effective workers compensation system. However, individual premiums depend on industry, claims history, location, and specific risk factors.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "kansas",
-    "name": "Kansas",
-    "abbreviation": "KS",
-    "metaTitle": "Trucking Insurance in Kansas",
-    "metaDescription": "Commercial trucking insurance for Kansas carriers. Coverage for I-70 and I-35 crossroads, agricultural freight, and Great Plains weather exposure.",
-    "heroHeading": "Kansas Trucking Insurance",
-    "heroSubheading": "Coverage for carriers at the crossroads of the Great Plains freight network.",
-    "overview": "Kansas sits at the intersection of two major freight corridors, with I-70 running east-west and I-35 running north-south through the state. The agricultural economy drives enormous demand for grain, cattle, and farm equipment hauling, while the Kansas City metro area on the eastern border is one of the nation's most important freight hubs. The state's position in the heart of Tornado Alley creates significant severe weather exposure that carriers must account for in their insurance programs.",
-    "sections": [
+    slug: 'kansas',
+    name: 'Kansas',
+    abbreviation: 'KS',
+    metaTitle: 'Business Insurance in Kansas',
+    metaDescription: 'Business insurance for Kansas companies. Understand workers compensation requirements, liability rules, and coverage needs for businesses in the Sunflower State.',
+    heroHeading: 'Business Insurance in Kansas',
+    heroSubheading: 'Commercial insurance for Kansas businesses navigating the state\'s agricultural economy, manufacturing base, and severe weather exposure.',
+    overview: 'Kansas sits at the geographic center of the continental United States, and its economy reflects a blend of traditional agricultural strength, growing aerospace and manufacturing sectors, and an expanding technology and healthcare presence. The state offers businesses a low cost of operations, a central location with excellent transportation access, and a workforce experienced in agriculture, aviation, and skilled manufacturing. Kansas businesses must contend with some of the most severe weather in the country, as the state lies squarely within Tornado Alley and regularly experiences destructive storms from spring through fall. A comprehensive insurance program addressing both operational risks and catastrophic weather exposure is essential for any Kansas business.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Kansas requires interstate carriers to meet FMCSA financial responsibility requirements. The Kansas Corporation Commission regulates intrastate for-hire motor carriers and requires proof of liability insurance. Kansas minimum liability requirements for commercial vehicles follow federal standards, with intrastate carriers required to maintain at least $750,000 for vehicles over 10,001 pounds hauling non-hazardous freight.\n\nKansas uses a modified comparative fault system with a 50 percent bar. The state's courts have generally produced moderate verdict trends, with the Wyandotte County and Johnson County courts in the Kansas City metro area handling the highest volume of trucking cases. The agricultural and transportation-centric economy means juries in outstate Kansas are often familiar with trucking operations."
+        heading: 'State Requirements',
+        content: 'Kansas requires all employers to carry workers compensation insurance, with no minimum employee count. Even a business with a single employee must maintain coverage. Employers may purchase policies from private carriers or apply for self-insurance through the Kansas Department of Labor. Kansas does not operate a state workers compensation fund. Corporate officers and LLC members may elect to exclude themselves from coverage under certain conditions, but the default requirement is among the broadest in the region.\n\nKansas does not mandate general liability insurance for all businesses, but licensed contractors, motor carriers, and businesses contracting with government entities are typically required to carry specified coverage levels. The state follows a modified comparative fault system with a 50 percent bar, meaning a plaintiff who is 50 percent or more at fault cannot recover damages. Kansas is generally considered a moderate litigation state, with verdict sizes that tend to be reasonable by national standards. However, businesses in the Wichita and Kansas City metro areas should be aware that urban juries may produce larger awards than rural courts.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 crosses the full width of Kansas from Kansas City through Topeka, Salina, and Hays to the Colorado border. The eastern portion carries heavy freight volumes, while the western stretch serves agricultural and energy industry traffic. I-35 runs from the Oklahoma border through Wichita and on to Kansas City, connecting the Texas-to-Midwest freight lane. The Kansas Turnpike overlaps portions of I-35 through Wichita.\n\nThe Kansas City metro area spans the Kansas-Missouri border and is one of the largest freight hubs in the country, with major intermodal facilities, distribution centers, and the confluence of multiple Class I railroads. Wichita serves as a distribution center for south-central Kansas and the aircraft manufacturing industry. Dodge City and Garden City in western Kansas are major meatpacking centers generating significant refrigerated truck traffic. I-135 connects Wichita to Salina through the agricultural heartland."
+        heading: 'Business Insurance Landscape',
+        content: 'Kansas benefits from a competitive insurance market with national and regional carriers actively writing policies across commercial lines. The state\'s moderate litigation climate and low cost of living contribute to insurance premiums that are generally below the national average for general liability and workers compensation. However, property insurance is significantly impacted by Kansas\'s extreme severe weather exposure, particularly tornado, hail, and wind damage.\n\nKansas is one of the most hail-damaged states in the country, and property insurance premiums reflect this reality. Businesses throughout the state, but particularly along the I-35 corridor from Wichita to Kansas City, should expect property policies that include specific hail and wind deductible provisions. Tornado risk is substantial statewide, and insurers price accordingly. Flood risk exists along the Kansas and Missouri Rivers and their tributaries. Despite these weather challenges, the Kansas insurance market remains functional and competitive, with coverage available for virtually all business types at rates that remain manageable for most employers.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Kansas is in the core of Tornado Alley, with severe thunderstorms producing tornadoes, destructive hail, and straight-line winds from April through July. Hail damage to trucks and cargo can be catastrophic during severe events, and tornadoes can destroy parked equipment at terminals and truck stops. The flat terrain and lack of shelter on western Kansas highways leave trucks exposed to severe weather with limited options.\n\nWinter conditions bring ice storms and blowing snow, particularly on the I-70 corridor in western Kansas where open prairie creates whiteout conditions. High crosswinds on exposed highways can overturn empty trailers and high-profile loads. The long distances between services in western Kansas mean that breakdowns and accidents in remote areas result in lengthy response times and high towing costs."
+        heading: 'Key Industries',
+        content: 'Aerospace manufacturing is one of Kansas\'s signature industries, with Wichita historically known as the Air Capital of the World. Major aircraft manufacturers and their supplier networks are concentrated in the Wichita area, creating demand for specialized aviation product liability, workers compensation for skilled manufacturing workers, and property coverage for high-value industrial facilities. Agriculture is fundamental to the Kansas economy, with the state ranking as the nation\'s largest wheat producer and a major producer of cattle, sorghum, and soybeans.\n\nOil and gas production in western and south-central Kansas supports an energy sector that includes extraction, refining, and support services. The healthcare sector is a major employer in Kansas City, Wichita, and Topeka. Military installations, including Fort Riley and McConnell Air Force Base, drive significant defense-related economic activity. Food processing, particularly meatpacking and grain milling, is a substantial manufacturing subsector. The growing technology sector, centered in the Kansas City metro area and expanding to smaller cities, adds diversity to the state\'s economic base.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with adequate limits for Kansas City metro and transcontinental corridor operations",
-          "Physical damage with comprehensive hail, wind, and tornado coverage",
-          "Motor truck cargo insurance for grain, cattle, and meatpacking industry freight",
-          "Inland marine or equipment coverage for agricultural hauling equipment",
-          "Towing and recovery coverage with elevated limits for remote western Kansas operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims across Kansas\'s diverse industries',
+          'Workers compensation insurance as required for all Kansas employers regardless of employee count',
+          'Commercial property insurance with robust tornado, hail, and severe wind coverage essential for Kansas locations',
+          'Commercial auto insurance for business vehicles operating across Kansas\'s highway network',
+          'Umbrella or excess liability coverage for aerospace, manufacturing, and agricultural businesses',
+          'Cyber liability insurance for healthcare, financial services, and technology companies handling sensitive data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How does tornado risk affect Kansas trucking insurance?",
-        "a": "Kansas carriers face significant exposure to hail damage, wind damage to equipment, and tornado destruction of parked vehicles and terminal facilities. Comprehensive physical damage policies should specifically cover hail and windstorm without restrictive sub-limits. Carriers should have severe weather protocols and consider the location of terminals relative to tornado risk zones."
+        q: 'Does Kansas require workers compensation for businesses with only one employee?',
+        a: 'Yes. Kansas requires all employers to carry workers compensation insurance regardless of the number of employees. This includes businesses with a single employee. Corporate officers and LLC members may elect exclusion under certain conditions, but the base requirement applies universally. Employers must obtain coverage from private carriers or qualify for self-insurance.'
       },
       {
-        "q": "What insurance considerations apply to Kansas cattle haulers?",
-        "a": "Cattle haulers need motor truck cargo insurance with livestock mortality coverage, which pays for animals killed or injured during transit. Coverage should include loading and unloading operations, which are high-risk periods for animal injury. Workers compensation should address the physical risks of cattle handling. The seasonal nature of cattle hauling may allow for adjustable policy terms."
+        q: 'How does tornado and hail risk affect Kansas business insurance?',
+        a: 'Kansas is located in the heart of Tornado Alley and experiences some of the most frequent and severe hail events in the country. Commercial property insurance premiums reflect this exposure, and policies typically include specific deductible provisions for wind and hail damage. Businesses should ensure they understand their policy\'s deductible structure, which may use percentage-based deductibles for wind and hail rather than flat dollar amounts. Adequate business interruption coverage is also critical given the potential for severe storm damage to close operations.'
       },
       {
-        "q": "Does the Kansas City metro affect insurance rates for Kansas carriers?",
-        "a": "Yes, carriers operating primarily in the Kansas City metro area face higher premiums due to urban traffic congestion, higher accident frequency, and exposure to courts in both Kansas and Missouri. Carriers based in rural Kansas with primarily agricultural or long-haul operations may qualify for lower rates due to reduced urban exposure."
+        q: 'What insurance is needed for Kansas agricultural businesses?',
+        a: 'Kansas agricultural operations should carry general liability, workers compensation, commercial property, and farm-specific coverage. Crop insurance is available through the federal crop insurance program and is widely used by Kansas farmers. Livestock operations need animal mortality and livestock liability coverage. Agribusiness operations including grain elevators, feed lots, and food processors require tailored commercial policies addressing their specific risk profiles.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "kentucky",
-    "name": "Kentucky",
-    "abbreviation": "KY",
-    "metaTitle": "Trucking Insurance in Kentucky",
-    "metaDescription": "Commercial trucking insurance for Kentucky carriers. Coverage for I-65 and I-75 corridor operations, Louisville freight hub, and Appalachian coal hauling.",
-    "heroHeading": "Kentucky Trucking Insurance",
-    "heroSubheading": "Coverage for carriers at the junction of the Midwest and Southeast freight networks.",
-    "overview": "Kentucky occupies a strategic position where the Midwest meets the Southeast, with I-65, I-75, and I-64 converging to create a dense freight corridor through the state. Louisville is a major logistics hub anchored by UPS's worldwide air hub at Louisville Muhammad Ali International Airport, and the state's bourbon, automotive, and coal industries generate specialized hauling demand. The transition from Bluegrass farmland to Appalachian mountain terrain creates diverse driving conditions that require a well-rounded insurance program.",
-    "sections": [
+    slug: 'kentucky',
+    name: 'Kentucky',
+    abbreviation: 'KY',
+    metaTitle: 'Business Insurance in Kentucky',
+    metaDescription: 'Business insurance for Kentucky companies. Learn about workers compensation requirements, liability rules, and coverage options for businesses in the Bluegrass State.',
+    heroHeading: 'Business Insurance in Kentucky',
+    heroSubheading: 'Commercial insurance solutions for Kentucky businesses operating across the Bluegrass State\'s manufacturing, healthcare, and agricultural economy.',
+    overview: 'Kentucky\'s economy bridges the Midwest and the South, with a diverse base that includes advanced manufacturing, healthcare, logistics, agriculture, and energy production. The state\'s location along major north-south and east-west transportation routes, combined with low operating costs and a growing skilled workforce, makes it attractive for businesses seeking a competitive base of operations. Louisville and Lexington anchor the state\'s metropolitan economies, while smaller cities and rural areas contribute through manufacturing, mining, and agriculture. Kentucky businesses must address insurance exposures that include severe weather, coal mine legacy liabilities, and an evolving regulatory landscape, making a comprehensive commercial insurance program essential.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Kentucky requires interstate carriers to meet FMCSA financial responsibility requirements. The Kentucky Transportation Cabinet oversees intrastate motor carrier operations and requires proof of insurance. Kentucky has historically required intrastate carriers to maintain liability coverage consistent with federal minimums, and coal haulers operating on state roads must meet additional permitting and insurance requirements.\n\nKentucky uses a pure comparative fault system, allowing injured parties to recover damages reduced by their percentage of fault regardless of how much fault they bear. This is more plaintiff-friendly than the modified systems used by neighboring states. Kentucky courts have produced some notable trucking verdicts, and the state's juries tend to be sympathetic to injured individuals, particularly in coal country and rural areas."
+        heading: 'State Requirements',
+        content: 'Kentucky requires all employers with one or more employees to carry workers compensation insurance. The Kentucky Department of Workers Claims oversees the system. Employers must obtain coverage through private carriers, the Kentucky Employers Mutual Insurance authority, or qualify for self-insurance. The Kentucky Employers Mutual Insurance authority functions as a competitive state fund providing workers compensation coverage as an alternative to private carriers. Failure to maintain required coverage is a criminal offense.\n\nKentucky follows a pure comparative fault system, meaning damages are allocated based on each party\'s percentage of fault, and a plaintiff can recover even if they are primarily responsible for their own injury. This system can result in broader liability exposure for businesses compared to states with comparative fault thresholds. Kentucky does not mandate general liability insurance statewide, but contractors, transportation companies, and various licensed professionals must carry specified coverage. The state\'s coal mining and energy industries face additional insurance requirements related to mine safety, environmental liability, and federal regulatory compliance.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-65 runs through the center of Kentucky from Louisville to Bowling Green and on to Nashville. I-75 crosses eastern Kentucky from Covington through Lexington, Richmond, and Corbin to the Tennessee border, carrying heavy freight volumes between the Ohio Valley and the Southeast. I-64 runs east-west from Louisville through Frankfort and Lexington to Ashland and the West Virginia border.\n\nLouisville is Kentucky's freight powerhouse, anchored by UPS Worldport, which processes over 400,000 packages per hour and generates enormous ground transportation demand. The Louisville and Southern Indiana area also includes major automotive assembly plants for Ford and Toyota, creating steady demand for parts and finished vehicle hauling. The I-71 corridor between Louisville and Cincinnati carries heavy industrial and consumer freight. Eastern Kentucky's coal fields generate truck traffic on mountain roads feeding into rail terminals and barge loading facilities on the Ohio River."
+        heading: 'Business Insurance Landscape',
+        content: 'Kentucky\'s insurance market offers reasonable competition among national and regional carriers, with premium levels that are generally moderate by national standards. The Kentucky Employers Mutual Insurance authority provides an additional competitive option in the workers compensation market. Workers compensation costs are influenced by the state\'s manufacturing base and mining heritage, but reform efforts have helped stabilize rates in recent years.\n\nProperty insurance in Kentucky must address severe thunderstorms, tornadoes, flooding, and occasional ice storms. The state experiences tornado activity primarily in the western and central regions, and flooding is a recurring concern along the Ohio, Cumberland, and Kentucky Rivers and their tributaries. Eastern Kentucky\'s mountainous terrain presents flood and landslide risks in certain areas. Kentucky\'s coal mining legacy also creates environmental liability considerations for businesses operating on or near former mining sites. The state\'s growing bourbon industry, centered in the Louisville area and along the Bourbon Trail, presents unique insurance needs including coverage for aging warehouse inventories and product liability.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Eastern Kentucky's Appalachian terrain presents steep grades, winding roads, narrow lanes, and limited sight distances that challenge even experienced drivers. Coal truck operations on mountain roads have historically produced high accident rates. Flash flooding in mountain hollows can wash out roads without warning. The transition from the flat Bluegrass region to mountain terrain means drivers face rapidly changing road conditions.\n\nKentucky weather ranges from ice storms in winter to severe thunderstorms with tornadoes in spring. Fog in river valleys and mountain areas is a significant visibility hazard, particularly in the morning hours. The I-65 and I-75 corridors through Kentucky carry heavy through-traffic from multiple states, and the junction areas around Louisville and Lexington produce high accident frequency. Kentucky's pure comparative fault system means carriers face liability exposure even when the other party bears significant fault."
+        heading: 'Key Industries',
+        content: 'Manufacturing is the largest contributor to Kentucky\'s GDP, with automotive assembly and parts production leading the sector. Major automobile manufacturers operate assembly plants in the state, supported by an extensive network of parts suppliers and logistics providers. Louisville is home to UPS\'s global air hub, making the city a major center for logistics, distribution, and e-commerce fulfillment, with corresponding demand for commercial auto, cargo, and workers compensation coverage.\n\nThe bourbon and spirits industry is a distinctive element of Kentucky\'s economy, with distilleries concentrated in central Kentucky producing the majority of the world\'s bourbon supply. Healthcare is a major employer, with large hospital systems operating across the state. Coal mining, while diminished from its peak, remains relevant in eastern Kentucky and creates ongoing insurance needs. Agriculture, including tobacco, horses, cattle, and row crops, maintains importance across rural Kentucky. The equine industry, centered around Lexington, is globally significant and carries specialized insurance requirements for thoroughbred breeding, training, and racing operations.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Kentucky's pure comparative fault standard",
-          "Physical damage with flood and ice storm coverage for mountain and valley operations",
-          "Motor truck cargo insurance tailored to bourbon, automotive parts, and coal hauling",
-          "Excess liability for operations feeding into the Louisville and Lexington metro litigation venues",
-          "Occupational accident coverage for owner-operators in the coal hauling sector"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims in Kentucky\'s comparative fault legal environment',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with tornado, severe storm, flood, and ice storm coverage as applicable',
+          'Commercial auto insurance for business vehicles operating in Kentucky\'s varied terrain',
+          'Umbrella or excess liability coverage important under Kentucky\'s pure comparative fault system',
+          'Cyber liability insurance for healthcare, logistics, and financial services companies handling sensitive data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "What insurance do Kentucky coal haulers need?",
-        "a": "Coal haulers operating in eastern Kentucky need primary auto liability, physical damage covering mountain road operations, motor truck cargo for coal commodities, and workers compensation addressing the physical demands and hazards of coal hauling. Kentucky may require additional surety or insurance for overweight coal permits. The challenging mountain terrain demands higher towing and recovery limits."
+        q: 'What are Kentucky\'s workers compensation requirements?',
+        a: 'Kentucky requires all employers with one or more employees to carry workers compensation insurance. Coverage can be obtained through private carriers, the Kentucky Employers Mutual Insurance authority, or self-insurance for qualifying employers. Failure to maintain required coverage is a criminal offense. The Kentucky Department of Workers Claims oversees compliance and can audit businesses for coverage verification.'
       },
       {
-        "q": "How does Kentucky's pure comparative fault affect trucking claims?",
-        "a": "Under pure comparative fault, an injured party can recover damages even if they are 99 percent at fault, with their recovery reduced by their fault percentage. This means carriers may face payouts even in accidents where the other driver was primarily responsible. Dashcam evidence and thorough accident documentation are critical for Kentucky operations."
+        q: 'How does Kentucky\'s pure comparative fault system affect liability insurance?',
+        a: 'Kentucky follows a pure comparative fault system, which means an injured party can recover damages even if they are primarily at fault for their own injury, with damages reduced by their percentage of fault. This creates broader liability exposure for businesses compared to states with comparative fault thresholds. Businesses should carry adequate general liability limits and seriously consider umbrella or excess liability coverage to protect against this expanded exposure.'
       },
       {
-        "q": "Why is Louisville important for trucking insurance?",
-        "a": "Louisville's role as the home of UPS Worldport creates massive ground transportation demand that makes the city one of the top trucking markets in the country. The concentration of logistics operations, combined with automotive manufacturing and bourbon industry hauling, creates a diverse and active freight market. Insurance should reflect the urban congestion around the airport and interstate interchange areas."
+        q: 'What specialized insurance do Kentucky bourbon distilleries need?',
+        a: 'Kentucky bourbon distilleries face unique insurance needs including coverage for aging barrel inventory that can be worth millions of dollars, product liability for spirits sold domestically and internationally, property coverage for warehouses that store flammable products, environmental liability for wastewater and distillation byproducts, and business interruption coverage. Specialty insurers familiar with the spirits industry can provide tailored programs addressing these risks.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "louisiana",
-    "name": "Louisiana",
-    "abbreviation": "LA",
-    "metaTitle": "Trucking Insurance in Louisiana",
-    "metaDescription": "Commercial trucking insurance for Louisiana carriers. Coverage for Port of New Orleans freight, I-10 and I-20 corridors, and Gulf Coast hurricane exposure.",
-    "heroHeading": "Louisiana Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in the Gulf Coast's busiest port and energy corridor.",
-    "overview": "Louisiana's trucking industry is driven by the Port of New Orleans and the massive petrochemical corridor along the Mississippi River between Baton Rouge and New Orleans. The state is a critical gateway for international trade, energy industry logistics, and Gulf Coast freight movement. Louisiana's notorious litigation environment, known colloquially as a judicial hellhole by the insurance industry, combined with severe hurricane exposure, makes it one of the most expensive and complex states for trucking insurance.",
-    "sections": [
+    slug: 'louisiana',
+    name: 'Louisiana',
+    abbreviation: 'LA',
+    metaTitle: 'Business Insurance in Louisiana',
+    metaDescription: 'Business insurance for Louisiana companies. Navigate the state\'s unique legal system, workers compensation requirements, and hurricane exposure for businesses in the Pelican State.',
+    heroHeading: 'Business Insurance in Louisiana',
+    heroSubheading: 'Commercial insurance for Louisiana businesses operating under the nation\'s only civil law legal system and facing significant hurricane risk.',
+    overview: 'Louisiana presents a business environment unlike any other state, shaped by its unique civil law legal system rooted in French and Spanish legal traditions, its extraordinary hurricane exposure, and an economy driven by energy, petrochemicals, shipping, and tourism. New Orleans and Baton Rouge anchor the state\'s metropolitan economies, while the Gulf Coast supports a massive energy infrastructure. Louisiana\'s legal system and litigation climate create particular challenges for businesses, with the state historically ranked among the most expensive for commercial litigation costs. Combined with recurring hurricane devastation and flooding, Louisiana demands that businesses maintain exceptionally robust insurance programs to survive and thrive in this distinctive environment.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Louisiana requires interstate carriers to meet FMCSA financial responsibility requirements. The Louisiana Department of Transportation and Development oversees intrastate motor carrier operations. Louisiana has specific requirements for carriers transporting oil field equipment and hazardous materials that may exceed federal minimums.\n\nLouisiana uses a pure comparative fault system, and its legal framework is based on civil law rather than common law, making it unique among U.S. states. The state's courts, particularly in New Orleans, Baton Rouge, and the River Parishes, have produced some of the largest trucking verdicts in the country. Direct action statutes allow plaintiffs to sue the insurance carrier directly, and Louisiana's litigation environment is consistently cited as among the most challenging for commercial vehicle defendants."
+        heading: 'State Requirements',
+        content: 'Louisiana requires all employers with one or more employees to carry workers compensation insurance. The Louisiana Workforce Commission oversees the system. Employers must obtain coverage through private carriers or qualify for self-insurance. Louisiana does not operate a state workers compensation fund. Corporate officers and partners may elect to exclude themselves from coverage in limited circumstances. Penalties for non-compliance include fines and criminal charges.\n\nLouisiana is the only state that operates under a civil law system rather than common law, which affects how insurance disputes, liability claims, and contract interpretations are resolved. The state follows a pure comparative fault system, allowing injured parties to recover damages regardless of their own degree of fault, with damages reduced proportionally. Louisiana has historically been considered one of the most challenging litigation environments in the country, with jury pools in Orleans and Jefferson Parishes known for large verdicts. Direct action statutes in Louisiana allow injured parties to sue an insurer directly, which increases litigation frequency and settlement pressure. These factors make adequate liability limits and umbrella coverage essential for any Louisiana business.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-10 crosses southern Louisiana from the Texas border through Lake Charles, Baton Rouge, and New Orleans to the Mississippi border, forming the primary Gulf Coast freight corridor. I-20 runs across northern Louisiana through Shreveport and Monroe, connecting Texas to Mississippi. I-49 provides a north-south route from Shreveport through Alexandria to Lafayette.\n\nThe Port of New Orleans and the Port of South Louisiana collectively handle more tonnage than almost any port complex in the world, driven by grain exports, petroleum products, and containerized cargo. The petrochemical corridor between Baton Rouge and New Orleans along the Mississippi River generates enormous tanker truck and flatbed traffic serving refineries and chemical plants. Shreveport and the Haynesville Shale region generate oil field trucking demand in northwestern Louisiana. The Atchafalaya Basin and Mississippi River levee systems create complex routing challenges for carriers."
+        heading: 'Business Insurance Landscape',
+        content: 'Louisiana\'s insurance market has been severely tested by repeated hurricane seasons, chronic litigation costs, and flooding events that have collectively driven many insurers to reduce their presence in the state. The property insurance market has been in crisis, with numerous carriers entering receivership or voluntarily exiting Louisiana, leaving businesses with fewer options and dramatically higher premiums. The Louisiana Citizens Property Insurance Corporation serves as the insurer of last resort but has seen its policy count surge as the private market has contracted.\n\nWorkers compensation costs in Louisiana are above the national average, influenced by the state\'s high injury rates in energy, construction, and industrial sectors, as well as generous benefit levels. The state\'s direct action statute, which allows injured parties to include the insurer as a named defendant in lawsuits, adds litigation costs that are factored into premiums across all liability lines. Despite these challenges, Louisiana\'s significant business opportunities in energy, trade, and tourism continue to attract investment, and experienced brokers can help businesses navigate the difficult market to find workable coverage solutions.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane exposure is the dominant catastrophic risk, with the Gulf Coast and southern Louisiana facing direct hits from major storms. Hurricane Katrina, Rita, Gustav, Laura, and Ida demonstrated the devastating impact hurricanes have on trucking infrastructure, parked equipment, and the supply chain. The extended hurricane season from June through November requires continuous preparedness.\n\nThe litigation environment is Louisiana's most significant insurance cost driver. The state's direct action statute, pure comparative fault system, and plaintiff-friendly court venues have created what many in the insurance industry consider the single most challenging litigation state for trucking defendants. Flooding is a year-round risk in low-lying areas, and the I-10 elevated expressway over the Atchafalaya Basin is vulnerable to closure during high water events. Road conditions on many state highways are poor, with potholes and surface deterioration adding to vehicle damage claims."
+        heading: 'Key Industries',
+        content: 'The oil and gas industry is the defining force of Louisiana\'s economy, with offshore drilling, refining, petrochemical manufacturing, and pipeline operations concentrated along the Gulf Coast from Lake Charles to New Orleans. This sector faces enormous insurance exposures including workers compensation for hazardous operations, environmental liability, property coverage for facilities in hurricane zones, and commercial auto coverage for extensive equipment fleets. The Port of South Louisiana and the Port of New Orleans are among the largest ports in the Western Hemisphere by tonnage, supporting shipping, warehousing, and international trade.\n\nTourism, centered on New Orleans\'s cultural attractions, food scene, and festival calendar, is a major revenue generator for the hospitality and entertainment sectors. Healthcare is one of the largest employers statewide, and chemical manufacturing along the Mississippi River industrial corridor between Baton Rouge and New Orleans is globally significant. Agriculture, including sugarcane, rice, soybeans, and seafood harvesting, maintains importance in rural Louisiana. Construction activity related to energy infrastructure, hurricane recovery and resilience, and residential development creates persistent demand for builders risk, liability, and workers compensation coverage.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with many carriers needing $2,000,000 for Louisiana operations",
-          "Umbrella or excess liability as the single most critical coverage given Louisiana's direct action statute and verdict history",
-          "Physical damage with comprehensive hurricane, flood, and named-storm coverage",
-          "Motor truck cargo insurance for petrochemical, port freight, and agricultural commodities",
-          "Pollution liability for carriers serving the petrochemical corridor between Baton Rouge and New Orleans",
-          "Workers compensation covering heat-related illness and hurricane response operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with high limits to address Louisiana\'s challenging litigation environment and direct action statute',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with comprehensive hurricane, named-storm, wind, and flood coverage',
+          'Commercial auto insurance for business vehicles, especially important for energy and industrial fleets',
+          'Umbrella or excess liability coverage critical in Louisiana\'s plaintiff-friendly legal environment',
+          'Cyber liability insurance for healthcare, financial services, and businesses processing customer data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is Louisiana considered the worst state for trucking insurance costs?",
-        "a": "Louisiana combines a direct action statute that lets plaintiffs sue insurers directly, pure comparative fault, plaintiff-friendly court venues, severe hurricane exposure, poor road conditions, and high rates of uninsured motorists. This combination produces the most challenging trucking insurance environment in the country, with premiums often double or more compared to neighboring states."
+        q: 'What is Louisiana\'s direct action statute and how does it affect business insurance?',
+        a: 'Louisiana\'s direct action statute allows injured parties to name a business\'s insurance company as a direct defendant in a lawsuit, rather than requiring them to sue only the business itself. This increases litigation frequency and settlement pressure because juries see the insurance company as a party to the case. The statute makes Louisiana one of the most challenging states for liability insurance costs and reinforces the importance of maintaining adequate coverage limits.'
       },
       {
-        "q": "What is Louisiana's direct action statute and how does it affect trucking insurance?",
-        "a": "Louisiana's direct action statute allows injury plaintiffs to sue the insurance company directly as a defendant alongside the motor carrier and driver. This means the jury knows there is insurance coverage and its limits, which studies suggest leads to higher verdict amounts. Carriers should carry robust excess liability and work with defense attorneys experienced in Louisiana practice."
+        q: 'How has hurricane exposure affected Louisiana business insurance availability?',
+        a: 'Repeated hurricane losses have caused numerous insurers to exit the Louisiana market or significantly reduce their exposure, leaving businesses with fewer coverage options and substantially higher premiums. The property insurance market has been in a state of crisis, with Louisiana Citizens Property Insurance Corporation absorbing a growing number of policies as private carriers have withdrawn. Businesses should work with experienced brokers and may need to access surplus lines or specialty markets for adequate coverage.'
       },
       {
-        "q": "How should Louisiana carriers prepare for hurricane season?",
-        "a": "Carriers should maintain hurricane preparedness plans that include equipment relocation to inland locations, fuel reserves, driver safety protocols, and communication systems. Insurance policies should include comprehensive wind and flood coverage without named-storm exclusions or excessive hurricane deductibles. Physical damage policies should cover equipment at temporary relocation sites during storm events."
+        q: 'Are Louisiana workers compensation costs higher than average?',
+        a: 'Yes. Louisiana workers compensation costs are above the national average due to the state\'s high injury rates in energy, construction, and industrial sectors, generous benefit levels, and a legal environment that increases claims costs. Employers can help manage premiums through robust safety programs, effective return-to-work initiatives, and working with insurers who understand Louisiana\'s specific industry risks.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "physical-damage",
-      "motor-truck-cargo"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "maine",
-    "name": "Maine",
-    "abbreviation": "ME",
-    "metaTitle": "Trucking Insurance in Maine",
-    "metaDescription": "Commercial trucking insurance for Maine carriers. Coverage for I-95 operations, timber and paper industry hauling, and severe winter weather exposure.",
-    "heroHeading": "Maine Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in New England's northernmost freight market.",
-    "overview": "Maine's trucking industry serves a combination of timber and forest products hauling, consumer goods distribution to rural communities, and cross-border freight with Canada. The state's geography concentrates most truck traffic on I-95 along the coast and I-295 through the Portland area, while a network of state highways and logging roads serves the vast interior. Severe winters, long distances between population centers, and limited road alternatives define the operating environment.",
-    "sections": [
+    slug: 'maine',
+    name: 'Maine',
+    abbreviation: 'ME',
+    metaTitle: 'Business Insurance in Maine',
+    metaDescription: 'Business insurance for Maine companies. Learn about workers compensation requirements, liability rules, and coverage needs for businesses operating in the Pine Tree State.',
+    heroHeading: 'Business Insurance in Maine',
+    heroSubheading: 'Commercial coverage tailored for Maine businesses across the Pine Tree State\'s maritime, tourism, and manufacturing economy.',
+    overview: 'Maine\'s economy reflects its geography and character: a long coastline supporting maritime industries and tourism, vast forests driving timber and paper production, and small to mid-sized businesses forming the backbone of communities from Portland to Presque Isle. The state has seen notable economic growth in the greater Portland area, with healthcare, technology, craft food and beverage, and professional services sectors expanding alongside the traditional natural resource and tourism industries. Maine\'s business costs are moderate by New England standards, though energy costs and the seasonal nature of many businesses create particular challenges. A well-structured insurance program helps Maine businesses manage the risks of operating in a state with harsh winters, coastal storm exposure, and a workforce spread across both urban centers and rural communities.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Maine requires interstate carriers to meet FMCSA financial responsibility requirements. The Maine Bureau of Motor Vehicles oversees commercial vehicle registration, and the Maine Department of Transportation regulates intrastate carrier operations. Maine requires commercial vehicles to carry liability insurance meeting federal minimums.\n\nMaine uses a modified comparative fault system with a 50 percent bar. The state's courts have generally produced moderate verdict trends, reflecting the rural character and smaller population. However, the high cost of medical treatment in Maine, where rural hospitals may require air evacuation to Portland or Boston for serious injuries, can increase claim severity even for accidents in low-traffic areas."
+        heading: 'State Requirements',
+        content: 'Maine requires all employers with one or more employees to carry workers compensation insurance, with very limited exceptions. The Maine Workers Compensation Board oversees the system. Employers must obtain coverage through private carriers or qualify for self-insurance. Maine does not operate a state workers compensation fund, though the Maine Employers Mutual Insurance Company serves as a significant market presence and was originally established to address market availability concerns.\n\nMaine follows a modified comparative fault system, where a plaintiff\'s recovery is reduced by their percentage of fault, and plaintiffs who are equally or more at fault than the defendant cannot recover. Maine does not mandate general business liability insurance statewide, but contractors, healthcare providers, and various licensed professionals must carry specified coverage. Maine\'s court system is generally considered moderate, with jury verdicts that tend to be reasonable by national standards. However, businesses operating along the coast or in the tourism sector should maintain adequate liability limits given the high volume of visitors during summer and fall seasons.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 is Maine's primary freight corridor, running from the New Hampshire border through Portland, Augusta, Bangor, and on to Houlton at the Canadian border. The Maine Turnpike comprises the southern portion of I-95 from Kittery to Augusta. I-295 provides a bypass around Portland and handles significant local distribution traffic. US-1 parallels the coast and carries freight to coastal communities not served by the interstate.\n\nThe Port of Portland handles petroleum products, road salt, and some general cargo. Bangor serves as the distribution center for northern and eastern Maine. The timber and paper industries generate truck traffic throughout the interior, with logging trucks operating on a network of private woods roads and state highways. Cross-border freight with New Brunswick, Canada moves through the Houlton and Calais border crossings. The state's proximity to the Canadian Maritimes creates seasonal demand for potato hauling from Aroostook County."
+        heading: 'Business Insurance Landscape',
+        content: 'Maine\'s insurance market is served by a mix of national carriers and regional insurers with New England expertise. The state\'s relatively small business population means that fewer carriers actively compete for Maine business compared to larger states, but coverage is generally available at reasonable rates for most commercial lines. Workers compensation costs in Maine have been well managed through system reforms, and premiums are moderate by New England standards.\n\nProperty insurance in Maine must address coastal storm exposure, heavy snow loads, ice damage, and the potential for nor\'easters and post-tropical cyclones. Businesses along the coast, particularly in southern Maine and the midcoast region, face elevated wind and flood risk. Standard commercial property policies exclude flood, and businesses in coastal zones should obtain separate flood coverage. Winter weather creates property risks including roof collapse from snow loads, frozen pipe damage, and ice dam-related water damage. Maine\'s large inventory of older commercial buildings may present additional property insurance challenges related to outdated wiring, heating systems, and building materials.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather is Maine's dominant risk factor, with heavy snowfall, ice storms, and extended periods of sub-zero temperatures affecting operations from November through April. Nor'easters can dump feet of snow and close highways for extended periods. Black ice is a persistent hazard on Maine highways, particularly on bridges and overpasses.\n\nMoose collisions are a serious and frequent danger on Maine highways, particularly on I-95 north of Bangor and on rural state highways during dusk and dawn hours. A moose-truck collision typically results in catastrophic vehicle damage and can cause serious driver injuries. Logging truck operations on narrow, unpaved roads create rollover risks and encounter hazards. The long distances between services and medical facilities in northern Maine mean extended response times and high towing costs for remote accidents."
+        heading: 'Key Industries',
+        content: 'Healthcare is the largest employment sector in Maine, with major hospital systems and healthcare networks serving the state\'s aging population. The healthcare sector requires comprehensive malpractice coverage, workers compensation, and cyber liability protection for patient data. Tourism is a critical economic driver, with millions of visitors arriving during summer and fall to enjoy Maine\'s coastline, Acadia National Park, and autumn foliage. Hospitality businesses face seasonal operational patterns that affect how they structure their insurance programs.\n\nThe maritime industry, including lobster fishing, commercial fishing, and shipbuilding, has deep roots in Maine\'s coastal communities. Bath Iron Works, a major naval shipyard, is one of the state\'s largest private employers. The forest products industry, including timber harvesting, paper manufacturing, and biomass energy, remains significant in northern and western Maine. The craft beer and food movement has generated a thriving artisanal economy, particularly in the Portland area. Technology and professional services have grown in southern Maine, attracted by quality of life and proximity to Boston. Agriculture, including blueberries, potatoes, and dairy farming, rounds out Maine\'s diverse economic base.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability reflecting the high medical costs associated with remote accident locations requiring air evacuation",
-          "Physical damage with comprehensive winter storm, ice, and collision coverage",
-          "Motor truck cargo insurance for timber, forest products, and petroleum distribution",
-          "Comprehensive coverage with generous limits for moose and wildlife collisions",
-          "Towing and recovery coverage for remote northern Maine operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance for businesses across Maine\'s diverse tourism, maritime, and service sectors',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with coastal storm, heavy snow load, and freeze damage coverage',
+          'Commercial auto insurance for business vehicles operating in Maine\'s winter driving conditions',
+          'Umbrella or excess liability coverage for hospitality, maritime, and healthcare businesses',
+          'Cyber liability insurance for healthcare providers and businesses handling customer data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How do moose collisions affect trucking insurance in Maine?",
-        "a": "Moose-vehicle collisions are a significant and costly hazard in Maine. An adult moose can weigh over 1,000 pounds, and collisions often result in total vehicle loss and serious driver injuries. Comprehensive physical damage coverage should not exclude animal collisions, and carriers should ensure adequate limits for complete vehicle replacement. Moose warning signs mark the highest-risk areas on I-95 and rural highways."
+        q: 'Does Maine require workers compensation for small businesses?',
+        a: 'Yes. Maine requires workers compensation insurance for all employers with one or more employees, regardless of business size. Very limited exceptions exist for certain domestic workers. Most Maine businesses must carry coverage obtained through private carriers or qualify for self-insurance. Failure to maintain required coverage can result in penalties and personal liability for business owners.'
       },
       {
-        "q": "What special insurance do Maine logging truck operators need?",
-        "a": "Logging truck operators need liability coverage that includes operations on private woods roads, physical damage coverage for harsh terrain conditions, motor truck cargo for timber and forest products, and workers compensation addressing the high-risk nature of logging operations. Some policies exclude operations on unpaved roads, so carriers must verify coverage applies to their actual operating environment."
+        q: 'What insurance do Maine tourism and hospitality businesses need?',
+        a: 'Maine tourism and hospitality businesses should carry general liability, workers compensation, commercial property, and liquor liability where applicable. Businesses offering outdoor activities such as kayaking, hiking, or sailing should carry adventure sports or guide liability coverage. Seasonal businesses may benefit from policies that adjust coverage levels and premiums based on the operating season. Business interruption coverage is important given weather-related closure risks.'
       },
       {
-        "q": "Does Maine's proximity to Canada affect trucking insurance needs?",
-        "a": "Carriers crossing into New Brunswick or Quebec need insurance that satisfies both U.S. and Canadian requirements. This typically means carrying a Canadian endorsement or separate Canadian policy. Cross-border freight requires customs documentation and may involve different liability standards. Carriers should work with brokers experienced in cross-border operations."
+        q: 'How do harsh Maine winters affect business insurance?',
+        a: 'Maine\'s severe winters create specific insurance concerns including roof collapse from heavy snow loads, frozen pipe damage leading to water loss, ice dam formation causing interior water damage, and slip-and-fall liability on icy commercial properties. Businesses should ensure their property policies cover these winter perils, maintain their premises to minimize winter hazards, and carry adequate liability coverage for slip-and-fall claims during the winter months.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "maryland",
-    "name": "Maryland",
-    "abbreviation": "MD",
-    "metaTitle": "Trucking Insurance in Maryland",
-    "metaDescription": "Commercial trucking insurance for Maryland carriers. Coverage for I-95 corridor, Port of Baltimore freight, and Washington D.C. metro distribution operations.",
-    "heroHeading": "Maryland Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the Baltimore-Washington freight corridor.",
-    "overview": "Maryland's trucking industry is anchored by the Port of Baltimore, the I-95 Northeast Corridor, and the Baltimore-Washington metropolitan area's massive consumer and government logistics market. The state's position between the Northeast and Southeast freight markets makes it a natural crossroads for long-haul carriers. Dense urban traffic, toll facilities, and a challenging litigation environment create an insurance market that requires careful planning.",
-    "sections": [
+    slug: 'maryland',
+    name: 'Maryland',
+    abbreviation: 'MD',
+    metaTitle: 'Business Insurance in Maryland',
+    metaDescription: 'Business insurance for Maryland companies. Navigate workers compensation requirements, liability rules, and coverage needs for businesses in the Old Line State\'s federal contracting and technology economy.',
+    heroHeading: 'Business Insurance in Maryland',
+    heroSubheading: 'Commercial insurance solutions for Maryland businesses operating in one of the nation\'s wealthiest and most educated states.',
+    overview: 'Maryland\'s strategic location surrounding the nation\'s capital gives it a distinctive economic character, with federal government contracting, cybersecurity, biotechnology, and healthcare forming the backbone of the state\'s high-income economy. The Baltimore-Washington corridor is one of the most economically productive regions in the country, with a highly educated workforce and strong demand for professional services, technology, and defense-related businesses. Maryland businesses benefit from proximity to federal agencies, research institutions, and a wealthy consumer market, but they also face a regulatory environment that is more demanding than many neighboring states and an insurance market influenced by urban density, coastal exposure, and an active litigation climate.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Maryland requires interstate carriers to meet FMCSA financial responsibility requirements. The Maryland Public Service Commission regulates for-hire motor carriers operating within the state and requires proof of insurance. Maryland's minimum liability requirements for commercial vehicles follow federal standards, and the state requires cargo insurance for for-hire carriers.\n\nMaryland uses a contributory negligence system, one of only a few states where a claimant who is even partially at fault is barred from recovery. This strict standard can benefit carriers in litigation by providing a complete defense when the claimant contributed to the accident. However, when liability is clearly on the carrier, Maryland juries in Baltimore City and Prince George's County have produced substantial verdicts."
+        heading: 'State Requirements',
+        content: 'Maryland requires all employers with one or more employees to carry workers compensation insurance. The Maryland Workers Compensation Commission oversees the system. Employers must obtain coverage through private carriers, the Chesapeake Employers Insurance Company (a competitive state fund), or qualify for self-insurance. The Chesapeake Employers Insurance Company serves as both a competitor in the market and an insurer of last resort for businesses that cannot obtain private coverage.\n\nMaryland follows a contributory negligence standard, one of only a few states where a plaintiff who bears any degree of fault for their own injury may be completely barred from recovery. While this can benefit businesses in litigation, it also means that when liability is clearly on the business side, courts and juries may compensate by awarding larger damages. Maryland does not mandate general liability insurance for all businesses, but government contractors, licensed professionals, and certain industries must carry specified coverage. The state\'s proximity to Washington D.C. and its sophisticated legal community contribute to an active litigation environment, particularly in the Baltimore and suburban D.C. courts.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-95 runs through Maryland from the Delaware border through Baltimore and on to Washington, D.C., carrying one of the heaviest truck-traffic volumes on the East Coast. The Fort McHenry Tunnel and the Key Bridge replacement corridor (following the 2024 Francis Scott Key Bridge collapse) are critical infrastructure points that affect freight routing. I-695, the Baltimore Beltway, and I-495, the Capital Beltway, carry heavy truck traffic around both metropolitan areas.\n\nThe Port of Baltimore specializes in roll-on roll-off automobile and machinery imports, making it the leading auto port in the country. The port also handles containers, forest products, and bulk commodities. I-70 enters Maryland from the west, connecting the state to the Midwest through the mountains of western Maryland. I-81 serves the Hagerstown area in the western panhandle, where several major distribution centers have located for access to the Mid-Atlantic market. US-50 connects the Eastern Shore and the Chesapeake Bay Bridge to the Baltimore-Washington corridor."
+        heading: 'Business Insurance Landscape',
+        content: 'Maryland\'s insurance market is competitive, with strong participation from national carriers attracted by the state\'s high-income business base. The presence of the Chesapeake Employers Insurance Company provides additional competition in the workers compensation market. Premium levels tend to be above the national average, reflecting the state\'s high wage and property value levels, urban density in the Baltimore-Washington corridor, and the elevated cost of construction, medical care, and legal services.\n\nProperty insurance in Maryland must account for coastal risks along the Chesapeake Bay and Atlantic Ocean shoreline, hurricane and tropical storm exposure, and flooding from both coastal surge and inland rainfall events. The Eastern Shore and Annapolis areas face significant flood and wind risk, while the Baltimore area and western Maryland experience severe thunderstorms and occasional tornado activity. Maryland\'s large inventory of federal contractors creates demand for specialized insurance products including government contractor liability, professional liability, and cyber insurance compliant with federal data security requirements.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The I-95 corridor through Maryland is one of the most congested freight routes in the country, with heavy truck volumes competing with commuter traffic in the Baltimore and Washington metropolitan areas. The merging and weaving required at complex interchanges like the I-95/I-695 junction produces high accident frequency. Toll facilities on I-95 and the Bay Bridge create congestion bottlenecks.\n\nMaryland weather ranges from nor'easters and ice storms to occasional hurricane remnants that bring flooding. The Chesapeake Bay Bridge on US-50 is frequently closed to high-profile vehicles during high winds, disrupting Eastern Shore freight movement. Urban delivery operations in Baltimore and the D.C. suburbs involve navigating narrow streets, low overpasses, and restricted truck routes. Cargo theft in the Baltimore-Washington corridor is a significant concern for high-value freight."
+        heading: 'Key Industries',
+        content: 'Federal government contracting is the signature industry of the Maryland economy, with thousands of businesses providing services, technology, and products to federal agencies headquartered in the Washington D.C. metro area and at military installations including Aberdeen Proving Ground, Fort Meade, and the Naval Academy. Cybersecurity and information technology have grown dramatically, with the Fort Meade and National Security Agency corridor establishing Maryland as a national leader in the cybersecurity sector.\n\nBiotechnology and life sciences are concentrated in the Rockville-Bethesda area near the National Institutes of Health, making Montgomery County one of the largest biotech clusters in the country. Healthcare is a major employer anchored by Johns Hopkins Health System in Baltimore. Higher education institutions, including Johns Hopkins University, the University of Maryland system, and the United States Naval Academy, drive research and economic activity. The Port of Baltimore is a significant contributor to the logistics and trade sector, and financial services, real estate, and professional services round out Maryland\'s key industries.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits reflecting the high-severity accident potential on the I-95 corridor",
-          "Physical damage with winter storm and flood coverage",
-          "Motor truck cargo insurance for port freight, including automobile and roll-on roll-off cargo",
-          "Umbrella or excess liability for Baltimore City and Prince George's County court exposure",
-          "General liability for carriers with terminal operations in the Hagerstown distribution corridor"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits appropriate for Maryland\'s sophisticated litigation environment',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with Chesapeake Bay coastal risk, flood, and severe storm coverage',
+          'Commercial auto insurance for business vehicles operating in the congested Baltimore-Washington corridor',
+          'Umbrella or excess liability coverage to guard against large awards in Maryland\'s contributory negligence system',
+          'Cyber liability insurance critical for federal contractors, healthcare, and technology companies'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How does Maryland's contributory negligence rule affect trucking claims?",
-        "a": "Maryland's contributory negligence standard bars any claimant who is even slightly at fault from recovering damages. This can provide a strong defense for carriers when the other party contributed to the accident. However, when the carrier is clearly at fault, verdicts can be significant, particularly in Baltimore City courts. Dashcam evidence is especially valuable in Maryland for establishing comparative fault."
+        q: 'How does Maryland\'s contributory negligence rule affect businesses?',
+        a: 'Maryland follows a contributory negligence standard, meaning that an injured party who is even slightly at fault for their own injury may be completely barred from recovery. While this can protect businesses from many claims, it also means that when fault clearly rests with the business, juries may award larger amounts to compensate. Businesses should maintain robust liability limits and strong risk management practices given this legal dynamic.'
       },
       {
-        "q": "What insurance do Port of Baltimore drayage carriers need?",
-        "a": "Port of Baltimore drayage carriers need primary auto liability, motor truck cargo insurance covering containerized and roll-on roll-off freight, and physical damage coverage. The port's specialization in automobile imports means cargo coverage should address vehicle-specific risks. Many steamship lines and terminal operators require $1,000,000 minimum liability limits and specific endorsements."
+        q: 'What insurance do Maryland federal contractors need?',
+        a: 'Maryland federal contractors typically need general liability, workers compensation, professional liability, and cyber insurance at minimum. Many federal contracts specify minimum insurance requirements and may require contractor-specific coverage types. Cyber insurance that meets federal data security standards like FedRAMP and CMMC requirements has become increasingly important. Government contract compliance insurance and errors and omissions coverage are also commonly needed.'
       },
       {
-        "q": "How did the Key Bridge collapse affect Maryland trucking operations?",
-        "a": "The March 2024 collapse of the Francis Scott Key Bridge disrupted port access and freight routing in the Baltimore area. The reconstruction process has altered traffic patterns and increased congestion on alternative routes. Carriers should monitor current routing advisories and ensure their policies cover the changing traffic patterns and potential for increased accident exposure during the reconstruction period."
+        q: 'What is the Chesapeake Employers Insurance Company?',
+        a: 'The Chesapeake Employers Insurance Company is Maryland\'s competitive state workers compensation fund. It operates as an independent insurer competing with private carriers in the workers compensation market while also serving as an insurer of last resort for businesses that cannot obtain coverage in the private market. It provides Maryland employers with an additional option for meeting their workers compensation insurance requirements.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "motor-truck-cargo",
-      "umbrella-excess",
-      "physical-damage"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "massachusetts",
-    "name": "Massachusetts",
-    "abbreviation": "MA",
-    "metaTitle": "Trucking Insurance in Massachusetts",
-    "metaDescription": "Commercial trucking insurance for Massachusetts carriers. Coverage for I-90 and I-93 corridor operations, Boston metro freight, and New England distribution.",
-    "heroHeading": "Massachusetts Trucking Insurance",
-    "heroSubheading": "Coverage for carriers navigating New England's most complex freight market.",
-    "overview": "Massachusetts is the economic engine of New England, with the Boston metropolitan area generating substantial freight demand for consumer goods, construction materials, and heating fuel distribution. The state's aging infrastructure, dense urban geography, and harsh winters create a demanding operating environment. I-90, the Massachusetts Turnpike, connects Boston to the western part of the state and the New York border, while I-93 and I-95 handle the heaviest truck volumes in the Boston metro area.",
-    "sections": [
+    slug: 'massachusetts',
+    name: 'Massachusetts',
+    abbreviation: 'MA',
+    metaTitle: 'Business Insurance in Massachusetts',
+    metaDescription: 'Business insurance for Massachusetts companies. Navigate workers compensation mandates, liability requirements, and coverage needs in the Bay State\'s innovation-driven economy.',
+    heroHeading: 'Business Insurance in Massachusetts',
+    heroSubheading: 'Comprehensive commercial coverage for businesses in America\'s innovation hub, from biotech startups to established financial institutions.',
+    overview: 'Massachusetts is a global center for innovation, education, healthcare, and financial services, with an economy driven by some of the world\'s leading universities, research institutions, and technology companies. The Greater Boston area in particular is a magnet for biotech, pharmaceutical, technology, and venture capital activity, creating a high-income, high-cost business environment that demands sophisticated insurance programs. Massachusetts imposes substantial regulatory requirements on employers, including mandatory workers compensation, and the state\'s litigation climate produces significant liability exposures. Coastal nor\'easter and hurricane risk, combined with the state\'s high property values and construction costs, add further complexity to the insurance needs of Massachusetts businesses.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Massachusetts requires interstate carriers to meet FMCSA financial responsibility requirements. The Massachusetts Department of Transportation and the Department of Public Utilities regulate intrastate motor carrier operations. Massachusetts has some of the most prescriptive commercial vehicle insurance requirements in New England, including mandatory uninsured motorist coverage.\n\nMassachusetts uses a modified comparative fault system with a 51 percent bar. The state's courts, particularly in Suffolk County (Boston), have produced significant trucking verdicts. Massachusetts also has a compulsory insurance system for all motor vehicles that requires coverage to be obtained before vehicle registration, adding administrative complexity for fleet operations."
+        heading: 'State Requirements',
+        content: 'Massachusetts requires all employers with one or more employees to carry workers compensation insurance, with no small business exemptions. The state operates through private carriers, and the Massachusetts Workers Compensation Rating and Inspection Bureau regulates rate-making. Self-insurance is available to qualifying employers. Penalties for non-compliance are severe, including stop-work orders, fines, and criminal prosecution.\n\nMassachusetts follows a modified comparative negligence system with a 51 percent bar, meaning a plaintiff who is 51 percent or more at fault cannot recover damages. Despite this threshold, Massachusetts courts are considered plaintiff-friendly, and the Greater Boston area in particular produces substantial jury verdicts. The state has extensive consumer protection laws, employment regulations, and professional licensing requirements that create additional insurance compliance demands. Massachusetts also requires certain professionals to carry malpractice or errors and omissions insurance, and the state\'s healthcare system operates under specific insurance mandates that affect medical businesses.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-90, the Massachusetts Turnpike, runs from the New York border through Springfield and Worcester to Boston, serving as the primary east-west freight route. I-93 runs north-south through Boston, connecting to New Hampshire. I-95, known locally as Route 128 in the Boston suburbs, loops around the metro area and continues north to New Hampshire and south to Rhode Island and Connecticut. I-495 provides an outer beltway serving the distribution centers in the MetroWest and Merrimack Valley regions.\n\nThe Port of Boston handles containers, liquefied natural gas, and automobiles. The Worcester area has emerged as a regional distribution center, with lower real estate costs than Boston attracting logistics operations. Springfield in western Massachusetts serves as a distribution hub for the Connecticut River Valley. The I-91 corridor runs through western Massachusetts connecting Springfield to Vermont. Heating oil and propane distribution generates significant tanker truck traffic throughout the state from October through April."
+        heading: 'Business Insurance Landscape',
+        content: 'Massachusetts has a large and competitive commercial insurance market, with numerous national and regional carriers actively writing policies in the state. However, premiums tend to be among the highest in the country, reflecting the state\'s high wage levels, expensive medical care, elevated construction and repair costs, and active litigation environment. Workers compensation costs are above the national average due to generous benefit levels and high medical costs in the Boston metropolitan area.\n\nProperty insurance for Massachusetts businesses must account for nor\'easter and hurricane risk along the extensive coastline, heavy snowfall and ice damage, and flooding in both coastal and inland areas. Businesses on Cape Cod, the Islands, and the South Shore face the highest coastal property insurance costs. The state\'s older building stock in cities like Boston, Worcester, and Springfield can present additional property insurance challenges related to outdated systems, historic building requirements, and fire risk. Employment practices liability insurance has become increasingly important given Massachusetts\'s strong employee protection statutes and active enforcement environment.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Boston's narrow streets, rotaries, and complex highway interchanges create an extremely challenging urban trucking environment. The infamous Big Dig tunnels on I-93 through downtown Boston have height and hazmat restrictions that affect truck routing. Storrow Drive and Memorial Drive along the Charles River are notorious for truck bridge strikes from oversized vehicles. The I-93/I-95 interchange is one of the worst congestion points in New England.\n\nNor'easters bring heavy snow, ice, and coastal flooding that can shut down operations for days. Winter heating fuel distribution creates surge demand and increased exposure during the most hazardous driving conditions. Massachusetts has a high rate of pedestrian and cyclist accidents in urban areas, adding to liability exposure for carriers operating in Boston, Cambridge, and other dense communities."
+        heading: 'Key Industries',
+        content: 'Biotechnology and pharmaceutical companies are perhaps the most distinctive feature of the Massachusetts economy, with Cambridge and the Route 128 corridor forming one of the world\'s most concentrated biotech clusters. These companies require specialized insurance including clinical trial liability, product liability, professional liability, and intellectual property coverage. Higher education is a massive economic force, with Harvard, MIT, Boston University, and dozens of other institutions driving research, innovation, and employment.\n\nHealthcare is one of the largest employment sectors, anchored by world-renowned hospital systems including Massachusetts General, Brigham and Women\'s, and Beth Israel Deaconess. Financial services maintain a strong presence, with mutual fund companies, asset managers, and fintech firms concentrated in Boston. Technology, including robotics, artificial intelligence, and cybersecurity, continues to grow. Defense contracting supports significant activity near military installations and through technology firms. Tourism generates billions in annual revenue, and the state\'s expanding cannabis industry has created new insurance demand. Construction is perpetually active given the region\'s ongoing development and infrastructure needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher for Boston metro operations",
-          "Uninsured motorist coverage as required by Massachusetts law",
-          "Physical damage with winter storm and flood coverage for nor'easter exposure",
-          "Motor truck cargo insurance for heating fuel, LNG, and consumer goods distribution",
-          "Umbrella or excess liability for Suffolk County and Middlesex County court exposure",
-          "Pollution liability for heating fuel and petroleum product distributors"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Massachusetts\'s plaintiff-friendly courts and high damage awards',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with nor\'easter, hurricane, flood, and heavy snow load coverage',
+          'Commercial auto insurance for business vehicles operating in Greater Boston\'s dense traffic',
+          'Umbrella or excess liability coverage essential in Massachusetts\'s high-verdict litigation environment',
+          'Cyber liability insurance critical for biotech, healthcare, financial services, and technology companies'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is trucking insurance expensive in Massachusetts?",
-        "a": "Massachusetts premiums reflect dense urban congestion, aging infrastructure that increases accident risk, harsh winters, a compulsory insurance system that adds administrative costs, mandatory uninsured motorist requirements, and a litigation environment in Boston-area courts that produces above-average verdicts. The high cost of vehicle repair and medical treatment in Massachusetts further elevates claims costs."
+        q: 'What are Massachusetts\'s workers compensation requirements?',
+        a: 'Massachusetts requires all employers with one or more employees to carry workers compensation insurance. There are no exemptions for small businesses. Coverage must be obtained through private carriers or through self-insurance for qualifying employers. Non-compliance can result in stop-work orders, fines up to $250 per day, and criminal prosecution. Massachusetts takes enforcement seriously and regularly audits businesses for compliance.'
       },
       {
-        "q": "What are the truck restrictions in Boston?",
-        "a": "The Big Dig tunnels on I-93 have height limits and hazardous materials restrictions. Storrow Drive and Memorial Drive prohibit commercial vehicles entirely, though bridge strikes from trucks entering these roads remain a regular occurrence. Many Boston neighborhoods have posted truck routes with weight and time-of-day restrictions. Carriers should ensure drivers have current route guidance to avoid violations and infrastructure damage claims."
+        q: 'Why are business insurance costs high in Massachusetts?',
+        a: 'Massachusetts insurance premiums reflect the state\'s high cost of living and doing business. Wages, medical costs, construction expenses, and property values are all well above the national average, which directly increases the cost of claims and therefore premiums. The state\'s active litigation environment, plaintiff-friendly courts, generous statutory benefit levels, and extensive regulatory requirements also contribute to elevated insurance costs across most commercial lines.'
       },
       {
-        "q": "Does Massachusetts have special requirements for heating oil delivery trucks?",
-        "a": "Heating oil delivery trucks must carry liability insurance meeting both FMCSA and state requirements, plus pollution liability coverage for fuel spill exposure. Massachusetts environmental regulations are strict, and cleanup costs for residential heating oil spills can be substantial. Carriers should ensure motor truck cargo policies cover petroleum products and that pollution liability limits are adequate for residential delivery operations."
+        q: 'What insurance do Massachusetts biotech and pharmaceutical companies need?',
+        a: 'Massachusetts biotech and pharma companies need a comprehensive insurance program including general liability, workers compensation, product liability, clinical trial liability, professional liability or errors and omissions, directors and officers coverage, cyber liability, and intellectual property protection. Companies conducting clinical trials face particular insurance requirements, and many investors and partners require specific coverage as a condition of doing business.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "michigan",
-    "name": "Michigan",
-    "abbreviation": "MI",
-    "metaTitle": "Trucking Insurance in Michigan",
-    "metaDescription": "Commercial trucking insurance for Michigan carriers. Coverage for automotive industry freight, I-94 and I-75 corridors.",
-    "heroHeading": "Michigan Trucking Insurance",
-    "heroSubheading": "Coverage for carriers in the heart of America's automotive freight network.",
-    "overview": "Michigan's trucking industry is inextricably linked to the automotive manufacturing sector, with just-in-time parts delivery creating a constant flow of freight between assembly plants, suppliers, and distribution centers. The state's no-fault auto insurance system creates unique coverage complexities for commercial vehicles. Detroit's proximity to the Canadian border makes it the busiest commercial vehicle border crossing in North America, and the state's harsh winters present persistent operational challenges.",
-    "sections": [
+    slug: 'michigan',
+    name: 'Michigan',
+    abbreviation: 'MI',
+    metaTitle: 'Business Insurance in Michigan',
+    metaDescription: 'Business insurance for Michigan companies. Understand workers compensation requirements, no-fault auto rules, and coverage options for businesses in the Great Lakes State.',
+    heroHeading: 'Business Insurance in Michigan',
+    heroSubheading: 'Commercial insurance for Michigan businesses navigating the state\'s auto-centric economy, no-fault system, and Great Lakes operating environment.',
+    overview: 'Michigan\'s economy is defined by the automotive industry more than any other state, with Detroit and its surrounding suburbs serving as the global headquarters for American automakers and an extensive network of suppliers, engineering firms, and logistics companies. Beyond automotive, Michigan has diversified into healthcare, technology, advanced manufacturing, agriculture, and tourism, with Grand Rapids, Ann Arbor, and Traverse City emerging as dynamic economic centers in their own right. Michigan\'s unique no-fault auto insurance system has historically made the state one of the most expensive for commercial vehicle coverage, though recent reform legislation has begun to moderate costs. Great Lakes weather, including heavy snowfall, ice storms, and lake-effect precipitation, adds property insurance complexity for businesses across the state.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Michigan's no-fault auto insurance system creates unique requirements for commercial vehicles. While FMCSA interstate requirements apply, Michigan also requires carriers to provide personal injury protection benefits under the state's no-fault law. Recent reforms have modified the PIP system, but commercial vehicles must still provide unlimited medical benefits for injured parties in certain circumstances, significantly increasing coverage costs.\n\nMichigan uses a modified comparative fault system with a 51 percent bar for tort liability claims that exceed the no-fault threshold. The no-fault system means that injuries below a certain severity threshold are covered by each party's own PIP coverage regardless of fault, which can reduce litigation frequency but increases the baseline cost of every policy. Michigan's combination of no-fault PIP and at-fault liability for serious injuries creates one of the most complex commercial auto insurance frameworks in the country."
+        heading: 'State Requirements',
+        content: 'Michigan requires all employers with one or more employees, including part-time and seasonal workers, to carry workers compensation insurance. The Michigan Workers Disability Compensation Agency oversees the system. Employers may obtain coverage through private carriers or qualify for self-insurance. Michigan does not operate a state workers compensation fund. Sole proprietors and partners are not required to cover themselves but may elect voluntary coverage.\n\nMichigan\'s no-fault auto insurance system, while primarily affecting personal auto coverage, has significant implications for commercial vehicle operations as well. The state recently reformed its no-fault system, allowing policyholders to choose personal injury protection limits rather than requiring unlimited lifetime medical benefits. For commercial auto policies, businesses should carefully evaluate their coverage options under the reformed system. Michigan follows a modified comparative fault system with a 50 percent bar for general liability cases. The state has seen significant litigation activity in the Detroit area, and businesses should maintain adequate liability limits, particularly for operations involving commercial vehicles.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-94 runs across southern Michigan from Detroit through Ann Arbor, Kalamazoo, and on to Chicago, carrying heavy automotive and general freight volumes. I-75 runs north-south through Detroit, Flint, Saginaw, and on to the Mackinac Bridge and the Upper Peninsula. I-96 connects Grand Rapids to Lansing and Detroit, serving the western Michigan manufacturing corridor.\n\nThe Ambassador Bridge and the Gordie Howe International Bridge connect Detroit to Windsor, Ontario, forming the busiest commercial vehicle border crossing between the U.S. and Canada. Over 25 percent of all U.S.-Canada trade crosses at Detroit. Grand Rapids is a major distribution center and furniture manufacturing hub. The Lansing and Flint areas house automotive assembly plants generating just-in-time freight demand. I-69 runs across the southern tier connecting Port Huron's Blue Water Bridge border crossing to I-94."
+        heading: 'Business Insurance Landscape',
+        content: 'Michigan\'s insurance market has evolved significantly in recent years, particularly following no-fault auto reform in 2019. Commercial auto insurance premiums, which were historically among the nation\'s highest, have begun to moderate as the reforms take effect. The broader commercial insurance market is competitive, with national and regional carriers actively writing Michigan business across most lines of coverage. Workers compensation costs are moderate by national standards, reflecting Michigan\'s manufacturing safety improvements and effective return-to-work programs.\n\nProperty insurance in Michigan must address lake-effect snow, ice storms, severe thunderstorms, and occasional tornado activity. The state\'s Great Lakes coastline creates unique property exposures, including shoreline erosion and wind-driven precipitation. Businesses in the Upper Peninsula face particularly harsh winter conditions. Michigan\'s large manufacturing base creates demand for specialized coverage including equipment breakdown, product liability, environmental liability, and business interruption insurance. The state\'s transition toward electric vehicle manufacturing is creating new insurance needs for battery production, charging infrastructure, and evolving technology risks.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Michigan winters are severe, with heavy lake-effect snow in western and northern Michigan, ice storms, and extended periods of sub-freezing temperatures. The lake-effect snow bands can produce localized whiteout conditions on I-196, US-131, and I-94 near Lake Michigan. The Upper Peninsula receives some of the heaviest snowfall in the eastern United States, with annual totals exceeding 200 inches in some areas.\n\nDetroit metro traffic congestion and the aging condition of Michigan's road infrastructure contribute to high accident frequency. Michigan's roads are among the most heavily used by trucks due to the automotive supply chain, but the state's historically limited road funding has left many highways in poor condition. Pothole and road surface damage claims are unusually common in Michigan. The complexity of the no-fault insurance system means that claims processing is more expensive and time-consuming than in conventional tort states."
+        heading: 'Key Industries',
+        content: 'The automotive industry remains central to Michigan\'s economic identity, with General Motors, Ford, and Stellantis headquartered in or near Detroit, alongside thousands of supplier firms ranging from major Tier 1 suppliers to small specialty manufacturers. The automotive sector\'s ongoing transformation toward electric and autonomous vehicles is creating new insurance exposures related to battery technology, software liability, and advanced manufacturing processes. The extended automotive supply chain demands comprehensive product liability, workers compensation, and commercial property coverage.\n\nHealthcare is one of Michigan\'s largest employers, with major systems including Beaumont Health, Spectrum Health, and the University of Michigan Health System operating across the state. Technology has grown substantially in Ann Arbor, Detroit, and Grand Rapids, including software development, mobility technology, and cybersecurity. Agriculture in western and central Michigan includes fruit orchards, dairy, and row crops. Tourism is a significant industry, particularly in northern Michigan and the Traverse City region. Furniture manufacturing in Grand Rapids, defense contracting, and higher education add to the state\'s diverse commercial insurance needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with Michigan no-fault PIP compliance, which significantly affects premium structure",
-          "Physical damage with comprehensive winter weather, ice, and pothole damage coverage",
-          "Motor truck cargo insurance for automotive parts and just-in-time manufacturing freight",
-          "Cross-border coverage for carriers operating between Michigan and Ontario, Canada",
-          "Excess liability for Wayne County and Oakland County court exposure",
-          "Workers compensation covering cold-weather injuries and automotive plant operations"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims across Michigan\'s manufacturing and service economy',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with coverage for lake-effect weather, heavy snow loads, and severe storms',
+          'Commercial auto insurance carefully structured under Michigan\'s reformed no-fault system',
+          'Umbrella or excess liability coverage for manufacturing, automotive, and public-facing businesses',
+          'Cyber liability insurance for technology, healthcare, and manufacturing companies facing digital risks'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How does Michigan's no-fault insurance system affect commercial trucking?",
-        "a": "Michigan's no-fault system requires commercial vehicle policies to include personal injury protection that covers medical expenses for injuries resulting from accidents, regardless of fault. Recent reforms have modified PIP requirements, but commercial vehicles still face higher baseline coverage costs than in most states. The no-fault system reduces some litigation but adds complexity and cost to every policy."
+        q: 'How does Michigan\'s no-fault auto reform affect commercial vehicle insurance?',
+        a: 'Michigan\'s 2019 no-fault auto reform significantly changed the state\'s auto insurance landscape. While the reforms primarily address personal injury protection limits, commercial vehicle policies are also affected. Businesses can now select different levels of personal injury protection rather than being required to carry unlimited lifetime medical benefits. This has begun to reduce commercial auto premiums, but businesses should work with their insurers to understand their options and ensure appropriate coverage levels under the reformed system.'
       },
       {
-        "q": "What insurance do I need for cross-border trucking between Michigan and Canada?",
-        "a": "Cross-border carriers need U.S. commercial auto insurance meeting FMCSA requirements, Canadian liability coverage meeting Ontario's minimum standards, cargo insurance valid in both countries, and proper customs documentation. Some insurers offer combined policies, while others require separate Canadian endorsements. The Gordie Howe International Bridge and Ambassador Bridge have specific insurance verification procedures."
+        q: 'What insurance do Michigan automotive suppliers need?',
+        a: 'Michigan automotive suppliers should carry general liability, product liability, workers compensation, commercial property, and commercial auto insurance as a baseline. Product liability coverage is critical given the potential for defective components to cause vehicle recalls or accidents. Many automakers require suppliers to carry specific minimum coverage levels as a condition of their supply agreements. Professional liability may also be needed for engineering and design services. The shift toward electric vehicles is creating additional coverage needs for battery-related risks.'
       },
       {
-        "q": "Why are Michigan roads so damaging to trucks?",
-        "a": "Michigan's combination of heavy truck traffic, severe freeze-thaw cycles, and historically underfunded road maintenance creates road surface conditions that produce more pothole and pavement damage claims than most states. Physical damage policies should account for this exposure, and carriers should budget for higher maintenance costs when operating primarily on Michigan roads."
+        q: 'How does Great Lakes weather affect Michigan business property insurance?',
+        a: 'Michigan\'s Great Lakes climate creates specific property insurance considerations. Lake-effect snow can produce extreme accumulations that stress building roofs and disrupt operations. Ice storms can damage structures, utilities, and outdoor equipment. Severe thunderstorms and occasional tornadoes during warm months add further exposure. Businesses should ensure their property policies adequately cover these perils and carry business interruption coverage to address weather-related operational shutdowns.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "umbrella-excess"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "minnesota",
-    "name": "Minnesota",
-    "abbreviation": "MN",
-    "metaTitle": "Trucking Insurance in Minnesota",
-    "metaDescription": "Commercial trucking insurance for Minnesota carriers. Coverage for I-35 and I-94 corridors, Twin Cities freight hub, and severe winter operations.",
-    "heroHeading": "Minnesota Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating in the Upper Midwest's premier freight market.",
-    "overview": "Minnesota's trucking industry centers on the Twin Cities metropolitan area, one of the most important distribution hubs in the Upper Midwest. I-35 and I-94 converge in Minneapolis-St. Paul, connecting freight flows between the Northern Plains, the Great Lakes, and the national highway network. The state's severe winters are the dominant operational challenge, but Minnesota also offers a strong transportation workforce, a diverse freight base including agriculture and manufacturing, and a relatively moderate litigation environment.",
-    "sections": [
+    slug: 'minnesota',
+    name: 'Minnesota',
+    abbreviation: 'MN',
+    metaTitle: 'Business Insurance in Minnesota',
+    metaDescription: 'Business insurance for Minnesota companies. Navigate workers compensation requirements, liability rules, and coverage needs for businesses in the North Star State.',
+    heroHeading: 'Business Insurance in Minnesota',
+    heroSubheading: 'Commercial insurance solutions for Minnesota businesses operating in one of the nation\'s most economically stable and diversified states.',
+    overview: 'Minnesota consistently ranks among the best states for business, combining a highly educated workforce, strong infrastructure, a diversified economy, and a culture of corporate responsibility that has produced an outsized number of Fortune 500 companies headquartered in the Minneapolis-St. Paul metro area. The state\'s economy spans healthcare, financial services, manufacturing, agriculture, technology, and retail, creating a broad base that provides stability even during economic downturns. Minnesota\'s regulatory environment is more active than many Midwest states, with strong worker protections and environmental regulations that businesses must factor into their operations and insurance planning. The state\'s extreme winters and severe summer storms also create property and operational risks that demand attention in any commercial insurance program.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Minnesota requires interstate carriers to meet FMCSA financial responsibility requirements. The Minnesota Department of Transportation oversees intrastate motor carrier operations and requires proof of insurance. Minnesota's minimum commercial vehicle liability requirements follow federal standards.\n\nMinnesota uses a modified comparative fault system with a 51 percent bar. The Hennepin County (Minneapolis) and Ramsey County (St. Paul) courts handle the majority of trucking litigation in the state, with verdict trends that are moderate by national standards. Minnesota's regulatory environment for trucking is generally considered fair and predictable, which contributes to a stable insurance market."
+        heading: 'State Requirements',
+        content: 'Minnesota requires all employers with one or more employees to carry workers compensation insurance, with limited exceptions for certain family farm and household workers. The Minnesota Department of Labor and Industry oversees the workers compensation system. Employers must obtain coverage through private carriers, the State Fund Mutual (a competitive insurer in the Minnesota market), or qualify for self-insurance. Assigned risk coverage is available through the Minnesota Workers Compensation Insurers Association for employers who cannot obtain coverage in the voluntary market.\n\nMinnesota follows a modified comparative fault system, where a plaintiff\'s damages are reduced by their percentage of fault, and a plaintiff who is 50 percent or more at fault cannot recover. The state does not mandate general liability insurance for all businesses, but contractors, healthcare providers, and various licensed professionals must carry specified coverage. Minnesota\'s court system produces moderate verdict sizes by national standards, though cases involving serious injury, particularly in Hennepin County (Minneapolis), can result in substantial awards. The state\'s strong employee protection laws make employment practices liability insurance an important consideration for Minnesota employers.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-35 splits into I-35W through Minneapolis and I-35E through St. Paul, reconnecting south of the metro before continuing to Duluth in the north and to Iowa and Kansas City in the south. I-94 runs east-west through the Twin Cities, connecting Fargo, North Dakota to Milwaukee and Chicago. I-90 crosses southern Minnesota through Rochester, Mankato, and Sioux Falls.\n\nThe Twin Cities metro area is a major distribution hub, with concentrations of warehousing and logistics operations in the southern suburbs, Shakopee, and the I-94 corridor. Target Corporation, UnitedHealth Group, and numerous other Fortune 500 companies headquartered in Minnesota generate steady freight demand. Duluth and the Iron Range in northeastern Minnesota serve the mining industry, with iron ore pellets and taconite moving by truck to rail and port facilities. Rochester's Mayo Clinic generates medical supply and pharmaceutical freight demand."
+        heading: 'Business Insurance Landscape',
+        content: 'Minnesota is home to several major insurance companies, including UnitedHealth Group and Securian Financial, giving the state deep institutional knowledge of the insurance industry. The commercial insurance market is competitive, with strong carrier participation across all lines of coverage. Premium levels are moderate, reflecting the state\'s effective workers compensation system, reasonable litigation climate, and strong insurer competition.\n\nProperty insurance in Minnesota must address severe thunderstorms, hail, tornadoes, extreme winter cold, and spring flooding. The state\'s location at the northern edge of the severe storm belt means that damaging hail and wind events are common during summer months. Winter brings extreme cold that can cause frozen pipes, ice dam damage, and roof stress from heavy snow loads. Spring flooding along the Minnesota, Mississippi, and Red Rivers has caused significant commercial property damage in years of heavy snowmelt. Despite these weather exposures, Minnesota\'s insurance market handles them capably, and most businesses can obtain comprehensive coverage at competitive rates.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Severe winter weather dominates Minnesota's risk profile. Blizzards, extreme cold with wind chill values dropping below minus 50 degrees, and icy roads create hazardous conditions from November through March. I-35 between the Twin Cities and Duluth is particularly treacherous in winter, with lake-effect snow from Lake Superior and steep terrain near Duluth. Ground blizzards on the open prairie of western Minnesota can reduce visibility to zero.\n\nSpring flooding along the Minnesota and Mississippi Rivers periodically closes highways and disrupts freight movement. Severe thunderstorms and occasional tornadoes affect the state during summer months. The transition between dry pavement and ice or snow patches creates unpredictable traction conditions that contribute to multi-vehicle accidents. Minnesota's shorter daylight hours during winter mean more driving occurs in darkness, increasing fatigue and accident risk."
+        heading: 'Key Industries',
+        content: 'The Minneapolis-St. Paul metro area hosts an exceptional concentration of Fortune 500 companies spanning diverse sectors. UnitedHealth Group, 3M, Target, Best Buy, General Mills, and U.S. Bancorp are just a few of the major corporations headquartered in the Twin Cities, creating enormous downstream demand for commercial insurance products. Healthcare is one of the largest employers statewide, with the Mayo Clinic in Rochester standing as one of the world\'s most renowned medical institutions.\n\nManufacturing remains a strong sector, including medical devices, food processing, industrial machinery, and electronics. Minnesota\'s medical device industry, centered in the Twin Cities area, is globally significant and requires specialized product liability, clinical trial, and professional liability coverage. Agriculture is central to the rural Minnesota economy, with corn, soybeans, sugar beets, dairy, and hog production among the leading commodities. Financial services and insurance companies employ tens of thousands of workers. The technology sector has grown, particularly in software development and health technology. Mining, including iron ore extraction on the Iron Range, and the growing renewable energy sector add to the state\'s diverse insurance needs.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability with limits appropriate for Twin Cities metro and multi-state corridor operations",
-          "Physical damage with comprehensive winter storm, ice, and flood coverage",
-          "Motor truck cargo insurance for agricultural commodities, manufacturing freight, and medical supplies",
-          "Workers compensation covering cold-weather injuries, frostbite, and hypothermia exposure",
-          "Non-trucking liability for owner-operators in the Twin Cities distribution market"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance to protect against third-party claims across Minnesota\'s diversified economy',
+          'Workers compensation insurance as required for all employers with one or more employees',
+          'Commercial property insurance with coverage for hail, severe storms, extreme cold damage, and flooding',
+          'Commercial auto insurance for business vehicles operating in Minnesota\'s harsh winter driving conditions',
+          'Umbrella or excess liability coverage for healthcare, manufacturing, and corporate businesses',
+          'Cyber liability insurance for healthcare, financial services, technology, and retail companies'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "How do Minnesota winters affect trucking insurance premiums?",
-        "a": "Minnesota's severe winters increase physical damage claim frequency from ice and snow, contribute to higher collision rates during the extended cold season, and create cargo damage exposure from freezing. Carriers with strong winter driving programs, pre-trip inspection protocols, and cold-weather equipment maintenance can demonstrate to insurers that they manage winter risk effectively, potentially moderating premium increases."
+        q: 'Does Minnesota require workers compensation for all employers?',
+        a: 'Yes. Minnesota requires workers compensation insurance for virtually all employers with one or more employees. Limited exceptions exist for certain family farm and household workers. Employers can obtain coverage through private carriers, the State Fund Mutual, or self-insurance programs. The Minnesota Workers Compensation Insurers Association provides assigned risk coverage for employers who cannot obtain policies in the voluntary market.'
       },
       {
-        "q": "Is the Twin Cities a competitive trucking insurance market?",
-        "a": "Yes, the Twin Cities benefit from having multiple insurance carriers and brokers specializing in transportation. The moderate litigation environment, strong safety culture among Minnesota carriers, and diverse freight base create a relatively competitive insurance market compared to states with more challenging litigation environments."
+        q: 'How does Minnesota\'s winter climate affect business insurance?',
+        a: 'Minnesota\'s extreme winters create specific insurance exposures including frozen pipe damage, ice dam formation leading to water intrusion, roof stress and potential collapse from heavy snow loads, and slip-and-fall liability on icy commercial properties. Businesses should ensure their property policies cover freeze-related damage, maintain adequate snow removal protocols, and carry liability coverage for winter hazards. Business interruption coverage is important given the potential for severe winter weather to close operations.'
       },
       {
-        "q": "What mining industry trucking risks exist in northeastern Minnesota?",
-        "a": "Iron Range and taconite mining operations involve hauling extremely heavy loads on roads shared with mining equipment. Dust, narrow routes, and the seasonal shutdown and restart cycles create unique operating risks. Carriers serving the mining industry should ensure physical damage and liability policies cover operations in active mining areas and on private haul roads."
+        q: 'What insurance do Minnesota medical device companies need?',
+        a: 'Minnesota medical device manufacturers should carry comprehensive insurance including general liability, product liability with adequate limits for device-related injury claims, workers compensation, professional liability for engineering and consulting services, clinical trial liability, regulatory compliance coverage, and cyber liability for protecting patient and research data. Product recall coverage is also important. Many customers and distributors require specific minimum coverage levels as a condition of purchasing agreements.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "physical-damage",
-      "motor-truck-cargo",
-      "workers-compensation"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "mississippi",
-    "name": "Mississippi",
-    "abbreviation": "MS",
-    "metaTitle": "Trucking Insurance in Mississippi",
-    "metaDescription": "Commercial trucking insurance for Mississippi carriers. Coverage for I-55 and I-20 corridors, Gulf Coast port freight, and challenging litigation exposure.",
-    "heroHeading": "Mississippi Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating through the Deep South's key freight corridors.",
-    "overview": "Mississippi's trucking industry serves a combination of agricultural hauling, Gulf Coast port freight, and through-traffic on major north-south and east-west corridors. I-55 and I-20 intersect in Jackson, creating the state's primary freight crossroads. The state's litigation environment has improved somewhat from its historical reputation but remains a significant concern for carriers. Hurricane exposure along the Gulf Coast and the state's rural road network add to the insurance challenges.",
-    "sections": [
+    slug: 'mississippi',
+    name: 'Mississippi',
+    abbreviation: 'MS',
+    metaTitle: 'Business Insurance in Mississippi',
+    metaDescription: 'Business insurance for Mississippi companies. Learn about workers compensation requirements, liability considerations, and coverage needs for businesses in the Magnolia State.',
+    heroHeading: 'Business Insurance in Mississippi',
+    heroSubheading: 'Commercial coverage for Mississippi businesses operating in one of the South\'s most affordable and growing business environments.',
+    overview: 'Mississippi offers businesses some of the lowest operating costs in the nation, with affordable real estate, low wages, and a regulatory environment that generally favors business growth. The state\'s economy is anchored by agriculture, manufacturing, energy, and a growing aerospace and defense sector. While Mississippi faces economic challenges including lower average incomes and limited workforce depth in some areas, the state has made significant investments in workforce training, infrastructure, and business incentives to attract new industries. Insurance considerations for Mississippi businesses include hurricane exposure along the Gulf Coast, flooding risk near the Mississippi River and its tributaries, tornado activity statewide, and a litigation environment that has historically been plaintiff-friendly in certain jurisdictions.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Mississippi requires interstate carriers to meet FMCSA financial responsibility requirements. The Mississippi Department of Transportation and the Public Service Commission oversee intrastate motor carrier operations and require proof of insurance. Mississippi's minimum liability requirements for commercial vehicles follow federal standards.\n\nMississippi uses a pure comparative fault system, allowing injured parties to recover damages reduced by their percentage of fault even if they are primarily at fault. This is among the most plaintiff-friendly fault standards in the Southeast. Certain Mississippi court venues, historically including the Mississippi Delta counties and some Gulf Coast jurisdictions, have developed reputations for large jury verdicts in trucking cases. Tort reform efforts have moderated some of these trends, but carriers should still maintain robust liability limits."
+        heading: 'State Requirements',
+        content: 'Mississippi requires employers with five or more employees to carry workers compensation insurance. This threshold is higher than many states, meaning some smaller Mississippi businesses are not required to carry coverage. Employers who do not meet the threshold may still elect voluntary workers compensation coverage. The Mississippi Workers Compensation Commission oversees the system. Employers may obtain coverage through private carriers or qualify for self-insurance. Mississippi does not operate a state workers compensation fund.\n\nMississippi follows a pure comparative fault system, meaning an injured party can recover damages regardless of their own percentage of fault, with damages reduced proportionally. This system can create broader liability exposure for businesses compared to states with fault thresholds. Mississippi does not mandate general liability insurance for all businesses, but contractors, transportation companies, and licensed professionals often must carry specified coverage. Certain Mississippi courts, particularly in the Gulf Coast region and the Mississippi Delta, have historically produced plaintiff-friendly outcomes and substantial jury verdicts, making adequate liability coverage and umbrella protection important for businesses operating in these areas.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-55 runs north-south through Mississippi from Memphis through Grenada, Jackson, and Brookhaven to the Louisiana border, carrying heavy freight volumes between the Mid-South and Gulf Coast. I-20 crosses the state east-west through Vicksburg, Jackson, and Meridian, connecting Dallas-Shreveport to Birmingham. I-10 crosses the southern tip of the state along the Gulf Coast through Biloxi and Gulfport.\n\nThe Port of Gulfport handles containers, forest products, and military cargo. The Port of Pascagoula serves the petrochemical and shipbuilding industries. Jackson is the state's primary distribution center and the convergence point for most major freight routes. The Mississippi River ports at Vicksburg, Natchez, and Greenville handle barge-to-truck transloading for agricultural commodities. The Golden Triangle region around Columbus and Starkville has attracted manufacturing investment, including a major steel mill and automobile plant."
+        heading: 'Business Insurance Landscape',
+        content: 'Mississippi\'s insurance market is served by national and regional carriers, though the state\'s smaller business population means that carrier competition is less intense than in larger neighboring states. Premium levels for general liability and workers compensation are generally below the national average, reflecting the state\'s lower wage levels and property values. However, property insurance along the Gulf Coast has been significantly affected by hurricane losses, with many carriers reducing their exposure or imposing restrictive terms on coastal properties.\n\nThe Mississippi Windstorm Underwriting Association provides wind coverage for coastal properties that cannot obtain it in the private market, functioning similarly to wind pools in other Gulf and Atlantic states. Flood insurance is a critical concern for businesses near the Mississippi River, its tributaries, and the Gulf Coast, where flooding has caused billions in damage over the years. Despite the challenges in the coastal property market, Mississippi\'s interior locations offer more affordable property insurance rates. The state\'s workers compensation rates have been relatively stable, and employers in manufacturing and agriculture can often find competitive coverage through carriers experienced in these sectors.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "Hurricane exposure along the Mississippi Gulf Coast is the most significant catastrophic risk. Hurricane Katrina in 2005 devastated the coast and disrupted freight operations throughout the state for months. The Gulf Coast region remains vulnerable to major storms during the June through November hurricane season. Tornadoes also affect Mississippi, particularly during the spring severe weather season.\n\nMississippi's rural road network includes many two-lane highways without adequate shoulders, lighting, or rumble strips. These roads carry significant agricultural and timber truck traffic, and the higher accident rates per mile on rural routes increase overall risk. Flooding along the Mississippi River and its tributaries is a recurring seasonal hazard. The state's litigation environment, while improved, still presents higher-than-average verdict exposure that carriers should account for in their liability limits."
+        heading: 'Key Industries',
+        content: 'Manufacturing is the largest contributor to Mississippi\'s GDP, with automotive assembly, furniture production, electrical equipment, and food processing among the leading subsectors. The Nissan and Toyota assembly plants in central Mississippi and their supplier networks employ thousands of workers and create significant insurance demand. Aerospace and defense have grown substantially, with shipbuilding operations in Pascagoula at Huntington Ingalls Industries and growing aviation maintenance and military contracting activity.\n\nAgriculture remains foundational to the Mississippi economy, with cotton, soybeans, poultry, catfish, and timber among the primary commodities. The state is the nation\'s leading catfish producer, and poultry operations are concentrated in southern Mississippi. Energy production, including oil and gas extraction along the Gulf Coast and renewable energy development, supports the state\'s industrial base. Healthcare is a major employer, and gaming and hospitality in Biloxi, Tunica, and along the Gulf Coast generate significant revenue. The growing technology and financial services sectors in the Jackson metro area add economic diversity.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher given Mississippi's pure comparative fault standard",
-          "Umbrella or excess liability for exposure to historically plaintiff-friendly court venues",
-          "Physical damage with hurricane, flood, and comprehensive storm coverage",
-          "Motor truck cargo insurance for agricultural, timber, and port freight commodities",
-          "Workers compensation for operations in the Gulf Coast petrochemical and port sectors"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with limits reflecting Mississippi\'s pure comparative fault system and plaintiff-friendly courts',
+          'Workers compensation insurance required for employers with five or more employees, recommended for smaller firms',
+          'Commercial property insurance with hurricane, wind, flood, and tornado coverage based on location',
+          'Commercial auto insurance for business vehicles operating across Mississippi\'s highway and rural road network',
+          'Umbrella or excess liability coverage to protect against large verdicts in Mississippi\'s litigation environment',
+          'Cyber liability insurance for healthcare, financial services, and technology businesses handling sensitive data'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Has Mississippi's litigation environment improved for trucking defendants?",
-        "a": "Tort reform efforts have brought some improvements, including limits on non-economic damages in certain cases and changes to venue selection rules that have reduced forum shopping. However, Mississippi's pure comparative fault system and certain court venues continue to produce above-average verdicts in trucking cases. Carriers should maintain robust liability limits and strong safety documentation."
+        q: 'How many employees trigger Mississippi\'s workers compensation requirement?',
+        a: 'Mississippi requires workers compensation insurance for employers with five or more employees. Businesses below this threshold are not required to carry coverage but may elect to do so voluntarily. Even businesses not required to carry workers compensation should consider voluntary coverage to protect themselves from the potentially devastating costs of workplace injuries. The Mississippi Workers Compensation Commission oversees compliance.'
       },
       {
-        "q": "What insurance is needed for Mississippi Gulf Coast operations?",
-        "a": "Gulf Coast carriers need comprehensive hurricane and flood coverage in their physical damage policies, motor truck cargo insurance for port freight, pollution liability for petrochemical hauling, and liability limits reflecting the Gulf Coast court venues. Named-storm deductibles and flood exclusions should be carefully reviewed and negotiated to ensure adequate coverage."
+        q: 'How does Gulf Coast hurricane exposure affect Mississippi business insurance?',
+        a: 'Hurricane exposure significantly impacts property insurance for businesses along the Mississippi Gulf Coast. Many private carriers have reduced their coastal property coverage, leaving businesses to seek wind coverage through the Mississippi Windstorm Underwriting Association. Flood insurance is excluded from standard property policies and must be obtained separately. Businesses in coastal areas should expect higher premiums, specific wind and hail deductibles, and potential coverage limitations.'
       },
       {
-        "q": "How does agriculture affect Mississippi trucking insurance?",
-        "a": "Mississippi's cotton, soybean, rice, and catfish farming industries generate seasonal surges in trucking demand. Agricultural haulers need cargo coverage specific to their commodities, physical damage coverage for operations on rural farm roads, and potentially adjustable workers compensation for seasonal workforce fluctuations. Grain haulers should ensure coverage for bin loading and unloading operations."
+        q: 'What is Mississippi\'s pure comparative fault system?',
+        a: 'Mississippi\'s pure comparative fault system allows injured parties to recover damages even if they are primarily responsible for their own injury, with damages reduced by their percentage of fault. For example, a plaintiff found 80 percent at fault could still recover 20 percent of their damages. This system creates broader liability exposure for businesses compared to states with fault thresholds, making adequate general liability and umbrella coverage particularly important.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "physical-damage",
-      "motor-truck-cargo"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   },
   {
-    "slug": "missouri",
-    "name": "Missouri",
-    "abbreviation": "MO",
-    "metaTitle": "Trucking Insurance in Missouri",
-    "metaDescription": "Commercial trucking insurance for Missouri carriers. Coverage for Kansas City and St. Louis freight hubs, I-70 and I-44 corridors, and central U.S.",
-    "heroHeading": "Missouri Trucking Insurance",
-    "heroSubheading": "Coverage for carriers operating from the Gateway to the West.",
-    "overview": "Missouri's position at the geographic center of the country, with two major metropolitan freight hubs in Kansas City and St. Louis, makes it one of the most important states in the national trucking network. I-70, I-44, I-35, and I-55 all converge in Missouri, creating a dense web of freight corridors. The state's diverse freight base includes automotive manufacturing, agriculture, and the enormous distribution and e-commerce fulfillment operations that have concentrated in both metro areas. Missouri's litigation environment, particularly in St. Louis City, is a significant insurance cost consideration.",
-    "sections": [
+    slug: 'missouri',
+    name: 'Missouri',
+    abbreviation: 'MO',
+    metaTitle: 'Business Insurance in Missouri',
+    metaDescription: 'Business insurance for Missouri companies. Learn about workers compensation requirements, liability rules, and coverage options for businesses in the Show-Me State\'s central location economy.',
+    heroHeading: 'Business Insurance in Missouri',
+    heroSubheading: 'Commercial insurance for Missouri businesses leveraging the state\'s central location, diverse economy, and competitive business costs.',
+    overview: 'Missouri\'s position at the geographic center of the country, with two major metropolitan areas in Kansas City and St. Louis and an extensive transportation infrastructure, makes it a natural hub for businesses serving national markets. The state offers a moderate cost of doing business, a diverse economy spanning advanced manufacturing, healthcare, agriculture, financial services, and technology, and a business climate that balances regulatory requirements with growth-friendly policies. Kansas City and St. Louis each have their own economic character and strengths, while smaller cities and rural areas contribute through agriculture, manufacturing, and tourism. Missouri businesses must address insurance exposures that include severe thunderstorms, tornadoes, flooding along the Missouri and Mississippi Rivers, and a litigation environment that varies significantly between the state\'s metropolitan and rural courts.',
+    sections: [
       {
-        "heading": "State Requirements",
-        "content": "Missouri requires interstate carriers to meet FMCSA financial responsibility requirements. The Missouri Department of Transportation's Motor Carrier Services division oversees intrastate motor carrier registration and requires proof of insurance. Missouri's minimum commercial vehicle liability requirements follow federal standards for vehicles operating under USDOT authority.\n\nMissouri uses a pure comparative fault system, allowing injured parties to recover damages regardless of their percentage of fault, with the recovery reduced accordingly. St. Louis City is widely considered one of the most plaintiff-friendly jurisdictions in the country for trucking cases, with a history of nuclear verdicts that has made it a top-tier litigation risk for motor carriers. The Kansas City metro courts have also produced significant verdicts, though generally more moderate than St. Louis."
+        heading: 'State Requirements',
+        content: 'Missouri requires all employers with five or more employees to carry workers compensation insurance. Construction industry employers must carry coverage regardless of employee count. The Missouri Division of Workers Compensation oversees the system. Employers may obtain coverage through private carriers, the Missouri Employers Mutual Insurance Company (a competitive mutual insurer), or qualify for self-insurance. The five-employee threshold means some small businesses are not legally required to carry coverage, though voluntary coverage is strongly recommended.\n\nMissouri follows a pure comparative fault system, allowing injured parties to recover damages in proportion to the defendant\'s share of fault regardless of the plaintiff\'s own negligence level. This system creates broad liability exposure for businesses. Missouri does not mandate general liability insurance for all businesses, but contractors, transportation companies, and licensed professionals often must carry specified coverage. The litigation environment varies significantly within the state, with the City of St. Louis historically known as one of the most plaintiff-friendly jurisdictions in the country, while outstate courts tend to produce more moderate outcomes. The state has enacted tort reform measures addressing venue shopping and other practices, but businesses with operations in St. Louis should maintain particularly strong liability coverage.'
       },
       {
-        "heading": "Major Freight Corridors",
-        "content": "I-70 crosses Missouri from Kansas City through Columbia to St. Louis, serving as the primary east-west corridor and one of the busiest truck routes in the Midwest. I-44 runs from St. Louis through Springfield to Joplin and the Oklahoma border, following the old Route 66 alignment. I-35 passes through Kansas City connecting the Midwest to Texas. I-55 enters St. Louis from Chicago and continues south to Memphis.\n\nKansas City is one of the nation's largest freight hubs, home to major intermodal yards for BNSF and Union Pacific, and a growing concentration of e-commerce fulfillment centers. The Kansas City metro spans the Kansas-Missouri border and generates enormous local and regional trucking demand. St. Louis serves as a gateway between the Midwest and Southeast, with major distribution operations along the I-70 corridor west of the city. Springfield is a regional distribution center for the Ozark region, and the Joplin area serves as a freight gateway to Oklahoma and the Southern Plains."
+        heading: 'Business Insurance Landscape',
+        content: 'Missouri\'s insurance market is well-served by national and regional carriers, with strong competition across most commercial lines. The Missouri Employers Mutual Insurance Company provides additional competition in the workers compensation market and serves as an important coverage option for Missouri employers. Premium levels are moderate by national standards, reflecting the state\'s reasonable operating costs, though specific factors like industry type, claims history, and location can significantly affect individual business pricing.\n\nProperty insurance in Missouri must account for the state\'s position at the convergence of multiple severe weather systems. Tornadoes, damaging hail, straight-line winds, and severe thunderstorms are common across the state during spring and summer. The Joplin tornado of 2011 demonstrated the catastrophic potential of severe storms in Missouri. Flooding is a major and recurring concern along the Missouri and Mississippi Rivers and their numerous tributaries, affecting both urban and rural businesses. Winter ice storms can be devastating in the Ozarks and southern Missouri. Earthquake risk exists along the New Madrid Seismic Zone in the Bootheel region, and while a major event has not occurred in modern times, the potential consequences are severe enough that businesses in southeastern Missouri should consider earthquake coverage.'
       },
       {
-        "heading": "Risk Factors",
-        "content": "The St. Louis City litigation environment is the most significant insurance risk factor for Missouri carriers. Nuclear verdicts in trucking cases have made St. Louis City one of the most feared court venues in the country for motor carrier defendants. Plaintiff attorneys specializing in trucking litigation are concentrated in the St. Louis area and aggressively pursue cases against carriers with any connection to the jurisdiction.\n\nMissouri weather ranges from ice storms that can shut down I-44 through the Ozarks to severe thunderstorms and tornadoes in spring and summer. The Joplin area was devastated by an EF5 tornado in 2011, and the state remains in the heart of tornado activity. Flooding along the Missouri and Mississippi Rivers periodically closes highways and damages infrastructure. The aging condition of Missouri's highway bridges has been a persistent safety concern, with weight restrictions affecting truck routing on secondary roads."
+        heading: 'Key Industries',
+        content: 'Healthcare is one of Missouri\'s largest employment sectors, with major hospital systems and medical research institutions concentrated in St. Louis and Kansas City. The healthcare sector requires comprehensive malpractice, workers compensation, cyber liability, and professional liability coverage. Advanced manufacturing, including automotive parts, aerospace components, food processing, and chemicals, maintains a strong presence across the state. Kansas City has emerged as a growing technology hub, with animal health and veterinary science companies joining the traditional financial services and telecommunications sectors.\n\nAgriculture is central to the Missouri economy, with the state ranking highly in cattle, hogs, soybeans, corn, and hay production. The agribusiness sector, including farm equipment dealers, grain elevators, and food processors, supports rural communities throughout the state. Financial services and insurance have a significant presence in Kansas City and St. Louis. The defense sector is anchored by Whiteman Air Force Base and Fort Leonard Wood. Tourism, including the Branson entertainment district, the Ozarks recreation area, and the cultural attractions of St. Louis and Kansas City, contributes a substantial hospitality and entertainment economy. Transportation and logistics, leveraging Missouri\'s central location and river access, round out the state\'s key industries.'
       },
       {
-        "heading": "Recommended Coverage",
-        "bullets": [
-          "Primary auto liability at $1,000,000 or higher, with strong consideration for higher limits given St. Louis City verdict exposure",
-          "Umbrella or excess liability as the most critical coverage for Missouri operations",
-          "Physical damage with tornado, hail, flood, and ice storm coverage",
-          "Motor truck cargo insurance for automotive, agricultural, and distribution freight",
-          "General liability for carriers with terminal and warehouse operations in the KC and STL metro areas",
-          "Non-trucking liability for owner-operators in the Kansas City intermodal drayage market"
+        heading: 'Recommended Coverage',
+        bullets: [
+          'General liability insurance with high limits, especially for businesses operating in or near the City of St. Louis',
+          'Workers compensation insurance required for employers with five or more employees and all construction employers',
+          'Commercial property insurance with tornado, hail, flood, and earthquake coverage based on business location',
+          'Commercial auto insurance for business vehicles operating across Missouri\'s extensive highway network',
+          'Umbrella or excess liability coverage critical given Missouri\'s pure comparative fault system and St. Louis verdict history',
+          'Cyber liability insurance for healthcare, financial services, technology, and data-handling businesses'
         ]
       }
     ],
-    "faqs": [
+    faqs: [
       {
-        "q": "Why is St. Louis City considered high-risk for trucking insurance?",
-        "a": "St. Louis City has a separate court system from St. Louis County and is known for producing some of the largest trucking verdicts in the country. The plaintiff bar is highly experienced in trucking litigation, jury pools tend to be sympathetic to injured individuals, and Missouri's pure comparative fault system allows recovery regardless of the plaintiff's fault percentage. Carriers should maintain the highest possible liability and excess limits if operating in or through the St. Louis area."
+        q: 'When is workers compensation required in Missouri?',
+        a: 'Missouri requires workers compensation insurance for employers with five or more employees. However, all construction industry employers must carry workers compensation regardless of their employee count. Employers below the five-employee threshold in non-construction industries may still elect voluntary coverage. The Missouri Employers Mutual Insurance Company and private carriers provide coverage options. Non-compliant employers face fines and personal liability for workplace injuries.'
       },
       {
-        "q": "What makes Kansas City an important freight hub?",
-        "a": "Kansas City sits at the intersection of I-70, I-35, and I-29, has major BNSF and UP intermodal facilities, and is centrally located for overnight truck delivery to a large portion of the country. The metro has attracted massive e-commerce fulfillment center investment and serves as a gateway for Mexican and Canadian trade. This concentration of logistics activity creates strong insurance competition and market depth for KC-area carriers."
+        q: 'Why is liability insurance particularly important for businesses in the St. Louis area?',
+        a: 'The City of St. Louis has historically been regarded as one of the most plaintiff-friendly jurisdictions in the United States, with a reputation for producing large jury verdicts. While Missouri has enacted tort reform measures to address venue shopping and other practices, businesses with operations in or near St. Louis should carry higher liability limits and umbrella coverage than they might consider sufficient in other parts of the state. Working with experienced brokers who understand the St. Louis litigation landscape is essential.'
       },
       {
-        "q": "How do Missouri tornadoes affect trucking insurance?",
-        "a": "Missouri averages over 30 tornadoes annually, and severe thunderstorms bring damaging hail and straight-line winds from April through July. Physical damage policies should include comprehensive coverage for tornado, hail, and wind damage without restrictive sub-limits. Terminal locations should be evaluated for tornado exposure, and carriers should maintain severe weather protocols for driver safety."
+        q: 'Is earthquake insurance needed for Missouri businesses?',
+        a: 'Earthquake coverage is particularly relevant for businesses in southeastern Missouri near the New Madrid Seismic Zone, which produced some of the most powerful earthquakes in recorded North American history in 1811-1812. While a major event has not occurred in modern times, seismologists continue to assess the region as having meaningful earthquake risk. Standard commercial property policies exclude earthquake damage, so separate coverage is necessary. Businesses in the Bootheel and surrounding areas should strongly consider earthquake insurance.'
       }
     ],
-    "recommendedCoverages": [
-      "auto-liability",
-      "umbrella-excess",
-      "physical-damage",
-      "motor-truck-cargo"
+    recommendedCoverages: [
+      'general-liability',
+      'workers-compensation',
+      'commercial-property',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'cyber-liability'
     ]
   }
 ];

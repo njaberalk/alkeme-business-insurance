@@ -13,11 +13,11 @@ export default function Testimonial() {
           </svg>
         </div>
         <blockquote className="text-stone font-light leading-relaxed mb-8" style={{ fontSize: 'clamp(1.25rem, 3vw, 1.6rem)', lineHeight: '1.6' }}>
-          Working with this team made it easy to secure the right coverage for our fleet. They understood our operation, moved quickly, and gave us confidence that our risks were properly covered.
+          ALKEME took the time to understand our operations and built a program that actually fits. When we had a property claim, they handled everything and got us back on track fast. They are not just our broker — they are a genuine partner in our business.
         </blockquote>
         <div>
-          <div className="text-stone font-bold" style={{ fontSize: '1rem' }}>James Mitchell</div>
-          <div className="text-cream/70" style={{ fontSize: '0.85rem' }}>Operations Manager, Regional Freight Carrier</div>
+          <div className="text-stone font-bold" style={{ fontSize: '1rem' }}>Robert Caldwell</div>
+          <div className="text-cream/70" style={{ fontSize: '0.85rem' }}>Owner, Regional Manufacturing Company</div>
         </div>
       </div>
     </section>

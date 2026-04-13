@@ -2,22 +2,21 @@
 import Link from 'next/link';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
-// Basic coverage metadata for cross-linking
 const allCoverages = {
-  'auto-liability': { title: 'Primary Auto Liability', desc: 'Liability protection for at-fault accidents' },
-  'physical-damage': { title: 'Physical Damage', desc: 'Covers repair or replacement of your vehicles' },
-  'motor-truck-cargo': { title: 'Motor Truck Cargo', desc: 'Protects goods in transit' },
-  'general-liability': { title: 'General Liability', desc: 'Third-party claims outside vehicle operation' },
-  'non-trucking-liability': { title: 'Non-Trucking Liability', desc: 'Coverage for personal use of truck' },
-  'trailer-interchange': { title: 'Trailer Interchange', desc: 'Covers trailers under interchange agreements' },
+  'general-liability': { title: 'General Liability', desc: 'Third-party bodily injury and property damage' },
   'workers-compensation': { title: 'Workers\' Compensation', desc: 'Employee injury wage and medical benefits' },
-  'umbrella-excess-liability': { title: 'Umbrella / Excess', desc: 'Additional liability protection layer' },
-  'occupational-accident': { title: 'Occupational Accident', desc: 'Coverage for independent contractors' },
+  'commercial-property': { title: 'Commercial Property', desc: 'Buildings, equipment, and inventory protection' },
+  'business-interruption': { title: 'Business Interruption', desc: 'Lost income during covered shutdowns' },
+  'professional-liability': { title: 'Professional Liability', desc: 'Errors & omissions coverage' },
+  'commercial-auto': { title: 'Commercial Auto', desc: 'Company vehicle liability and damage' },
+  'cyber-liability': { title: 'Cyber Liability', desc: 'Data breach and cyber event response' },
+  'directors-officers': { title: 'Directors & Officers', desc: 'Leadership liability protection' },
+  'umbrella-excess-liability': { title: 'Umbrella / Excess', desc: 'Additional liability limits' },
+  'employment-practices-liability': { title: 'Employment Practices', desc: 'Wrongful termination and discrimination' },
 };
 
 export default function RelatedCoverages({ slugs, title = 'Related Coverage' }) {
   const ref = useScrollAnimation();
-
   return (
     <div ref={ref} className="bg-stone fade-in-view" style={{ padding: '5rem 0' }}>
       <div className="max-w-[68rem] mx-auto px-[60px] max-lg:px-6 max-md:px-4">
