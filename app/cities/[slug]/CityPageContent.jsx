@@ -109,7 +109,7 @@ export default function CityPageContent({ city }) {
             <div>
               <h3 className="text-gold font-bold uppercase tracking-[0.12em] mb-4" style={{ fontSize: '0.8rem' }}>Industries We Serve</h3>
               <div className="space-y-2">
-                {['owner-operators', 'small-fleets', 'large-fleets', 'flatbed', 'hazmat'].map(slug => (
+                {['construction', 'technology', 'retail', 'manufacturing', 'professional-services'].map(slug => (
                   <Link key={slug} href={`/industries/${slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')}
                   </Link>
@@ -122,7 +122,7 @@ export default function CityPageContent({ city }) {
                 {[
                   { slug: 'business-insurance-cost', label: 'How Much Does It Cost?' },
                   { slug: 'general-liability-guide', label: 'General Liability Guide' },
-                  { slug: 'new-authority-insurance', label: 'New Authority Insurance' },
+                  { slug: 'general-liability-guide', label: 'General Liability Guide' },
                 ].map(r => (
                   <Link key={r.slug} href={`/resources/${r.slug}/`} className="block text-cream hover:text-gold no-underline" style={{ fontSize: '0.85rem', transition: 'color 0.2s' }}>
                     {r.label}
