@@ -2,13 +2,13 @@
 export const coverageToIndustries = {
   'general-liability': ['construction', 'hospitality', 'retail', 'manufacturing'],
   'workers-compensation': ['construction', 'manufacturing', 'hospitality', 'retail'],
-  'commercial-property': ['retail', 'manufacturing', 'hospitality', 'habitational'],
+  'commercial-property': ['retail', 'manufacturing', 'hospitality', 'real-estate'],
   'business-interruption': ['manufacturing', 'hospitality', 'retail', 'technology'],
-  'professional-liability': ['professional-services', 'technology', 'construction', 'security-companies'],
-  'commercial-auto': ['transportation', 'construction', 'manufacturing', 'retail'],
+  'professional-liability': ['professional-services', 'technology', 'construction', 'startups-emerging'],
+  'commercial-auto': ['logistics-warehousing', 'construction', 'manufacturing', 'retail'],
   'cyber-liability': ['technology', 'professional-services', 'retail', 'hospitality'],
-  'directors-officers': ['technology', 'professional-services', 'manufacturing', 'habitational'],
-  'umbrella-excess-liability': ['construction', 'manufacturing', 'transportation', 'hospitality'],
+  'directors-officers': ['technology', 'professional-services', 'manufacturing', 'real-estate'],
+  'umbrella-excess-liability': ['construction', 'manufacturing', 'logistics-warehousing', 'hospitality'],
   'employment-practices-liability': ['hospitality', 'retail', 'professional-services', 'technology'],
 };
 
@@ -26,12 +26,12 @@ export const coverageToResources = {
 };
 
 export const industryToStates = {
-  'security-companies': ['california', 'texas', 'florida', 'new-york', 'illinois'],
+  'startups-emerging': ['california', 'new-york', 'texas', 'massachusetts', 'washington'],
   'construction': ['texas', 'california', 'florida', 'new-york', 'ohio'],
   'automotive': ['texas', 'california', 'florida', 'pennsylvania', 'ohio'],
   'hospitality': ['california', 'florida', 'new-york', 'texas', 'nevada'],
-  'habitational': ['california', 'new-york', 'texas', 'florida', 'illinois'],
-  'transportation': ['texas', 'california', 'illinois', 'georgia', 'ohio'],
+  'real-estate': ['california', 'new-york', 'texas', 'florida', 'illinois'],
+  'logistics-warehousing': ['texas', 'california', 'illinois', 'georgia', 'indiana'],
   'retail': ['california', 'texas', 'new-york', 'florida', 'illinois'],
   'manufacturing': ['texas', 'ohio', 'michigan', 'indiana', 'illinois'],
   'professional-services': ['new-york', 'california', 'texas', 'illinois', 'massachusetts'],
@@ -39,12 +39,12 @@ export const industryToStates = {
 };
 
 export const industryToResources = {
-  'security-companies': ['general-liability-guide', 'workers-comp-guide', 'business-insurance-cost'],
+  'startups-emerging': ['business-insurance-cost', 'cyber-insurance-guide', 'certificate-of-insurance-guide'],
   'construction': ['workers-comp-guide', 'certificate-of-insurance-guide', 'general-liability-guide'],
   'automotive': ['business-insurance-cost', 'general-liability-guide', 'commercial-auto-guide'],
   'hospitality': ['general-liability-guide', 'workers-comp-guide', 'business-insurance-cost'],
-  'habitational': ['business-insurance-cost', 'general-liability-guide', 'claims-guide'],
-  'transportation': ['commercial-auto-guide', 'workers-comp-guide', 'business-insurance-cost'],
+  'real-estate': ['business-insurance-cost', 'certificate-of-insurance-guide', 'business-insurance-glossary'],
+  'logistics-warehousing': ['commercial-auto-guide', 'workers-comp-guide', 'business-insurance-cost'],
   'retail': ['business-owners-policy-guide', 'cyber-insurance-guide', 'business-insurance-cost'],
   'manufacturing': ['workers-comp-guide', 'business-insurance-cost', 'claims-guide'],
   'professional-services': ['business-insurance-cost', 'cyber-insurance-guide', 'certificate-of-insurance-guide'],

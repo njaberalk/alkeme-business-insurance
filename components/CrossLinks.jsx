@@ -6,8 +6,8 @@ export function RelatedIndustries({ slugs, title = 'Industries That Need This Co
   const ref = useScrollAnimation();
   if (!slugs?.length) return null;
   const industryNames = {
-    'security-companies': 'Security Companies', 'construction': 'Construction', 'automotive': 'Automotive',
-    'hospitality': 'Hospitality', 'habitational': 'Habitational', 'transportation': 'Transportation',
+    'startups-emerging': 'Startups & Emerging', 'construction': 'Construction', 'automotive': 'Automotive',
+    'hospitality': 'Hospitality', 'real-estate': 'Real Estate', 'logistics-warehousing': 'Logistics & Warehousing',
     'retail': 'Retail', 'manufacturing': 'Manufacturing', 'professional-services': 'Professional Services',
     'technology': 'Technology',
   };

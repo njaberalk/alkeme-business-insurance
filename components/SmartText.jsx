@@ -29,12 +29,14 @@ const LINK_MAP = [
   ['EPLI', '/coverage/employment-practices-liability/'],
 
   // Industries
-  ['security companies', '/industries/security-companies/'],
+  ['startups', '/industries/startups-emerging/'],
+  ['emerging businesses', '/industries/startups-emerging/'],
   ['construction', '/industries/construction/'],
   ['automotive', '/industries/automotive/'],
   ['hospitality', '/industries/hospitality/'],
-  ['habitational', '/industries/habitational/'],
-  ['transportation', '/industries/transportation/'],
+  ['real estate', '/industries/real-estate/'],
+  ['logistics', '/industries/logistics-warehousing/'],
+  ['warehousing', '/industries/logistics-warehousing/'],
   ['retail', '/industries/retail/'],
   ['manufacturing', '/industries/manufacturing/'],
   ['professional services', '/industries/professional-services/'],

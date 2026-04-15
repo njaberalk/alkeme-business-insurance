@@ -1,69 +1,67 @@
 export const industries = [
   {
-    slug: 'security-companies',
-    title: 'Security Companies',
-    metaTitle: 'Business Insurance for Security Companies | ALKEME Insurance Services',
+    slug: 'startups-emerging',
+    title: 'Startups & Emerging Businesses',
+    metaTitle: 'Business Insurance for Startups & Emerging Companies | ALKEME Insurance Services',
     metaDescription:
-      'Comprehensive insurance solutions for security guard services, alarm monitoring, patrol operations, and private investigations. Protect your security firm with tailored coverage from ALKEME.',
-    heroHeading: 'Insurance Solutions for Security Companies',
+      'Insurance solutions for startups, founder liability, seed-stage companies, and emerging businesses. Protect your growing company with coverage designed for early-stage operations from ALKEME.',
+    heroHeading: 'Insurance for Startups & Emerging Businesses',
     heroSubheading:
-      'Specialized coverage for guard services, alarm monitoring, patrol operations, and investigative firms that keeps your business protected while you protect others.',
+      'Coverage designed for the unique risks of early-stage companies, from founder liability and investor requirements to scaling operations and first hires.',
     overview:
-      'Security companies operate in one of the most liability-intensive sectors in the business world. Your personnel interact with the public in high-stakes situations every day, often in environments where the potential for bodily injury, property damage, and allegations of negligence is significantly elevated. Whether you provide armed or unarmed guard services, mobile patrol, alarm monitoring, executive protection, or private investigation, the exposures your firm faces demand insurance programs built by specialists who understand the security industry from the inside out. ALKEME works with security companies of all sizes to structure coverage that addresses the unique risks inherent in protective services, loss prevention, and surveillance operations.',
+      'Startups and emerging businesses face a paradox: they need insurance to land contracts, attract investors, and protect founders, but they operate with limited budgets and rapidly evolving risk profiles that traditional insurance programs were not designed to accommodate. Whether you are a seed-stage SaaS company, a venture-backed marketplace, a bootstrapped service firm hiring your first employees, or a growth-stage company scaling operations, ALKEME builds insurance programs that grow with your business and satisfy the requirements of investors, clients, and regulators.',
     sections: [
       {
-        heading: 'Unique Insurance Challenges for Security Firms',
+        heading: 'Why Startups Need Insurance Earlier Than They Think',
         content:
-          'Security companies face a liability landscape unlike any other service industry. Every shift your guards work represents potential exposure to claims ranging from assault and battery to wrongful detention, invasion of privacy, and failure to protect. The nature of the work means your employees are frequently placed in confrontational situations where split-second decisions can result in significant bodily injury claims against your firm.\n\nThe distinction between armed and unarmed services creates vastly different risk profiles. Armed guard operations carry substantially higher liability exposure due to the presence of firearms, and insurers evaluate these risks very differently than unarmed patrol or monitoring services. If your firm provides both, your coverage program must be structured to address each service line independently while maintaining cohesive protection across the entire operation.\n\nAlarm monitoring and electronic security services introduce professional liability exposures that differ fundamentally from physical guard services. When a monitored system fails to detect an intrusion or a false alarm leads to unnecessary police response, your firm can face claims for negligent monitoring, contractual liability, and consequential damages. These exposures require errors and omissions coverage specifically tailored to the electronic security sector.\n\nPrivate investigation services bring their own set of risks, including allegations of defamation, invasion of privacy, and misuse of information. Investigators who conduct surveillance, background checks, or fraud investigations must be covered by professional liability policies that address the specific legal theories plaintiffs use against investigative firms.',
+          'Most founders discover they need insurance when an outside event forces the issue: a prospective client requires proof of coverage before signing a contract, an investor includes insurance requirements in term sheet conditions, a co-working space demands a certificate of insurance, or the company hires its first employee and workers compensation becomes mandatory.\n\nWaiting for these trigger events means making hurried insurance decisions without adequate planning. The better approach is to build a scalable insurance foundation early, starting with the coverages that address your immediate exposures and adding layers as the business grows. A properly structured startup insurance program costs far less than founders expect and eliminates the scramble when coverage is suddenly required.',
       },
       {
-        heading: 'Key Coverage Considerations',
+        heading: 'Key Coverage for Early-Stage Companies',
         content:
-          'General liability for security companies must go well beyond a standard commercial general liability policy. Your GL program needs to address assault and battery exposure, which many standard policies exclude or severely limit. Without proper endorsements or specialty policy forms, a single incident involving a guard and a member of the public can leave your firm with an uncovered claim that threatens the entire business.\n\nWorkers compensation represents a major cost center for security firms, and the rates reflect the hazardous nature of the work. Guards who are injured on the job, whether through physical altercations, slip-and-fall incidents during patrol, or repetitive stress from standing posts for extended periods, generate claims that drive your experience modification factor. Managing this exposure requires not just insurance but an integrated safety and training program.\n\nCommercial auto coverage is essential for firms that provide mobile patrol services, alarm response, or executive protection requiring vehicle operations. Your fleet policy must account for the fact that security vehicles are often driven at irregular hours, in response to emergency calls, and in neighborhoods or properties where hazards may not be immediately apparent.\n\nProfessional liability, often called errors and omissions coverage, protects your firm when clients allege that your services failed to meet the standard of care. This can include claims that your guards were improperly trained, that your monitoring center failed to respond appropriately to an alarm signal, or that your investigation produced inaccurate results that caused financial harm to the subject.',
+          'General liability is the baseline coverage that most client contracts and lease agreements require. It covers third-party bodily injury and property damage claims, which can arise from client visits to your office, product demonstrations, trade show participation, or any interaction with the public.\n\nProfessional liability, also called errors and omissions, protects against claims that your product or service caused financial harm to a client. For technology startups, this coverage addresses allegations of software defects, service delivery failures, missed deadlines, and data loss. For consulting and service firms, it covers professional negligence and advice-related claims.\n\nDirectors and officers liability is critical for any company with outside investors, a board of directors, or advisory board members. D&O coverage protects company leadership against personal liability for management decisions, and sophisticated investors require it as a condition of investment. Without D&O, qualified board members may refuse to serve, limiting your ability to build the governance structure that accelerators and VCs expect.',
       },
       {
-        heading: 'How ALKEME Supports Security Companies',
+        heading: 'How ALKEME Supports Startups',
         content:
-          'ALKEME has built deep relationships with carriers that specialize in the security industry. This matters because standard-market insurers frequently decline or severely restrict coverage for security operations, particularly armed services and firms with assault-and-battery exposure. Our access to specialty markets means we can place coverage for security companies that have been turned away by generalist brokers.\n\nWe begin every engagement by conducting a thorough operational review of your firm. We examine your service lines, client contracts, training protocols, use-of-force policies, and claims history to identify exposures that may not be immediately obvious. Many security companies carry insurance that was purchased based on price alone, with policy forms that contain exclusions rendering the coverage nearly useless in the scenarios most likely to generate claims.\n\nOur team also assists with contractual risk transfer, helping you evaluate the hold-harmless agreements and additional insured requirements in your client contracts. Security companies frequently sign contracts that shift enormous liability onto the security provider, and understanding what your insurance will and will not cover under those contractual obligations is critical to protecting your firm.',
+          'ALKEME works with startup-friendly carriers that offer modular programs designed to scale. We start with the coverages you need today and build a roadmap for adding protection as you hit growth milestones: first hire, first enterprise client, first funding round, and first office lease. Our programs are structured to avoid the common startup mistake of buying too little coverage or the wrong coverage types.\n\nWe also assist with the certificate of insurance and additional insured requirements that startups encounter when signing contracts with larger companies. Many enterprise clients require specific coverage types, minimum limits, and endorsements before they will onboard a startup vendor. ALKEME ensures your program satisfies these requirements so insurance never becomes a blocker to revenue.',
       },
       {
-        heading: 'Recommended Coverage Strategy',
+        heading: 'Recommended Coverage for Startups',
         bullets: [
-          'General liability with assault-and-battery coverage, wrongful detention, and personal injury extensions appropriate for security operations',
-          'Workers compensation with managed return-to-work programs designed to control experience modification rates in high-risk classifications',
-          'Professional liability covering errors in guard services, alarm monitoring failures, and investigation-related claims',
-          'Commercial auto for patrol vehicles, response units, and executive protection fleets with hired and non-owned auto extensions',
-          'Umbrella and excess liability to provide additional limits above primary policies, critical for firms with large client contracts requiring high insurance thresholds',
-          'Employment practices liability to address claims of discrimination, harassment, or wrongful termination from security personnel',
-          'Cyber liability for firms that store client data, access control system information, or surveillance footage electronically',
+          'General liability for client contracts, lease agreements, and co-working space requirements',
+          'Professional liability or technology E&O for product and service delivery claims',
+          'Directors and officers liability to attract investors and protect board members',
+          'Cyber liability for companies that handle customer data or operate digital platforms',
+          'Workers compensation when you hire your first employees',
+          'Employment practices liability as your team grows and HR complexity increases',
+          'Umbrella liability when client contracts require limits above your primary policies',
         ],
       },
     ],
     recommendedCoverages: [
       'general-liability',
-      'workers-compensation',
       'professional-liability',
-      'commercial-auto',
-      'umbrella-excess-liability',
-      'employment-practices-liability',
+      'directors-officers',
       'cyber-liability',
+      'employment-practices-liability',
     ],
     faqs: [
       {
-        q: 'Does standard general liability cover assault and battery claims against my guards?',
-        a: 'Most standard general liability policies exclude or sublimit assault and battery. Security companies need specialty policy forms or specific endorsements that provide meaningful coverage for these exposures. Without them, an altercation between a guard and a third party can result in a completely uncovered claim. ALKEME places coverage with carriers that understand security risks and include appropriate assault-and-battery provisions.',
+        q: 'When should a startup first get business insurance?',
+        a: 'Most startups should have at least general liability and professional liability in place before signing their first client contract or lease. If you have outside investors or a board, D&O should be purchased at the time of investment. Workers compensation is required as soon as you hire your first employee in most states.',
       },
       {
-        q: 'What is the difference between armed and unarmed security insurance?',
-        a: 'Armed security operations carry significantly higher liability premiums and require specialized underwriting. Insurers evaluate firearms training protocols, use-of-force policies, licensing compliance, and the specific types of armed assignments your firm accepts. Unarmed operations have lower base rates but still require robust general liability and professional liability coverage. Many firms that provide both services need separate rating and potentially separate policy structures for each service line.',
+        q: 'Do investors require specific insurance coverage?',
+        a: 'Yes. Most institutional investors, including VCs and angel groups, require D&O liability as a condition of investment. Some also require key person insurance, cyber liability, and employment practices liability. These requirements are typically outlined in the term sheet or investment agreement.',
       },
       {
-        q: 'Do I need professional liability if I only provide guard services?',
-        a: 'Yes. Professional liability for guard services covers allegations that your firm failed to provide the level of protection promised in your contract. If a client suffers a loss, such as a burglary or vandalism, and alleges that your guards were negligent in performing their duties, professional liability responds to those claims. This coverage is distinct from general liability, which addresses bodily injury and property damage but not failures in professional service delivery.',
+        q: 'How much does startup insurance cost?',
+        a: 'A basic startup insurance package including general liability and professional liability can start at a few hundred dollars per month. D&O and cyber liability add to the cost but are often required by investors and clients. ALKEME works with startup-focused carriers that offer competitive rates for early-stage companies.',
       },
       {
-        q: 'How can I reduce my workers compensation costs as a security company?',
-        a: 'Workers compensation costs for security firms are driven primarily by your experience modification factor and your classification codes. Implementing formal safety training, use-of-force protocols, incident reporting procedures, and managed return-to-work programs can reduce claim frequency and severity over time. ALKEME also works with carriers that offer loss control services specifically for the security industry, helping you implement practices that lower your mod factor and control premium costs.',
+        q: 'Can I add coverages as my startup grows?',
+        a: 'Yes. The best startup insurance programs are designed to scale. You can add workers compensation when you hire, increase limits when contracts require it, add cyber liability when data volumes grow, and layer umbrella coverage when enterprise clients demand higher thresholds.',
       },
     ],
   },
@@ -269,136 +267,136 @@ export const industries = [
     ],
   },
   {
-    slug: 'habitational',
-    title: 'Habitational',
-    metaTitle: 'Business Insurance for Habitational | ALKEME Insurance Services',
+    slug: 'real-estate',
+    title: 'Real Estate',
+    metaTitle: 'Business Insurance for Real Estate | ALKEME Insurance Services',
     metaDescription:
-      'Insurance programs for apartment complexes, condominiums, property management companies, and HOAs. ALKEME delivers habitational coverage that protects owners, managers, and associations.',
-    heroHeading: 'Insurance for Habitational Properties',
+      'Insurance for real estate agencies, brokerages, property investors, and property management companies. ALKEME provides coverage for transaction liability, E&O, and investment property risks.',
+    heroHeading: 'Insurance for Real Estate Professionals',
     heroSubheading:
-      'Specialized coverage for apartment buildings, condominium associations, property management firms, and HOAs that protects the property, the residents, and the ownership entity.',
+      'Coverage for real estate agencies, brokerages, property investors, and management firms that protects against transaction errors, professional liability, and property investment risks.',
     overview:
-      'Habitational insurance covers the unique exposures associated with residential properties where people live, including apartment complexes, condominium buildings, townhome developments, and mixed-use properties with residential components. Property owners, management companies, and homeowners associations each face distinct liability, property, and regulatory risks that require specialized insurance programs rather than generic commercial property policies. ALKEME works with habitational property owners, investors, management firms, and community associations to build coverage programs that address the full scope of residential property risk.',
+      'Real estate professionals face a distinct combination of professional liability, property, and regulatory risks that span the entire lifecycle of property transactions. Whether you operate a residential brokerage, a commercial real estate agency, a property investment firm, or a property management company, the advice you give, the transactions you facilitate, and the properties you manage create exposures that standard business insurance does not adequately address. ALKEME works with real estate professionals across all specializations to build programs that protect against the claims most likely to arise from real estate operations.',
     sections: [
       {
-        heading: 'The Complexity of Habitational Risk',
+        heading: 'Professional Liability for Real Estate',
         content:
-          'Habitational properties present a risk profile that differs fundamentally from commercial real estate because people live in these buildings around the clock. Every resident, guest, and service provider who enters the property represents a potential premises liability claim. The exposures range from slip-and-fall injuries on walkways and in common areas to more serious incidents involving fire, water damage, security failures, and habitability disputes.\n\nProperty damage claims in habitational settings are often catastrophic in scale. A single pipe burst in a high-rise apartment building can cause water damage cascading through dozens of units. A fire in one condominium unit can render an entire building uninhabitable. Weather events can damage roofs, exteriors, and common areas across an entire community, generating claims that quickly exhaust inadequate coverage limits.\n\nLiability claims against habitational property owners and managers frequently involve allegations of negligent security, premises maintenance failures, lead paint or mold exposure, and fair housing violations. These claims can be financially devastating, particularly when they involve long-term bodily injury or multiple claimants. The legal environment surrounding landlord-tenant relationships adds an additional layer of complexity, as tenant protection statutes in many jurisdictions create specific duties and liabilities for property owners.',
+          'Real estate professionals provide advice and facilitate transactions worth hundreds of thousands to millions of dollars. When a transaction goes wrong, the parties look to the real estate professional for compensation. Errors and omissions claims against agents and brokers commonly involve failure to disclose known property defects, misrepresentation of property conditions or values, missed contractual deadlines, errors in purchase agreements, and failure to advise clients on inspection findings.\n\nProperty investors face different professional liability exposures when they provide investment advice, manage syndications, or operate as real estate investment advisors. Claims from investors alleging misrepresentation of projected returns, failure to disclose investment risks, and breach of fiduciary duty fall within the professional liability coverage scope.',
       },
       {
-        heading: 'Coverage Needs Across Habitational Property Types',
+        heading: 'Coverage for Property Investors and Portfolios',
         content:
-          'Apartment building owners need commercial property coverage that reflects the replacement cost of the structure, including common areas, building systems, and owner-provided fixtures in rental units. General liability must address the premises exposure created by tenant occupancy, visitor access, and the maintenance obligations inherent in residential property ownership. Loss of rental income coverage is essential to replace the revenue stream that disappears when fire, water, or other covered perils make units uninhabitable.\n\nCondominium and homeowners associations require coverage structures that distinguish between the association responsibilities and individual unit owner obligations. The association typically insures the building structure, common areas, and shared systems under a master policy, while individual unit owners carry their own HO-6 policies for interior improvements, personal property, and personal liability. The dividing line between association and unit owner coverage responsibility is defined by the governing documents and must be clearly understood to avoid coverage gaps.\n\nProperty management companies face professional liability exposure arising from their management activities, including tenant screening decisions, maintenance response, rent collection, eviction proceedings, and financial reporting to property owners. Errors and omissions coverage for property managers protects against claims that management negligence caused financial harm to the property owner or that management decisions violated tenant rights or fair housing laws.',
+          'Real estate investors who own rental properties, flip houses, or manage commercial portfolios need property and liability coverage that scales with their holdings. Commercial property coverage for investment properties, loss of rental income protection, and premises liability for tenant and visitor injuries are the foundation.\n\nFor investors operating through LLCs or investment entities, proper insurance structuring ensures each entity and property is correctly covered. Umbrella and excess liability is essential for investors with multiple properties because a single catastrophic claim at one property can exceed primary limits and threaten the entire portfolio.',
       },
       {
-        heading: 'How ALKEME Serves the Habitational Sector',
+        heading: 'How ALKEME Supports Real Estate Professionals',
         content:
-          'ALKEME has extensive experience insuring habitational properties across the risk spectrum, from single apartment buildings to large-scale community associations with hundreds of units. We understand the interplay between property ownership structures, management agreements, and governing documents that determines how insurance should be structured for each entity involved in a residential property.\n\nOur habitational practice evaluates the physical condition of your properties, the geographic exposures you face such as wind, hail, flood, and earthquake, the tenant demographic and occupancy patterns, and the contractual relationships between owners, managers, and associations. This comprehensive assessment ensures your coverage program addresses the exposures that actually exist rather than relying on generic habitational policy templates.\n\nWe also assist property owners and associations with risk management strategies that reduce claim frequency and severity, including property maintenance protocols, common area safety improvements, security assessments, and vendor insurance compliance programs that ensure every contractor working on your property carries adequate coverage.',
+          'ALKEME works with real estate agencies, brokerages, investors, and property managers to build insurance programs that address the specific risks of each business model. We understand the regulatory environment governing real estate licensees, the contractual obligations in listing agreements and buyer representation contracts, and the property-level exposures that investment portfolios create.\n\nOur programs include assistance with the certificate of insurance and additional insured requirements that property owners, landlords, and commercial tenants frequently demand. We help ensure your coverage meets the requirements of your franchise agreements, MLS memberships, and state licensing boards.',
       },
       {
-        heading: 'Recommended Coverage for Habitational Properties',
+        heading: 'Recommended Coverage for Real Estate',
         bullets: [
-          'Commercial property on a replacement cost basis covering buildings, common areas, building systems, and owner-provided fixtures and appliances',
-          'General liability addressing premises liability, tenant and visitor injury claims, and personal injury exposures including wrongful eviction and discrimination allegations',
-          'Loss of rental income or business interruption coverage replacing revenue lost when covered perils make residential units uninhabitable',
-          'Directors and officers liability for condominium and HOA board members protecting against allegations of mismanagement, breach of fiduciary duty, and failure to enforce governing documents',
-          'Professional liability for property management companies covering errors in tenant screening, maintenance management, financial reporting, and regulatory compliance',
-          'Umbrella liability extending limits above general liability, auto, and employers liability for property owners and management firms with large portfolios',
-          'Workers compensation for maintenance staff, groundskeeping crews, and property management employees',
+          'Professional liability or E&O covering transaction errors, disclosure failures, and advice-related claims',
+          'General liability for office premises, open houses, property showings, and client interactions',
+          'Commercial property for office space, signage, equipment, and investment property holdings',
+          'Directors and officers for brokerage leadership and investment company governance',
+          'Commercial auto for agents using personal vehicles for property showings and client meetings',
+          'Cyber liability for agencies handling client financial data and transaction records electronically',
+          'Umbrella liability for real estate investors with multi-property portfolios',
         ],
       },
     ],
     recommendedCoverages: [
-      'commercial-property',
+      'professional-liability',
       'general-liability',
-      'business-interruption',
+      'commercial-property',
       'directors-officers',
-      'umbrella-excess-liability',
-      'workers-compensation',
-    ],
-    faqs: [
-      {
-        q: 'What is the difference between an association master policy and a unit owner HO-6 policy?',
-        a: 'The association master policy covers the building structure, common areas, and shared systems as defined by the governing documents. An individual unit owner HO-6 policy covers the interior of the unit, including improvements, fixtures, personal property, and personal liability. The dividing line between what the association insures and what the unit owner insures is determined by the association bylaws and declarations. ALKEME helps associations and unit owners understand this division to prevent gaps where neither policy provides coverage.',
-      },
-      {
-        q: 'Do I need directors and officers insurance for my HOA board?',
-        a: 'Yes. HOA and condominium association board members can be personally liable for decisions they make in their governance capacity. Directors and officers liability insurance protects board members against allegations of mismanagement, breach of fiduciary duty, failure to maintain common areas, discriminatory enforcement of rules, and financial mismanagement of association funds. Without D&O coverage, individual board members could face personal financial liability for claims arising from their service on the board.',
-      },
-      {
-        q: 'How does loss of rental income coverage work for apartment building owners?',
-        a: 'Loss of rental income coverage replaces the rental revenue you lose when a covered peril, such as fire or major water damage, makes one or more units uninhabitable. The coverage typically pays the fair rental value of the affected units for the period required to complete repairs and return the units to rentable condition. Some policies also cover the loss of rental income from undamaged units if access is blocked or if tenants vacate due to conditions caused by the covered loss.',
-      },
-      {
-        q: 'What insurance should a property management company carry separately from the property owner?',
-        a: 'Property management companies should carry their own general liability, professional liability or errors and omissions, workers compensation, commercial auto, and cyber liability policies. These coverages are separate from the property owner insurance because they protect the management company against claims arising from its own operations and management decisions. The property owner policy covers the physical property and premises liability, while the management company policies cover the professional services the manager provides.',
-      },
-    ],
-  },
-  {
-    slug: 'transportation',
-    title: 'Transportation',
-    metaTitle: 'Business Insurance for Transportation | ALKEME Insurance Services',
-    metaDescription:
-      'Insurance programs for trucking companies, delivery services, couriers, logistics providers, and freight operations. ALKEME provides transportation coverage that meets regulatory and contract requirements.',
-    heroHeading: 'Insurance for Transportation and Logistics',
-    heroSubheading:
-      'From long-haul trucking fleets to last-mile delivery operations, our programs are built for the regulatory, contractual, and operational demands of the transportation industry.',
-    overview:
-      'Transportation businesses operate in a heavily regulated environment where insurance is not just a business decision but a legal requirement. Whether you run an over-the-road trucking fleet, a regional delivery service, a courier operation, a freight brokerage, or a full-service logistics company, the combination of federal and state regulatory requirements, shipper contract specifications, and the inherent physical risks of moving goods creates an insurance landscape that demands specialized expertise. ALKEME works with transportation companies across all modes and sizes to build programs that satisfy FMCSA filing requirements, meet shipper and broker contract standards, and provide meaningful protection for the assets and operations that keep your business moving.',
-    sections: [
-      {
-        heading: 'Regulatory and Contractual Insurance Requirements',
-        content:
-          'The transportation industry is subject to insurance requirements imposed by federal regulators, state agencies, shippers, freight brokers, and facility operators. Motor carriers operating in interstate commerce must maintain minimum liability limits prescribed by the FMCSA, currently seven hundred fifty thousand dollars for most general freight carriers and higher limits for carriers hauling hazardous materials or passengers. These requirements are enforced through mandatory insurance filings, including the BMC-91 or BMC-91X for liability coverage and the MCS-90 endorsement.\n\nBeyond regulatory minimums, shippers and freight brokers routinely require liability limits of one million dollars or more, along with motor truck cargo coverage, workers compensation, and umbrella or excess liability with specified minimum limits. A transportation company that cannot produce certificates of insurance meeting these contract specifications will not get loads, regardless of its operational capabilities.\n\nState-level requirements add additional complexity, particularly for intrastate carriers, delivery services, and courier operations that may not be subject to federal regulations but must comply with state insurance mandates. ALKEME maintains current knowledge of both federal and state requirements to ensure your coverage program satisfies every regulatory and contractual obligation your operation faces.',
-      },
-      {
-        heading: 'Critical Coverage Components for Transportation',
-        content:
-          'Auto liability is the foundational coverage for any transportation operation, providing protection against bodily injury and property damage claims arising from the operation of your vehicles. Given the size and weight of commercial vehicles, auto liability claims in transportation frequently involve catastrophic injuries and multi-million dollar verdicts, making adequate limits and excess coverage essential rather than optional.\n\nMotor truck cargo insurance protects the freight you are hauling against loss or damage during transit. Shippers entrust you with their goods based on the expectation that your cargo coverage will respond if those goods are damaged, destroyed, or stolen while in your possession. Cargo coverage must be matched to the types of commodities you haul, the values you transport, and the specific requirements of your shipper and broker contracts.\n\nPhysical damage coverage protects your own vehicles and trailers against collision, comprehensive, and specified perils. For transportation companies, vehicles are the primary revenue-producing assets, and a truck out of service due to an uninsured physical damage loss means zero revenue from that unit until it is repaired or replaced. Downtime and rental reimbursement extensions can mitigate the financial impact of extended vehicle repairs.\n\nWorkers compensation is mandatory for transportation companies with employees and must account for the unique hazards drivers face, including long hours of operation, loading and unloading injuries, accident-related trauma, and the health conditions associated with sedentary driving occupations. Managing workers compensation costs in transportation requires attention to driver hiring practices, safety training, hours-of-service compliance, and return-to-work protocols.',
-      },
-      {
-        heading: 'ALKEME Transportation Practice',
-        content:
-          'ALKEME maintains specialized transportation insurance expertise developed through years of serving carriers, delivery operations, logistics providers, and freight brokerages. We understand the regulatory framework governing motor carrier insurance, the contract requirements imposed by shippers and brokers, and the operational realities that create risk in transportation businesses.\n\nOur approach to transportation insurance begins with a detailed analysis of your fleet composition, operating radius, commodity types, contract requirements, and loss history. We identify the specific exposures your operation faces and match them with coverage from carriers that specialize in the transportation sector. This is important because many standard-market insurers either exclude commercial trucking altogether or price it without the nuanced understanding that specialty transportation underwriters bring.\n\nFor growing transportation companies, we provide scalable programs that expand as you add vehicles, hire drivers, and enter new service areas. Our team handles the regulatory filings, certificate management, and ongoing compliance monitoring that transportation companies require, freeing your operations team to focus on moving freight rather than managing insurance paperwork.',
-      },
-      {
-        heading: 'Recommended Coverage for Transportation Companies',
-        bullets: [
-          'Auto liability at or above FMCSA-mandated minimums, with limits structured to meet shipper and broker contract requirements',
-          'Motor truck cargo coverage matched to your commodity types, haul values, and contract specifications, with broad-form perils and appropriate deductibles',
-          'Physical damage coverage for owned and leased vehicles including collision, comprehensive, and downtime or rental reimbursement extensions',
-          'Workers compensation addressing driver injuries, loading and unloading exposures, and the health risks associated with commercial vehicle operation',
-          'Umbrella and excess liability providing additional limits above auto liability, general liability, and employers liability to meet large contract thresholds',
-          'General liability for terminal, warehouse, and yard operations where your business interacts with the public or third-party property',
-          'Cyber liability for logistics companies that manage electronic freight data, customer information, and supply chain management systems',
-        ],
-      },
-    ],
-    recommendedCoverages: [
       'commercial-auto',
-      'general-liability',
-      'workers-compensation',
-      'umbrella-excess-liability',
-      'commercial-property',
       'cyber-liability',
     ],
     faqs: [
       {
-        q: 'What are the minimum insurance requirements for interstate trucking?',
-        a: 'Interstate motor carriers hauling general freight must maintain a minimum of seven hundred fifty thousand dollars in public liability coverage as required by the FMCSA. Carriers transporting hazardous materials must carry higher limits, up to five million dollars depending on the material type. These requirements are evidenced through BMC-91 or BMC-91X filings with the FMCSA and the MCS-90 endorsement on your auto liability policy. Most shipper and broker contracts require limits above the regulatory minimum, typically one million dollars or more.',
+        q: 'Do real estate agents need their own E&O insurance?',
+        a: 'Many states require real estate licensees to carry E&O coverage, and most brokerages require agents to participate in a group E&O program or carry individual coverage. E&O protects against claims from transaction errors, disclosure failures, and advice that causes financial harm to clients. Even in states that do not mandate it, operating without E&O exposes the agent to personal liability for claims that can easily exceed $100,000.',
       },
       {
-        q: 'How is cargo insurance different from the freight broker contingent cargo policy?',
-        a: 'Motor truck cargo insurance is a primary coverage purchased by the carrier that directly insures the freight while in the carrier possession during transit. A freight broker contingent cargo policy is purchased by the broker and only responds if the carrier cargo coverage fails to pay a valid claim, typically due to a coverage gap, exclusion, or carrier insolvency. Shippers and brokers require carriers to maintain their own cargo policies because contingent coverage is not a substitute for primary carrier cargo insurance.',
+        q: 'What insurance does a property investor need for rental properties?',
+        a: 'At minimum, commercial property coverage for the building structure, general liability for premises claims, and loss of rental income protection. Investors with multiple properties should add umbrella liability to protect against catastrophic claims. If you manage properties directly rather than through a management company, professional liability is also recommended.',
       },
       {
-        q: 'Can I get insurance for a new trucking company with no operating history?',
-        a: 'Yes, but new ventures in trucking face a more limited insurance market and typically pay higher premiums than established carriers with clean loss histories. Insurers evaluate the experience of your drivers, your safety management systems, your fleet composition, and your planned operating radius when underwriting new ventures. ALKEME works with specialty carriers that underwrite new trucking operations and helps you build the safety infrastructure and documentation that will improve your insurance options as your company establishes an operating record.',
+        q: 'Does my brokerage E&O policy cover independent agent contractors?',
+        a: 'Coverage for independent contractor agents depends on the specific policy language. Some brokerage E&O policies cover all agents operating under the brokerage license, while others require agents to be specifically named or to carry their own coverage. ALKEME reviews your brokerage policy to identify whether your agents are properly covered.',
       },
       {
-        q: 'Do I need general liability in addition to auto liability for a trucking company?',
-        a: 'Yes. Auto liability covers claims arising from the operation of your vehicles on public roads, but it does not cover all the liability exposures a trucking company faces. General liability covers claims arising from your terminal or yard operations, loading dock activities, premises-related injuries, and other non-auto exposures. If a visitor is injured at your facility or a shipper property is damaged during a non-vehicle-related loading operation, general liability responds to those claims, not your auto policy.',
+        q: 'What cyber risks do real estate professionals face?',
+        a: 'Real estate transactions involve wire transfers, personal financial information, and sensitive client data that make the industry a prime target for fraud. Wire fraud schemes, email compromises, and data breaches affecting client records are common. Cyber liability covers investigation costs, client notification, regulatory defense, and financial losses from social engineering attacks.',
+      },
+    ],
+  },
+  {
+    slug: 'logistics-warehousing',
+    title: 'Logistics & Warehousing',
+    metaTitle: 'Business Insurance for Logistics & Warehousing | ALKEME Insurance Services',
+    metaDescription:
+      'Insurance for 3PL providers, warehousing operations, distribution centers, and fulfillment companies. ALKEME provides coverage for inventory liability, facility operations, and supply chain risks.',
+    heroHeading: 'Insurance for Logistics & Warehousing',
+    heroSubheading:
+      'Coverage for 3PL providers, distribution centers, fulfillment operations, and warehouse facilities that protects inventory, operations, and the supply chain relationships your business depends on.',
+    overview:
+      'Logistics and warehousing companies sit at the center of supply chains, taking custody of goods worth millions and operating facilities where workers face daily physical hazards. Whether you run a third-party logistics operation, a distribution center, a fulfillment warehouse, or a cold storage facility, your business faces a unique combination of bailment liability for goods in your care, premises and operations risks in high-activity facilities, and contractual obligations from shipper and retailer partners that demand specific insurance coverage. ALKEME works with logistics and warehouse operators to build programs that address the full scope of supply chain facility risk.',
+    sections: [
+      {
+        heading: 'Warehouse and Facility Risks',
+        content:
+          'Warehouse and distribution center operations present a concentrated risk environment. Forklifts, conveyor systems, loading docks, racking systems, and material handling equipment create daily injury hazards for workers. Slip-and-fall incidents, struck-by injuries from falling inventory, forklift collisions, and repetitive motion injuries from picking and packing operations drive workers compensation claims.\n\nProperty exposure in warehousing extends beyond the building itself to include the inventory stored within it. A fire or water event in a warehouse can destroy millions of dollars in customer goods for which the warehouse operator has bailment liability. Racking collapse, roof failure, and sprinkler system malfunctions represent catastrophic loss scenarios that require adequate property and liability limits.',
+      },
+      {
+        heading: 'Bailment and Inventory Liability',
+        content:
+          'Logistics and warehouse operators take custody of goods that belong to others, creating bailment liability. When customer inventory is damaged, destroyed, or stolen while in your facility, you may be liable for the full value of the goods regardless of fault. Standard commercial property insurance covers your own property but does not cover customer goods held in your care.\n\nWarehouse legal liability or bailee coverage specifically addresses this exposure, covering damage to customer goods from covered perils while in your possession. The coverage must be structured to match the types and values of goods you handle, including temperature-sensitive products in cold storage, high-value electronics, and perishable goods with time-sensitive delivery requirements.',
+      },
+      {
+        heading: 'How ALKEME Supports Logistics Operations',
+        content:
+          'ALKEME works with 3PL operators, distribution centers, fulfillment warehouses, and cold storage facilities to build comprehensive insurance programs. We understand the contractual requirements imposed by retailers, e-commerce platforms, and shippers that specify minimum coverage types and limits as conditions of doing business.\n\nOur programs address the operational reality of modern logistics: high-volume facilities with seasonal workforce fluctuations, automated handling systems, temperature-controlled environments, and the increasing integration of robotics and AI in warehouse operations. We build coverage that protects both your physical operations and the supply chain relationships that generate your revenue.',
+      },
+      {
+        heading: 'Recommended Coverage for Logistics and Warehousing',
+        bullets: [
+          'General liability for premises and operations including loading dock and forklift exposures',
+          'Warehouse legal liability or bailee coverage for customer goods in your custody',
+          'Commercial property covering buildings, racking systems, material handling equipment, and technology infrastructure',
+          'Workers compensation with classifications reflecting warehouse labor hazards and seasonal staffing patterns',
+          'Business interruption and extra expense for facility downtime that disrupts supply chain commitments',
+          'Commercial auto for delivery vehicles, yard tractors, and shuttle operations between facilities',
+          'Umbrella liability to meet the high limit requirements of retail and e-commerce clients',
+        ],
+      },
+    ],
+    recommendedCoverages: [
+      'general-liability',
+      'commercial-property',
+      'workers-compensation',
+      'commercial-auto',
+      'umbrella-excess-liability',
+      'business-interruption',
+    ],
+    faqs: [
+      {
+        q: 'What is warehouse legal liability and do I need it?',
+        a: 'Warehouse legal liability covers damage to customer goods while in your possession. If you store, handle, or process inventory belonging to others, you have bailment liability for those goods. Standard commercial property insurance does not cover customer property. Warehouse legal liability is essential for any 3PL, distribution center, or fulfillment operation.',
+      },
+      {
+        q: 'How much coverage do I need for customer inventory?',
+        a: 'Coverage limits should reflect the maximum value of customer goods in your facility at any given time. This requires understanding your peak inventory levels, the value of goods you handle, and the contractual liability limits specified in your customer agreements. Many retail and e-commerce clients require specific warehouse legal liability limits as a condition of their logistics contracts.',
+      },
+      {
+        q: 'Does standard property insurance cover my warehouse equipment?',
+        a: 'Standard commercial property covers your own business personal property including racking, forklifts, conveyor systems, and technology equipment. However, equipment breakdown coverage is recommended as a supplement because mechanical and electrical breakdown of critical systems like refrigeration units, conveyor motors, and automated sorting equipment is typically excluded from standard property policies.',
+      },
+      {
+        q: 'What workers compensation risks are specific to warehousing?',
+        a: 'Warehouse operations generate workers compensation claims from forklift accidents, falls from heights during picking operations, struck-by injuries from falling inventory, repetitive motion injuries from packing, and temperature-related illness in cold storage facilities. Proper classification codes, safety training, and ergonomic programs are essential for controlling costs.',
       },
     ],
   },

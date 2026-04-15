@@ -3,12 +3,12 @@ import Link from 'next/link';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 const segments = [
-  { name: 'Security Companies', slug: 'security-companies', desc: 'Guard services, alarm, and patrol' },
+  { name: 'Startups & Emerging', slug: 'startups-emerging', desc: 'Seed-stage to growth companies' },
   { name: 'Construction', slug: 'construction', desc: 'Contractors, subs, and builders' },
   { name: 'Automotive', slug: 'automotive', desc: 'Dealers, repair, and body shops' },
   { name: 'Hospitality', slug: 'hospitality', desc: 'Restaurants, hotels, and venues' },
-  { name: 'Habitational', slug: 'habitational', desc: 'Apartments, condos, and HOAs' },
-  { name: 'Transportation', slug: 'transportation', desc: 'Trucking, delivery, and logistics' },
+  { name: 'Real Estate', slug: 'real-estate', desc: 'Agencies, brokerages, and investors' },
+  { name: 'Logistics & Warehousing', slug: 'logistics-warehousing', desc: '3PL, distribution, and fulfillment' },
   { name: 'Retail', slug: 'retail', desc: 'Stores, e-commerce, and franchise' },
   { name: 'Manufacturing', slug: 'manufacturing', desc: 'Factories, fabrication, and assembly' },
   { name: 'Professional Services', slug: 'professional-services', desc: 'Law firms, consulting, and IT' },

@@ -34,12 +34,12 @@ const resourceItems = [
 ];
 
 const industryItems = [
-  { label: 'Security Companies', href: '/industries/security-companies/' },
+  { label: 'Startups & Emerging', href: '/industries/startups-emerging/' },
   { label: 'Construction', href: '/industries/construction/' },
   { label: 'Automotive', href: '/industries/automotive/' },
   { label: 'Hospitality', href: '/industries/hospitality/' },
-  { label: 'Habitational', href: '/industries/habitational/' },
-  { label: 'Transportation', href: '/industries/transportation/' },
+  { label: 'Real Estate', href: '/industries/real-estate/' },
+  { label: 'Logistics & Warehousing', href: '/industries/logistics-warehousing/' },
   { label: 'Retail', href: '/industries/retail/' },
   { label: 'Manufacturing', href: '/industries/manufacturing/' },
   { label: 'Professional Services', href: '/industries/professional-services/' },
