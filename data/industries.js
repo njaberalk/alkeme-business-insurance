@@ -2,9 +2,9 @@ export const industries = [
   {
     slug: 'startups-emerging',
     title: 'Startups & Emerging Businesses',
-    metaTitle: 'Business Insurance for Startups & Emerging Companies | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Startups & Emerging Companies',
     metaDescription:
-      'Insurance solutions for startups, founder liability, seed-stage companies, and emerging businesses. Protect your growing company with coverage designed for early-stage operations from ALKEME.',
+      'Insurance solutions for startups, founder liability, seed-stage companies, and emerging businesses.',
     heroHeading: 'Insurance for Startups & Emerging Businesses',
     heroSubheading:
       'Coverage designed for the unique risks of early-stage companies, from founder liability and investor requirements to scaling operations and first hires.',
@@ -68,9 +68,9 @@ export const industries = [
   {
     slug: 'construction',
     title: 'Construction',
-    metaTitle: 'Business Insurance for Construction | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Construction',
     metaDescription:
-      'Tailored insurance programs for general contractors, subcontractors, artisan contractors, and builders risk. ALKEME delivers construction coverage that meets project and contract requirements.',
+      'Tailored insurance programs for general contractors, subcontractors, artisan contractors, and builders risk.',
     heroHeading: 'Insurance Built for the Construction Industry',
     heroSubheading:
       'From general contractors managing multi-trade projects to artisan contractors specializing in a single discipline, our programs are engineered for how construction actually works.',
@@ -135,9 +135,9 @@ export const industries = [
   {
     slug: 'automotive',
     title: 'Automotive',
-    metaTitle: 'Business Insurance for Automotive | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Automotive',
     metaDescription:
-      'Insurance programs for auto dealers, repair shops, body shops, parts suppliers, and detailing businesses. ALKEME provides automotive industry coverage built for your specific operation.',
+      'Insurance programs for auto dealers, repair shops, body shops, parts suppliers, and detailing businesses.',
     heroHeading: 'Insurance for the Automotive Industry',
     heroSubheading:
       'Comprehensive coverage for dealerships, repair facilities, body shops, parts operations, and detailing businesses designed around the real risks automotive companies face.',
@@ -202,9 +202,9 @@ export const industries = [
   {
     slug: 'hospitality',
     title: 'Hospitality',
-    metaTitle: 'Business Insurance for Hospitality | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Hospitality',
     metaDescription:
-      'Specialized insurance for restaurants, hotels, bars, event venues, and catering companies. ALKEME provides hospitality coverage that addresses food service, liquor liability, and guest safety.',
+      'Specialized insurance for restaurants, hotels, bars, event venues, and catering companies.',
     heroHeading: 'Insurance for the Hospitality Industry',
     heroSubheading:
       'Tailored protection for restaurants, hotels, bars, event venues, and catering operations that addresses the risks of serving the public every day.',
@@ -269,9 +269,9 @@ export const industries = [
   {
     slug: 'real-estate',
     title: 'Real Estate',
-    metaTitle: 'Business Insurance for Real Estate | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Real Estate',
     metaDescription:
-      'Insurance for real estate agencies, brokerages, property investors, and property management companies. ALKEME provides coverage for transaction liability, E&O, and investment property risks.',
+      'Insurance for real estate agencies, brokerages, property investors, and property management companies.',
     heroHeading: 'Insurance for Real Estate Professionals',
     heroSubheading:
       'Coverage for real estate agencies, brokerages, property investors, and management firms that protects against transaction errors, professional liability, and property investment risks.',
@@ -336,9 +336,9 @@ export const industries = [
   {
     slug: 'logistics-warehousing',
     title: 'Logistics & Warehousing',
-    metaTitle: 'Business Insurance for Logistics & Warehousing | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Logistics & Warehousing',
     metaDescription:
-      'Insurance for 3PL providers, warehousing operations, distribution centers, and fulfillment companies. ALKEME provides coverage for inventory liability, facility operations, and supply chain risks.',
+      'Insurance for 3PL providers, warehousing operations, distribution centers, and fulfillment companies.',
     heroHeading: 'Insurance for Logistics & Warehousing',
     heroSubheading:
       'Coverage for 3PL providers, distribution centers, fulfillment operations, and warehouse facilities that protects inventory, operations, and the supply chain relationships your business depends on.',
@@ -403,9 +403,9 @@ export const industries = [
   {
     slug: 'retail',
     title: 'Retail',
-    metaTitle: 'Business Insurance for Retail | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Retail',
     metaDescription:
-      'Insurance solutions for brick-and-mortar stores, e-commerce businesses, franchise operations, and wholesale distributors. ALKEME provides retail coverage tailored to your sales channels and inventory.',
+      'Insurance solutions for brick-and-mortar stores, e-commerce businesses, franchise operations, and wholesale distributors.',
     heroHeading: 'Insurance for Retail Businesses',
     heroSubheading:
       'Whether you operate physical storefronts, sell online, run a franchise, or distribute wholesale, our programs address the specific risks of moving products to customers.',
@@ -470,9 +470,9 @@ export const industries = [
   {
     slug: 'manufacturing',
     title: 'Manufacturing',
-    metaTitle: 'Business Insurance for Manufacturing | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Manufacturing',
     metaDescription:
-      'Insurance programs for factories, fabrication shops, food production facilities, assembly operations, and warehousing businesses. ALKEME delivers manufacturing coverage that protects your production and your products.',
+      'Insurance programs for factories, fabrication shops, food production facilities, assembly operations, and warehousing businesses.',
     heroHeading: 'Insurance for Manufacturing Operations',
     heroSubheading:
       'From heavy industrial fabrication to food production and light assembly, our programs are built for the property, liability, and product risks manufacturers face every day.',
@@ -537,9 +537,9 @@ export const industries = [
   {
     slug: 'professional-services',
     title: 'Professional Services',
-    metaTitle: 'Business Insurance for Professional Services | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Professional Services',
     metaDescription:
-      'Insurance solutions for law firms, accounting practices, consulting firms, IT services companies, and architecture firms. ALKEME provides professional services coverage that protects your expertise and your firm.',
+      'Insurance solutions for law firms, accounting practices, consulting firms, IT services companies, and architecture firms.',
     heroHeading: 'Insurance for Professional Services Firms',
     heroSubheading:
       'Specialized coverage for law firms, accounting practices, consultancies, IT service providers, and architecture firms that protects your professional reputation and your business.',
@@ -605,9 +605,9 @@ export const industries = [
   {
     slug: 'technology',
     title: 'Technology',
-    metaTitle: 'Business Insurance for Technology | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance for Technology',
     metaDescription:
-      'Insurance programs for SaaS companies, tech startups, IT companies, managed service providers, and cybersecurity firms. ALKEME provides technology coverage that addresses digital-era risks.',
+      'Insurance programs for SaaS companies, tech startups, IT companies, managed service providers, and cybersecurity firms.',
     heroHeading: 'Insurance for Technology Companies',
     heroSubheading:
       'From SaaS platforms and startups to managed service providers and cybersecurity firms, our programs address the unique risks of building and delivering technology products and services.',

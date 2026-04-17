@@ -2,9 +2,9 @@ export const resources = [
   {
     slug: 'business-insurance-cost',
     title: 'How Much Does Business Insurance Cost?',
-    metaTitle: 'How Much Does Business Insurance Cost? | ALKEME Insurance Services',
+    metaTitle: 'How Much Does Business Insurance Cost?',
     metaDescription:
-      'Learn what business insurance costs by industry and company size. Understand the pricing factors that drive premiums and practical strategies to reduce your insurance spend.',
+      'Learn what business insurance costs by industry and company size.',
     category: 'Guide',
     heroHeading: 'How Much Does Business Insurance Cost?',
     heroSubheading:
@@ -82,9 +82,9 @@ export const resources = [
   {
     slug: 'general-liability-guide',
     title: 'General Liability Insurance Guide',
-    metaTitle: 'General Liability Insurance Guide | ALKEME Insurance Services',
+    metaTitle: 'General Liability Insurance Guide',
     metaDescription:
-      'Comprehensive guide to commercial general liability insurance. Learn what CGL covers, who needs it, how limits work, key endorsements, and common exclusions every business should understand.',
+      'Comprehensive guide to commercial general liability insurance.',
     category: 'Guide',
     heroHeading: 'General Liability Insurance Guide',
     heroSubheading:
@@ -159,9 +159,9 @@ export const resources = [
   {
     slug: 'workers-comp-guide',
     title: 'Workers Compensation Insurance Guide',
-    metaTitle: 'Workers Compensation Insurance Guide | ALKEME Insurance Services',
+    metaTitle: 'Workers Compensation Insurance Guide',
     metaDescription:
-      'Complete guide to workers compensation insurance. State requirements, class codes, experience modification rates, the audit process, and strategies to manage your workers comp costs.',
+      'Complete guide to workers compensation insurance. State requirements, class codes, experience modification rates, the audit process, and strategies to manage.',
     category: 'Guide',
     heroHeading: 'Workers Compensation Insurance Guide',
     heroSubheading:
@@ -238,9 +238,9 @@ export const resources = [
   {
     slug: 'business-owners-policy-guide',
     title: 'Business Owners Policy (BOP) Guide',
-    metaTitle: 'Business Owners Policy (BOP) Guide | ALKEME Insurance Services',
+    metaTitle: 'Business Owners Policy (BOP) Guide',
     metaDescription:
-      'Learn how a business owners policy bundles general liability and property coverage into a single affordable package. Who qualifies, what is included, optional coverages, and BOP limitations.',
+      'Learn how a business owners policy bundles general liability and property coverage into a single affordable package.',
     category: 'Guide',
     heroHeading: 'Business Owners Policy (BOP) Guide',
     heroSubheading:
@@ -317,9 +317,9 @@ export const resources = [
   {
     slug: 'cyber-insurance-guide',
     title: 'Cyber Insurance Guide',
-    metaTitle: 'Cyber Insurance Guide | ALKEME Insurance Services',
+    metaTitle: 'Cyber Insurance Guide',
     metaDescription:
-      'Understand cyber liability insurance coverage, the evolving threat landscape, policy components, incident response planning, and how to evaluate the right cyber coverage for your business.',
+      'Understand cyber liability insurance coverage, the evolving threat landscape, policy components, incident response planning, and how to evaluate the right.',
     category: 'Guide',
     heroHeading: 'Cyber Insurance Guide',
     heroSubheading:
@@ -395,9 +395,9 @@ export const resources = [
   {
     slug: 'commercial-auto-guide',
     title: 'Commercial Auto Insurance Guide',
-    metaTitle: 'Commercial Auto Insurance Guide | ALKEME Insurance Services',
+    metaTitle: 'Commercial Auto Insurance Guide',
     metaDescription:
-      'Complete guide to commercial auto insurance. Vehicle schedules, liability coverage, hired and non-owned auto, fleet management strategies, and understanding coverage symbols.',
+      'Complete guide to commercial auto insurance. Vehicle schedules, liability coverage, hired and non-owned auto, fleet management strategies, and understanding.',
     category: 'Guide',
     heroHeading: 'Commercial Auto Insurance Guide',
     heroSubheading:
@@ -474,9 +474,9 @@ export const resources = [
   {
     slug: 'certificate-of-insurance-guide',
     title: 'Certificate of Insurance (COI) Guide',
-    metaTitle: 'Certificate of Insurance (COI) Guide | ALKEME Insurance Services',
+    metaTitle: 'Certificate of Insurance (COI) Guide',
     metaDescription:
-      'Everything you need to know about certificates of insurance. COI basics, additional insured requirements, contract compliance, waiver of subrogation, and common mistakes to avoid.',
+      'Everything you need to know about certificates of insurance.',
     category: 'Guide',
     heroHeading: 'Certificate of Insurance (COI) Guide',
     heroSubheading:
@@ -551,9 +551,9 @@ export const resources = [
   {
     slug: 'claims-guide',
     title: 'Business Insurance Claims Guide',
-    metaTitle: 'Business Insurance Claims Guide | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance Claims Guide',
     metaDescription:
-      'Step-by-step guide to filing business insurance claims. Documentation requirements, timeline expectations, the adjuster process, and how to handle claim disputes effectively.',
+      'Step-by-step guide to filing business insurance claims.',
     category: 'Guide',
     heroHeading: 'Business Insurance Claims Guide',
     heroSubheading:
@@ -630,9 +630,9 @@ export const resources = [
   {
     slug: 'business-insurance-glossary',
     title: 'Business Insurance Glossary',
-    metaTitle: 'Business Insurance Glossary | ALKEME Insurance Services',
+    metaTitle: 'Business Insurance Glossary',
     metaDescription:
-      'Over 50 commercial insurance terms defined in plain language. From additional insured to waiver of subrogation, understand the terminology used in your business insurance policies.',
+      'Over 50 commercial insurance terms defined in plain language.',
     category: 'Reference',
     heroHeading: 'Business Insurance Glossary',
     heroSubheading:

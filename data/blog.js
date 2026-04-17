@@ -2,9 +2,9 @@ export const blogPosts = [
   {
     slug: 'business-insurance-trends-2026',
     title: 'Business Insurance Market Trends for 2026: What Every Business Owner Should Know',
-    metaTitle: 'Business Insurance Market Trends 2026 | Rate Outlook & Emerging Risks',
+    metaTitle: 'Business Insurance Market Trends 2026',
     metaDescription:
-      'Explore 2026 business insurance market conditions including rate trends, emerging risks, and coverage developments that affect commercial policyholders across all industries.',
+      'Explore 2026 business insurance market conditions including rate trends, emerging risks, and coverage developments that affect commercial policyholders across.',
     category: 'Industry Insights',
     publishDate: '2026-03-10',
     heroHeading: 'Business Insurance Market Trends for 2026',
@@ -66,7 +66,7 @@ export const blogPosts = [
   {
     slug: 'common-business-insurance-mistakes',
     title: 'The Most Common Business Insurance Mistakes and How to Avoid Them',
-    metaTitle: 'Common Business Insurance Mistakes | Coverage Gaps & How to Fix Them',
+    metaTitle: 'Common Business Insurance Mistakes',
     metaDescription:
       'Learn about the most common business insurance mistakes including coverage gaps, underinsurance, and compliance errors that leave companies financially exposed.',
     category: 'Tips & Advice',
@@ -130,9 +130,9 @@ export const blogPosts = [
   {
     slug: 'cyber-threats-small-business',
     title: 'Cyber Threats Facing Small Businesses: Ransomware, Phishing, and Beyond',
-    metaTitle: 'Cyber Threats for Small Business | Ransomware, Phishing & Data Breach Prevention',
+    metaTitle: 'Cyber Threats for Small Business',
     metaDescription:
-      'Understand the top cyber threats targeting small businesses including ransomware, phishing attacks, and data breaches, plus practical prevention strategies and incident response planning.',
+      'Understand the top cyber threats targeting small businesses including ransomware, phishing attacks, and data breaches, plus practical prevention strategies and.',
     category: 'Industry Insights',
     publishDate: '2026-03-31',
     heroHeading: 'Cyber Threats Facing Small Businesses',
@@ -194,9 +194,9 @@ export const blogPosts = [
   {
     slug: 'choosing-right-business-insurance',
     title: 'How to Choose the Right Business Insurance: A Complete Framework',
-    metaTitle: 'How to Choose the Right Business Insurance | Coverage Selection Guide',
+    metaTitle: 'How to Choose the Right Business Insurance',
     metaDescription:
-      'A practical framework for selecting the right business insurance coverages, evaluating agents, and building a policy program that protects your specific operations.',
+      'A practical framework for selecting the right business insurance coverages, evaluating agents, and building a policy program that protects your specific.',
     category: 'Tips & Advice',
     publishDate: '2026-04-07',
     heroHeading: 'Choosing the Right Business Insurance',
@@ -258,9 +258,9 @@ export const blogPosts = [
   {
     slug: 'workers-comp-cost-reduction',
     title: 'Proven Strategies to Reduce Your Workers Compensation Costs',
-    metaTitle: 'Reduce Workers Comp Costs | Safety Programs, Audits & Experience Mod Tips',
+    metaTitle: 'Reduce Workers Comp Costs',
     metaDescription:
-      'Practical strategies for reducing workers compensation premiums including safety programs, classification audits, return-to-work programs, and experience modification rate management.',
+      'Practical strategies for reducing workers compensation premiums including safety programs, classification audits, return-to-work programs, and experience.',
     category: 'Tips & Advice',
     publishDate: '2026-04-14',
     heroHeading: 'Reducing Workers Compensation Costs',
@@ -322,9 +322,9 @@ export const blogPosts = [
   {
     slug: 'business-continuity-planning',
     title: 'Business Continuity Planning: Protecting Your Company from the Unexpected',
-    metaTitle: 'Business Continuity Planning | Disaster Recovery & Insurance Integration',
+    metaTitle: 'Business Continuity Planning',
     metaDescription:
-      'Build a comprehensive business continuity plan that integrates disaster recovery, insurance coverage, and supply chain resilience to protect your operations from disruption.',
+      'Build a comprehensive business continuity plan that integrates disaster recovery, insurance coverage, and supply chain resilience to protect your operations.',
     category: 'HR Strategy',
     publishDate: '2026-04-21',
     heroHeading: 'Business Continuity Planning',

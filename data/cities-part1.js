@@ -7,7 +7,7 @@ export const citiesPart1 = [
     abbreviation: 'NY',
     metaTitle: 'Business Insurance in New York, NY',
     metaDescription:
-      'Business insurance solutions for New York City companies. Protect your business with general liability, workers compensation, and commercial property coverage tailored to the NYC market.',
+      'Business insurance solutions for New York City companies.',
     heroHeading: 'Business Insurance in New York, NY',
     heroSubheading:
       'Comprehensive commercial coverage for businesses operating in the five boroughs and greater New York City metro area.',
@@ -56,7 +56,7 @@ export const citiesPart1 = [
     abbreviation: 'CA',
     metaTitle: 'Business Insurance in Los Angeles, CA',
     metaDescription:
-      'Business insurance for Los Angeles companies. Protect your LA business with liability, property, and workers compensation coverage designed for the Southern California market.',
+      'Business insurance for Los Angeles companies. Protect your LA business with liability, property, and workers compensation coverage designed for the Southern.',
     heroHeading: 'Business Insurance in Los Angeles, CA',
     heroSubheading:
       'Tailored commercial insurance for businesses across the Los Angeles metro area.',
@@ -203,7 +203,7 @@ export const citiesPart1 = [
     abbreviation: 'AZ',
     metaTitle: 'Business Insurance in Phoenix, AZ',
     metaDescription:
-      'Business insurance for Phoenix companies. Protect your Arizona business with general liability, workers compensation, and property coverage suited to the Valley of the Sun.',
+      'Business insurance for Phoenix companies. Protect your Arizona business with general liability, workers compensation, and property coverage suited to the.',
     heroHeading: 'Business Insurance in Phoenix, AZ',
     heroSubheading:
       'Commercial coverage for businesses throughout the Phoenix metropolitan area.',
@@ -301,7 +301,7 @@ export const citiesPart1 = [
     abbreviation: 'TX',
     metaTitle: 'Business Insurance in San Antonio, TX',
     metaDescription:
-      'Business insurance for San Antonio companies. Commercial coverage solutions for businesses in the San Antonio metro area including liability, property, and workers compensation.',
+      'Business insurance for San Antonio companies. Commercial coverage solutions for businesses in the San Antonio metro area including liability, property, and.',
     heroHeading: 'Business Insurance in San Antonio, TX',
     heroSubheading:
       'Commercial insurance for businesses in one of Texas\'s fastest-growing metro areas.',
@@ -350,7 +350,7 @@ export const citiesPart1 = [
     abbreviation: 'CA',
     metaTitle: 'Business Insurance in San Diego, CA',
     metaDescription:
-      'Business insurance for San Diego companies. Comprehensive commercial coverage for businesses in the San Diego metro area including liability, property, and workers compensation.',
+      'Business insurance for San Diego companies. Comprehensive commercial coverage for businesses in the San Diego metro area including liability, property, and.',
     heroHeading: 'Business Insurance in San Diego, CA',
     heroSubheading:
       'Commercial insurance solutions for businesses across San Diego County.',
@@ -693,7 +693,7 @@ export const citiesPart1 = [
     abbreviation: 'NC',
     metaTitle: 'Business Insurance in Charlotte, NC',
     metaDescription:
-      'Business insurance for Charlotte companies. Commercial coverage for businesses in the Charlotte metro area including liability, property, and workers compensation.',
+      'Business insurance for Charlotte companies. Commercial coverage for businesses in the Charlotte metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Charlotte, NC',
     heroSubheading:
       'Commercial insurance for businesses in the Southeast\'s leading financial center.',
@@ -742,7 +742,7 @@ export const citiesPart1 = [
     abbreviation: 'IN',
     metaTitle: 'Business Insurance in Indianapolis, IN',
     metaDescription:
-      'Business insurance for Indianapolis companies. Commercial coverage for businesses in the Indianapolis metro area including liability, property, and workers compensation.',
+      'Business insurance for Indianapolis companies. Commercial coverage for businesses in the Indianapolis metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Indianapolis, IN',
     heroSubheading:
       'Commercial insurance for businesses in Indiana\'s capital and economic center.',
@@ -987,7 +987,7 @@ export const citiesPart1 = [
     abbreviation: 'TN',
     metaTitle: 'Business Insurance in Nashville, TN',
     metaDescription:
-      'Business insurance for Nashville companies. Commercial coverage for businesses in the Nashville metro area including liability, property, and workers compensation.',
+      'Business insurance for Nashville companies. Commercial coverage for businesses in the Nashville metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Nashville, TN',
     heroSubheading:
       'Commercial insurance for businesses in one of America\'s fastest-growing cities.',
@@ -1036,7 +1036,7 @@ export const citiesPart1 = [
     abbreviation: 'OK',
     metaTitle: 'Business Insurance in Oklahoma City, OK',
     metaDescription:
-      'Business insurance for Oklahoma City companies. Commercial coverage for businesses in the OKC metro area including liability, property, and workers compensation.',
+      'Business insurance for Oklahoma City companies. Commercial coverage for businesses in the OKC metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Oklahoma City, OK',
     heroSubheading:
       'Commercial insurance for businesses in Oklahoma\'s capital and largest city.',
@@ -1085,7 +1085,7 @@ export const citiesPart1 = [
     abbreviation: 'TX',
     metaTitle: 'Business Insurance in El Paso, TX',
     metaDescription:
-      'Business insurance for El Paso companies. Commercial coverage for businesses in the El Paso border region including liability, property, and workers compensation.',
+      'Business insurance for El Paso companies. Commercial coverage for businesses in the El Paso border region including liability, property, and workers.',
     heroHeading: 'Business Insurance in El Paso, TX',
     heroSubheading:
       'Commercial insurance for businesses in the largest U.S. city on the Mexican border.',
@@ -1134,7 +1134,7 @@ export const citiesPart1 = [
     abbreviation: 'MA',
     metaTitle: 'Business Insurance in Boston, MA',
     metaDescription:
-      'Business insurance for Boston companies. Comprehensive commercial coverage for businesses in the Greater Boston area including liability, property, and workers compensation.',
+      'Business insurance for Boston companies. Comprehensive commercial coverage for businesses in the Greater Boston area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Boston, MA',
     heroSubheading:
       'Commercial insurance for businesses in New England\'s largest economic center.',
@@ -1183,7 +1183,7 @@ export const citiesPart1 = [
     abbreviation: 'OR',
     metaTitle: 'Business Insurance in Portland, OR',
     metaDescription:
-      'Business insurance for Portland companies. Commercial coverage for businesses in the Portland metro area including liability, property, and workers compensation.',
+      'Business insurance for Portland companies. Commercial coverage for businesses in the Portland metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Portland, OR',
     heroSubheading:
       'Commercial insurance for businesses throughout the Portland metropolitan area.',
@@ -1330,7 +1330,7 @@ export const citiesPart1 = [
     abbreviation: 'KY',
     metaTitle: 'Business Insurance in Louisville, KY',
     metaDescription:
-      'Business insurance for Louisville companies. Commercial coverage for businesses in the Louisville metro area including liability, property, and workers compensation.',
+      'Business insurance for Louisville companies. Commercial coverage for businesses in the Louisville metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Louisville, KY',
     heroSubheading:
       'Commercial insurance for businesses in Kentucky\'s largest city and economic center.',
@@ -1379,7 +1379,7 @@ export const citiesPart1 = [
     abbreviation: 'MD',
     metaTitle: 'Business Insurance in Baltimore, MD',
     metaDescription:
-      'Business insurance for Baltimore companies. Commercial coverage for businesses in the Baltimore metro area including liability, property, and workers compensation.',
+      'Business insurance for Baltimore companies. Commercial coverage for businesses in the Baltimore metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Baltimore, MD',
     heroSubheading:
       'Commercial insurance for businesses in Maryland\'s largest city and economic center.',
@@ -1477,7 +1477,7 @@ export const citiesPart1 = [
     abbreviation: 'NM',
     metaTitle: 'Business Insurance in Albuquerque, NM',
     metaDescription:
-      'Business insurance for Albuquerque companies. Commercial coverage for businesses in the Albuquerque metro area including liability, property, and workers compensation.',
+      'Business insurance for Albuquerque companies. Commercial coverage for businesses in the Albuquerque metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Albuquerque, NM',
     heroSubheading:
       'Commercial insurance for businesses in New Mexico\'s largest city.',
@@ -1673,7 +1673,7 @@ export const citiesPart1 = [
     abbreviation: 'CA',
     metaTitle: 'Business Insurance in Sacramento, CA',
     metaDescription:
-      'Business insurance for Sacramento companies. Commercial coverage for businesses in California\'s capital city including liability, property, and workers compensation.',
+      'Business insurance for Sacramento companies. Commercial coverage for businesses in California\'s capital city including liability, property, and workers.',
     heroHeading: 'Business Insurance in Sacramento, CA',
     heroSubheading:
       'Commercial insurance for businesses in California\'s capital and a growing business hub.',
@@ -1771,7 +1771,7 @@ export const citiesPart1 = [
     abbreviation: 'MO',
     metaTitle: 'Business Insurance in Kansas City, MO',
     metaDescription:
-      'Business insurance for Kansas City companies. Commercial coverage for businesses in the Kansas City metro area including liability, property, and workers compensation.',
+      'Business insurance for Kansas City companies. Commercial coverage for businesses in the Kansas City metro area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Kansas City, MO',
     heroSubheading:
       'Commercial insurance for businesses in the Heart of America.',
@@ -2065,7 +2065,7 @@ export const citiesPart1 = [
     abbreviation: 'FL',
     metaTitle: 'Business Insurance in Miami, FL',
     metaDescription:
-      'Business insurance for Miami companies. Commercial coverage for businesses in the Miami-Dade County area including liability, property, and workers compensation.',
+      'Business insurance for Miami companies. Commercial coverage for businesses in the Miami-Dade County area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Miami, FL',
     heroSubheading:
       'Commercial insurance for businesses in South Florida\'s international business capital.',
@@ -2114,7 +2114,7 @@ export const citiesPart1 = [
     abbreviation: 'CA',
     metaTitle: 'Business Insurance in Oakland, CA',
     metaDescription:
-      'Business insurance for Oakland companies. Commercial coverage for businesses in Oakland and the East Bay area including liability, property, and workers compensation.',
+      'Business insurance for Oakland companies. Commercial coverage for businesses in Oakland and the East Bay area including liability, property, and workers.',
     heroHeading: 'Business Insurance in Oakland, CA',
     heroSubheading:
       'Commercial insurance for businesses in Oakland and the East Bay.',
@@ -2163,7 +2163,7 @@ export const citiesPart1 = [
     abbreviation: 'MN',
     metaTitle: 'Business Insurance in Minneapolis, MN',
     metaDescription:
-      'Business insurance for Minneapolis companies. Commercial coverage for businesses in the Minneapolis-Saint Paul metro area including liability, property, and workers compensation.',
+      'Business insurance for Minneapolis companies. Commercial coverage for businesses in the Minneapolis-Saint Paul metro area including liability, property, and.',
     heroHeading: 'Business Insurance in Minneapolis, MN',
     heroSubheading:
       'Commercial insurance for businesses in the Twin Cities metropolitan area.',

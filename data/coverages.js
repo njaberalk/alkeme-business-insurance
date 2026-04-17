@@ -2,9 +2,9 @@ export const coverages = [
   {
     slug: 'general-liability',
     title: 'General Liability Insurance',
-    metaTitle: 'General Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'General Liability Insurance for Businesses',
     metaDescription:
-      'Protect your business from third-party bodily injury, property damage, advertising injury, and completed operations claims with comprehensive general liability coverage.',
+      'Protect your business from third-party bodily injury, property damage, advertising injury, and completed operations claims with comprehensive general liability.',
     heroHeading: 'General Liability Insurance',
     heroSubheading:
       'Foundational protection against third-party bodily injury, property damage, and advertising injury claims that every business needs.',
@@ -67,9 +67,9 @@ export const coverages = [
   {
     slug: 'workers-compensation',
     title: 'Workers\' Compensation Insurance',
-    metaTitle: 'Workers\' Compensation Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Workers\' Compensation Insurance for Businesses',
     metaDescription:
-      'Mandatory workers\' compensation coverage providing wage replacement, medical benefits, and return-to-work programs for employees injured or made ill on the job.',
+      'Mandatory workers\' compensation coverage providing wage replacement, medical benefits, and return-to-work programs for employees injured or made ill on the.',
     heroHeading: 'Workers\' Compensation Insurance',
     heroSubheading:
       'Legally required coverage that protects your employees with medical benefits and wage replacement after workplace injuries or illnesses.',
@@ -132,9 +132,9 @@ export const coverages = [
   {
     slug: 'commercial-property',
     title: 'Commercial Property Insurance',
-    metaTitle: 'Commercial Property Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Commercial Property Insurance for Businesses',
     metaDescription:
-      'Protect your buildings, equipment, inventory, and business personal property against fire, theft, weather damage, and other covered perils with commercial property insurance.',
+      'Protect your buildings, equipment, inventory, and business personal property against fire, theft, weather damage, and other covered perils with commercial.',
     heroHeading: 'Commercial Property Insurance',
     heroSubheading:
       'Comprehensive coverage for your buildings, equipment, inventory, tenant improvements, and business personal property.',
@@ -193,7 +193,7 @@ export const coverages = [
   {
     slug: 'business-interruption',
     title: 'Business Interruption Insurance',
-    metaTitle: 'Business Interruption Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Business Interruption Insurance for Businesses',
     metaDescription:
       'Replace lost income and cover extra expenses when a covered peril forces your business to suspend operations with business interruption insurance.',
     heroHeading: 'Business Interruption Insurance',
@@ -254,7 +254,7 @@ export const coverages = [
   {
     slug: 'professional-liability',
     title: 'Professional Liability Insurance',
-    metaTitle: 'Professional Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Professional Liability Insurance for Businesses',
     metaDescription:
       'Errors and omissions coverage protecting businesses against claims of negligence, malpractice, and failure to deliver professional services as promised.',
     heroHeading: 'Professional Liability Insurance',
@@ -319,9 +319,9 @@ export const coverages = [
   {
     slug: 'commercial-auto',
     title: 'Commercial Auto Insurance',
-    metaTitle: 'Commercial Auto Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Commercial Auto Insurance for Businesses',
     metaDescription:
-      'Protect your company vehicles, fleet operations, and drivers with commercial auto insurance covering liability, physical damage, hired and non-owned auto, and more.',
+      'Protect your company vehicles, fleet operations, and drivers with commercial auto insurance covering liability, physical damage, hired and non-owned auto, and.',
     heroHeading: 'Commercial Auto Insurance',
     heroSubheading:
       'Liability and physical damage coverage for company-owned vehicles, hired autos, non-owned vehicles, and fleet operations of all sizes.',
@@ -380,9 +380,9 @@ export const coverages = [
   {
     slug: 'cyber-liability',
     title: 'Cyber Liability Insurance',
-    metaTitle: 'Cyber Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Cyber Liability Insurance for Businesses',
     metaDescription:
-      'Protect your business from data breaches, ransomware attacks, privacy liability, and the financial fallout of cyber incidents with comprehensive cyber liability insurance.',
+      'Protect your business from data breaches, ransomware attacks, privacy liability, and the financial fallout of cyber incidents with comprehensive cyber.',
     heroHeading: 'Cyber Liability Insurance',
     heroSubheading:
       'Protection against data breaches, ransomware, business email compromise, privacy liability, and the full spectrum of cyber threats facing modern businesses.',
@@ -445,9 +445,9 @@ export const coverages = [
   {
     slug: 'directors-officers',
     title: 'Directors & Officers Liability Insurance',
-    metaTitle: 'Directors & Officers Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Directors & Officers Liability Insurance for Businesses',
     metaDescription:
-      'D&O liability insurance protecting company directors, officers, and the organization against claims of mismanagement, breach of fiduciary duty, and corporate governance failures.',
+      'D&O liability insurance protecting company directors, officers, and the organization against claims of mismanagement, breach of fiduciary duty, and corporate.',
     heroHeading: 'Directors & Officers Liability Insurance',
     heroSubheading:
       'Personal asset protection for directors and officers and entity coverage for the organization against claims of mismanagement, fiduciary breaches, and governance failures.',
@@ -506,9 +506,9 @@ export const coverages = [
   {
     slug: 'umbrella-excess-liability',
     title: 'Umbrella & Excess Liability Insurance',
-    metaTitle: 'Umbrella & Excess Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Umbrella & Excess Liability Insurance for Businesses',
     metaDescription:
-      'Additional liability limits above your underlying general liability, auto, and employers liability policies with commercial umbrella and excess liability coverage.',
+      'Additional liability limits above your underlying general liability, auto, and employers liability policies with commercial umbrella and excess liability.',
     heroHeading: 'Umbrella & Excess Liability Insurance',
     heroSubheading:
       'Additional layers of liability protection that extend beyond the limits of your underlying general liability, commercial auto, and employers liability policies.',
@@ -567,7 +567,7 @@ export const coverages = [
   {
     slug: 'employment-practices-liability',
     title: 'Employment Practices Liability Insurance',
-    metaTitle: 'Employment Practices Liability Insurance for Businesses | ALKEME Insurance Services',
+    metaTitle: 'Employment Practices Liability Insurance for Businesses',
     metaDescription:
       'Protect your business from wrongful termination, discrimination, harassment, and retaliation claims with employment practices liability insurance.',
     heroHeading: 'Employment Practices Liability Insurance',
